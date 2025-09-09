@@ -1,2 +1,0 @@
-[[Civitas Veretia]]
-[[Gnome]]

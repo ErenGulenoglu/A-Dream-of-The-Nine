@@ -1,2 +1,0 @@
-- - -
-Arbitria acts central administrative cell of The Church of The Eight, and is located within [[Ewyngard]], the capital city of the [[Mirna]]. Saint Lucron, also known as "The City Within City", got its name after [[Lexicon#^Lucron|Lucron The Pure]], the prophet of [[Lexicon#^TheEight|the Eight]]. Structurally, it is a great marble basilica with high dome. It's construction started with Lucron and his apostates, creating the Hall of Reflections, where descriptions of each eight gods are carved on eight marble altars.

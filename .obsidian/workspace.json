@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "0e12de98c5208d32",
+    "id": "7e8ea42a4007b1f4",
     "type": "split",
     "children": [
       {
-        "id": "e1d2e56878179d62",
+        "id": "5ec6d82e7f2bdd24",
         "type": "tabs",
         "children": [
           {
-            "id": "ea6dda0b98a0027c",
+            "id": "f84d77d4deb8d31a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "64b59276464b0405",
+    "id": "b59f33f138bc5a11",
     "type": "split",
     "children": [
       {
-        "id": "dd9f970ebc3eeccd",
+        "id": "420460c529f01adf",
         "type": "tabs",
         "children": [
           {
-            "id": "e993ca9ac3318275",
+            "id": "0212439414b4a9ee",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "2951857d01e69e82",
+            "id": "3b32b19d1cce3269",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "1de0bd21ff298928",
+            "id": "7d2f8d85b0b0a5a1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "b2b1e9f4a4161004",
+    "id": "af39ae8d8e1021dc",
     "type": "split",
     "children": [
       {
-        "id": "af3c4c6e920cf947",
+        "id": "1e00eb1444b1a630",
         "type": "tabs",
         "children": [
           {
-            "id": "24ddfee4b65cf0ee",
+            "id": "fb1c5a01239cdea7",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "d5cba3255ada30c6",
+            "id": "1273d5c6b6a171dd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +116,7 @@
             }
           },
           {
-            "id": "6dd74d31887f1848",
+            "id": "6fa52804e6080f6b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +131,7 @@
             }
           },
           {
-            "id": "1d7f7c26c8898543",
+            "id": "a346f583231574c9",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -158,9 +158,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea6dda0b98a0027c",
-  "lastOpenFiles": []
+  "active": "f84d77d4deb8d31a",
+  "lastOpenFiles": [
+    "Concepts on Development/Alf Stone.md",
+    "Concepts on Development/Developing Concepts.md",
+    "Concepts on Development/Greystones.md",
+    "Concepts on Development/Small Kingdoms.md",
+    "A Dream of The Nine/README.md",
+    "Concepts on Development",
+    "Welcome.md",
+    "Notes on Rome.md",
+    "Lexicon.md",
+    "Campaign - Without A Sound/Sessions/Table 1 (Abandoned)/Without A Sound - Bölüm 2.md",
+    "Campaign - Without A Sound/Sessions/Table 1 (Abandoned)/Without A Sound - Bölüm 1.md",
+    "Campaign - Without A Sound/Sessions/Table 2",
+    "Campaign - Without A Sound/Sessions/Table 1 (Abandoned)",
+    "Campaign - Without A Sound/NPCs/Typha, Friend of Forlornwoods.md",
+    "Campaign - Without A Sound/NPCs/Rurik Frostbeard.md",
+    "Campaign - Without A Sound/NPCs/Lord Vincas Orvyll.md",
+    "Campaign - Without A Sound/NPCs/Kjall, son of Kjall.md",
+    "Campaign - Without A Sound/NPCs/Iennos, The Shadow.md",
+    "Campaign - Without A Sound/NPCs/Father Quinten.md",
+    "Campaign - Without A Sound/NPCs/Esmé.md",
+    "Campaign - Without A Sound/NPCs/Ebrek Rubyhammer.md",
+    "Campaign - Without A Sound/NPCs/Doran of Greentown.md",
+    "Campaign - Without A Sound/NPCs/Cannibal Brits.md",
+    "Campaign - Without A Sound/Players (Abandoned)/Thokk Darkac.md",
+    "Campaign - Without A Sound/Players (Abandoned)/Kael Thorne, Hayalet.md",
+    "Campaign - Without A Sound/Players (Abandoned)/Jeremus.md",
+    "Campaign - Without A Sound/Players (Abandoned)/Faelgor Mosswhiff.md",
+    "Campaign - Without A Sound/Players (Abandoned)/Dex Tılsımel Malethor.md",
+    "Campaign - Without A Sound/Sessions",
+    "Campaign - Without A Sound/NPCs",
+    "Campaign - Without A Sound/Players (Abandoned)",
+    "Campaign - Without A Sound/Items",
+    "Campaign - Without A Sound",
+    "Assets/World Assets/Typha.png",
+    "Assets/World Assets/The Twins.png",
+    "Assets/World Assets/The Traveler.png",
+    "Assets/World Assets/The Root.png",
+    "Assets/World Assets/The Raven_black.png",
+    "Assets/World Assets/The Lightkeeper.png",
+    "Assets/World Assets/The Fighter.png",
+    "Assets/World Assets/The Artisan.png",
+    "Assets/World Assets/shadar_kai.png",
+    "Assets/World Assets/scout_camp.webp",
+    "Assets/World Assets",
+    "Assets/System Assets"
+  ]
 }

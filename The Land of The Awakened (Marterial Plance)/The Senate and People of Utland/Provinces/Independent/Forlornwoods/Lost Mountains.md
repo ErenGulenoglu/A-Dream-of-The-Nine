@@ -1,1 +1,0 @@
-kayip daglar uzaktaki daglar anlamina geliyor, ama simdi tamamen kayip daglar

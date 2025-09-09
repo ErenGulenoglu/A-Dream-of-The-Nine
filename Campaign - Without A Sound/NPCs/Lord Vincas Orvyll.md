@@ -1,0 +1,15 @@
+<div style="text-align: center;">
+  <img src="Lord Vincas Orvyll.png" alt="NPC Name" style="max-width: 450px;">
+</div>
+
+Lord Vincas Orvyll is a neutral aligned **warlock of the fiend**, the grandson of [[House Orvyll#^VincentasOrvyll|Lord Vincentas Orvyll]]. Vincas was born in 832 AA's spring. His father **Valdas Orvyll** and mother **Alma Orvyll** died during the siege of **Greenfort** in _the War of Flames_, when a castle tower collapsed under a blast of destructive magic. He survived, found in the arms of his mother beneath the rubble. After House Orvyll was banished from their seat in [[Greentown]], Vincas spent the rest of his life with his grandfather in [[King's Stand]]. Vincas always held him responsible for his parents’ deaths but could not leave him, for he was the last person alive of his family line.
+
+Growing up, Vincas imagined restoring [[House Orvyll]] to its glorious days and bringing prosperity and strength to the [[Forlornwoods]] once again. He is a twenty-five-year-old young lord with dark hair and dark eyes, wearing his house’s colors, who assumed his grandfather’s title and role. He was a talented student of the art of battle and loved hunting and tracking since he was ten. In his youth, he studied tactics by walking the battlefields once used by his ancestor [[House Orvyll#^VincasOrvyll|Lord Vincas Orvyll]], whom he was named after. Vincas does not carry the pride of aristocrats, knowing the state of his house, and often speaks to townsfolk in a respectful and equal tone, with calm manners. His demeanor towards others than his household members was distant.
+
+In 855 AA, he became fond of [[Esmé]], the owner of the **Moonflower** apothecary. From time to time, he visited her after dark. During those nights, he began to hear a voice calling to him from the fires, though he resisted it. In 856 AA, when goblin tribes entered the Forlornwoods, Vincas suggested to his grandfather an alliance with the [[The Tribe of the Bear of Forlornwoods|mountain tribes]], but Lord Vincentas was against the idea, as the house’s foundation had been built on banishing the mountain folk.
+
+In the summer of 857 AA, after thirty militia of King’s Stand were killed in a goblin ambush at Rock Stream Bridge, the family's long decline, his parents' deaths, and his grandfather's inaction drove him to listen to the whispers in the flames. He made a pact with **Orpharx** to save his people from death and enslavement.
+
+After secretly sickening his grandfather, he announced to the people of King’s Stand that Lord Vincentas had fallen ill, and that he would assume his duties until his recovery. Under his authority, he made an alliance with [[Kjall, son of Kjall]], and added twenty tribal warriors to the town's remaining militia. Many townsfolk despise him for allying with mountain men, but Vincas sees this as a necessity. He is currently working to bring more mountain folk from the northern [[Lost Mountains]], and has begun constructing a wooden fortification outside King’s Stand.
+
+Vincas cannot bring himself to kill his grandfather, even though he was the one who made him ill. The old man is the last reminder of his family.

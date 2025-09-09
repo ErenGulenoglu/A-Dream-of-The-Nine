@@ -1,0 +1,1 @@
+Small kingdoms are countries smaller relevant to SPQU who parted their governments from Kingdom of Utland when [[Chronology of Utland#^GalvynII|the Desperate King]] lost the war againts elves.
