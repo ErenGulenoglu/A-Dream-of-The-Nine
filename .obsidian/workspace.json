@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5ec6d82e7f2bdd24",
+        "id": "7fb64eca7c7537f3",
         "type": "tabs",
         "children": [
           {
-            "id": "f84d77d4deb8d31a",
+            "id": "e7e2132fdd8bbee3",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -163,8 +163,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f84d77d4deb8d31a",
+  "active": "0212439414b4a9ee",
   "lastOpenFiles": [
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/Greentown.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/Greenfort.md",
+    "Campaign - Without A Sound/NPCs/Lord Vincas Orvyll.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/Burned Claws Scout Camp.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations",
     "Concepts on Development/Alf Stone.md",
     "Concepts on Development/Developing Concepts.md",
     "Concepts on Development/Greystones.md",
@@ -180,7 +185,6 @@
     "Campaign - Without A Sound/Sessions/Table 1 (Abandoned)",
     "Campaign - Without A Sound/NPCs/Typha, Friend of Forlornwoods.md",
     "Campaign - Without A Sound/NPCs/Rurik Frostbeard.md",
-    "Campaign - Without A Sound/NPCs/Lord Vincas Orvyll.md",
     "Campaign - Without A Sound/NPCs/Kjall, son of Kjall.md",
     "Campaign - Without A Sound/NPCs/Iennos, The Shadow.md",
     "Campaign - Without A Sound/NPCs/Father Quinten.md",
@@ -191,8 +195,6 @@
     "Campaign - Without A Sound/Players (Abandoned)/Thokk Darkac.md",
     "Campaign - Without A Sound/Players (Abandoned)/Kael Thorne, Hayalet.md",
     "Campaign - Without A Sound/Players (Abandoned)/Jeremus.md",
-    "Campaign - Without A Sound/Players (Abandoned)/Faelgor Mosswhiff.md",
-    "Campaign - Without A Sound/Players (Abandoned)/Dex Tılsımel Malethor.md",
     "Campaign - Without A Sound/Sessions",
     "Campaign - Without A Sound/NPCs",
     "Campaign - Without A Sound/Players (Abandoned)",
@@ -208,7 +210,6 @@
     "Assets/World Assets/The Artisan.png",
     "Assets/World Assets/shadar_kai.png",
     "Assets/World Assets/scout_camp.webp",
-    "Assets/World Assets",
-    "Assets/System Assets"
+    "Assets/World Assets"
   ]
 }
