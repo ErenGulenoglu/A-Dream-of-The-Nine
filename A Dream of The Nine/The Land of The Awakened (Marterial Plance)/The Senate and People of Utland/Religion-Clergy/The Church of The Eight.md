@@ -24,15 +24,6 @@ The Church of The Eight is the official clerical administration within [[The Sen
 - **Supreme Tribunal:** Resolves conflicts between other tribunals, in dioceses and across the realm. Has highest judicial authority.
 - **Code Tribunal:** Handles cases within the Rules of Those Who Dream.
 - - -
-## Rituals
-- **Augury:** A ceremony of divination using the observation of birds to interpret the will of the gods. Priests of the Raven are trained to read auspices.
-- **Ordination**: This ritual is a holy act where the person is given spiritual authority and grace. This ceremony can be only done by bishops or higher ranked clergy. With this ceremony person ranks up within the Church, and at first gets accepted to the clergy. A clergy must receive the ritual of ordination each time they are raised, with different ritual elements.
-- **Marriage.** 
-- **Pray.** 
-- **Tonsuration.**
-- **Sacrifice.**
-- **Vows.**
-- - -
 ## Administration
 The administration of the church is spread on the Somnium through various big and small regional curias(courts). The central administration in the Saint Lucron is called Curia Octo, and it is the mechanism that all these curias across the continent connect. Curia Octo organizes under different dicasterium(departments), known as the main administrative bodies of the church.
 - **Dicasterium Doctrinae:** It is the department that oversees correct teaching of the church's doctrine.

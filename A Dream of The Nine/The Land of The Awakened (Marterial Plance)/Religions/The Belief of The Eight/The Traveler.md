@@ -7,7 +7,7 @@
       <em>The Judge,</em>
       <em>The Oarsman of the Dead</em>
     </span>
-    <span><em>Symbol: One winged raven.</em></span>
+    <span><em>Symbol: Lantern floating on the water.</em></span>
   </span>
 </span>
 <hr style="margin: 0;">
