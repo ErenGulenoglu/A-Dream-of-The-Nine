@@ -12,13 +12,13 @@
 - Reconstruction of the church of Arbitria finishes.
 
 **591 AA**
-- Owyn I von Ewfai unites the realm of man, and establishes Kingdom of Utland.
+- [[Owyn I von Ewfai]] unites the realm of man, and establishes Kingdom of Utland.
 
 **693 AA**
 - Mont Colère erupts.
-- King Malyr I von Ewfai gets ambushed in Forlornwoods.
+- King [[Malyr I von Ewfai]] gets ambushed in [[Forlornwoods]].
 - Green Companions saves the king from mountain tribes.
-- House Orvyll is established.
+- [[House Orvyll]] is established.
 
 **836 AA**
 - Kingdom of Utland invades Veretia.
@@ -27,7 +27,7 @@
 
 **837 AA**
 - House Orvyll surrenders after the siege of Greenfort.
-- House Orvyll gets banished to Western Forlornwoods.
+- House Orvyll gets banished to Eastern Forlornwoods.
 
 **838 AA**
 - Kingdom of Utland loses *the War of The Flames*. King Galvynn II von Ewfai dies in the field, his children are put to knife in Ewyngard.
@@ -35,12 +35,4 @@
 - The kingdom revokes itself and SPQU is formed under the initiation of Steward Heber Illarion.
 
 **857 AA**
-- *Without A Sound* starts.
-
-Ewyn I von Ewfai. ^EwynI
-
-Owyn I von Ewfai. ^OwynI
-
-Galvyn II von Ewfai. ^GalvynII
-
-Heber Illarion. ^HeberIllarion
+- *Without A Sound* starts (September).

@@ -51,9 +51,11 @@ In his early life, Vincentas earned acclaim in 808 AA by winning the melee at th
 
 He focused his fiefdom's economy on the processing of alf stones, seeking to fulfill his father's vision of establishing a market for magical items within the borders of Utland. To offset the costs of this endeavor, he withdrew from the broader mining sector, keeping only the alf stone mine beneath Greenfort operational. He did not expand the number of settlements under his rule. Instead of directing the growing population toward labor or agriculture, he enlisted many into his militia, strengthening his military presence in the region.
 
-In 836 AA, during the Kingdom of Utland’s invasion of [[Veretia]], Lord Vincentas Orvyll led his militia under the command of King [[Chronology of Utland#^GalvynII|Galvyn II von Ewfai]]. He commanded the 10th cohort of the **4th Regnant** and was among those who carried out the burning of the Alf of Veretia.
+In 836 AA, during the Kingdom of Utland’s invasion of [[Veretia]], Lord Vincentas Orvyll led his militia under the command of King [[Chronology of Utland#^GalvynII|Galvyn II von Ewfai]]. He commanded the 10th cohort of the **4th Regnant** and was among those who carried out the burning of the [[Alves|Alf]] of Veretia.
 
 A year later, during _the War of Flames_, he defended his stronghold at Greenfort against a siege by the Elven Coalition. The western settlements of his fiefdom were razed in the conflict. During the siege, his son **Valdas Orvyll** and Valdas’s wife **Alma Orvyll** were killed when a castle tower collapsed under a blast of destructive magic. Their five-year-old son **Vincas** survived, found in the arms of his mother beneath the rubble. Ultimately, Greenfort fell to the elven armies, who held control over powerful arcane forces. The victors cast a protective enchantment over the ruins, rendering Greenfort magically sealed and impassable. Lord Vincentas and the surviving populace, having surrendered, were banished to King’s Stand.
 
 After the collapse of the Kingdom of Utland, the political standing of House Orvyll was left ambiguous. Stripped of their former influence, they were unable to rebuild their destroyed settlements, nor did they possess the wealth they had once commanded. Following the peace conferences, the major trade routes were redirected through the southwest of [[Rosefall]], bypassing the Forlornwoods and further diminishing House Orvyll’s strategic and economic significance.
 <hr style="margin: 0;">
+
+***Lord [[Vincas Orvyll|Vincas II Orvyll]] (857 AA - Current)*** 

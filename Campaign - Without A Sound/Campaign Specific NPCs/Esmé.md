@@ -10,7 +10,7 @@ Esmé was a witch with the ambition to rule. She waited for years to see her inv
 
 She was the wife of [[House Orvyll#^VincasOrvyll|Lord Vincas Orvyll]], the founder of House Orvyll. After his death in 770 AA, she faked her own death shortly thereafter. She arrived in King’s Stand in 855 AA, having departed to the inner Utland following her disappearance. Now, she seeks to charm the mind of young Lord Vincas, to marry him and rule [[Forlornwoods]] by pulling his strings.
 
-In 855 AA, [[Lord Vincas Orvyll]], who had assumed the authority of his grandfather, became fond of Esmé and entered into a secret relationship with her. Esmé ensnared his mind by inducing horrific dreams, gradually weaving him into becoming a warlock and making a pact with Orpharx without his knowledge.
+In 855 AA, [[Vincas Orvyll]], who had assumed the authority of his grandfather, became fond of Esmé and entered into a secret relationship with her. Esmé ensnared his mind by inducing horrific dreams, gradually weaving him into becoming a warlock and making a pact with Orpharx without his knowledge.
 
 Esmé loved to take indirect routes to her goals, and instead of eliminating obstacles when she has the advantage, she makes greedy moves to cause her obstacles to eliminate each other.
 

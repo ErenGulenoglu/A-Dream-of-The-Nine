@@ -38,7 +38,7 @@
 
 **Söylentiler**
 - Kasaba halkı, **Lord Vincentas**’ın sağlığının giderek kötüleştiğinden endişeyle bahsediyor.
-- [[Lord Vincas Orvyll]]'ın dağ adamlarıyla yaptığı anlaşma, halk arasında ciddi bir huzursuzluk yaratıyor.
+- [[Vincas Orvyll]]'ın dağ adamlarıyla yaptığı anlaşma, halk arasında ciddi bir huzursuzluk yaratıyor.
 - Goblinlerin ormanın derinliklerine kadar ilerlediği konuşuluyor.
 - Ormanın "delirmeye" başladığı, geceleri içeriden tuhaf sesler ve hareketler geldiği söyleniyor.
 - Geçtiğimiz Temmuz ayında goblinler, kasabanın yakınlarındaki köprüde pusu kurarak 30 milisi öldürdü.

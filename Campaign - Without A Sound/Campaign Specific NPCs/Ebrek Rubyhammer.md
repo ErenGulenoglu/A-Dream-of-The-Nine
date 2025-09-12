@@ -1,6 +1,7 @@
 <div style="text-align: center;">
-  <img src="Ebrek_Rubyhammer_ghost.png" alt="NPC Name" style="max-width: 450px;">
+  <img src="Ebrek_Rubyhammer_ghost.png" alt="NPC Name" style="max-width: 400px;">
 </div>
+
 - From [[Clan Rubyhammer]].
 - Was persuaded by [[House Orvyll#^VincentasOrvyll|Lord Vincentas Orvyll]] to refine and shape [[Alf Stone|alf stones]], to produce magical items in [[Forlornwoods]] under [[House Orvyll]].
 - Master craftsman.
