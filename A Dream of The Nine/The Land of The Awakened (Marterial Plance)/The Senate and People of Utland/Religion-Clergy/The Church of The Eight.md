@@ -16,7 +16,7 @@ The Church of The Eight is the official clerical administration within [[The Sen
 - **Puer Oblatus:** This rank simply means "dedicated". They are typically children between 5 and 12 years old, often coming from wealthy families who are dedicated to the Church. This is a preparatory rank for religious life. The children are often placed in a monastic or cathedral for religious education. They are thought reading and writing, basic tenants of the belief of the Eight, helped with daily chores, assisted rituals, and served the church.
 
 **Laity:** It refers to all members of the the Church who are not part of the clergy and not members of religious orders who have taken formal vows (like monks or nuns).
-**Clergy:** Clergy are the ordained members of the Catholic Church who have received the Sacrament of Holy Orders and are officially authorized to lead, teach, and administer sacraments.
+**Clergy:** Clergy are the ordained members of the Church who have received the Sacrament of Holy Orders and are officially authorized to lead, teach, and administer sacraments.
 - - -
 ## Law
 **Praecepta Somniantium:** The Code Lucar is the official legal code of the church, laying out the structure of the church, rights and duties of the clergy, regulates rituals, governance, and punishments. These rules does not include moral teaching of the church, such as what is sin or not. These rules are established in the time of Vicar Lucar.

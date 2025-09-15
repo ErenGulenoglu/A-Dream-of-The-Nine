@@ -31,7 +31,7 @@
 
 **838 AA**
 - Kingdom of Utland loses *the War of The Flames*. King Galvynn II von Ewfai dies in the field, his children are put to knife in Ewyngard.
-- The kingdom starts to get dissolved as Small Kingdoms, tribes of the Blue desert declare independence.
+- The kingdom starts to get dissolved as Small Kingdoms, tribes of the Blue Desert declare independence.
 - The kingdom revokes itself and SPQU is formed under the initiation of Steward Heber Illarion.
 
 **857 AA**
