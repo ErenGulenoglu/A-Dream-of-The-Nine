@@ -4,63 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "4cc09e8c42fca684",
+        "id": "b031469a6c4d23fe",
         "type": "tabs",
         "children": [
           {
-            "id": "4d19ddbaba26e398",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "e21df030852e03d4",
+            "id": "299516f53ef74679",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Religion-Clergy/The Church of The Eight.md",
+                "file": "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Church of The Eight"
+              "title": "Without A Sound - Session 1"
             }
           },
           {
-            "id": "d7e7891665ae4466",
+            "id": "6f82578478f709ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Belief of The Eight.md",
-                "mode": "source",
+                "file": "Campaign - Without A Sound/Campaign Specific NPCs/Typha, Friend of Forlornwoods.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Belief of The Eight"
+              "title": "Typha, Friend of Forlornwoods"
             }
           },
           {
-            "id": "a65ab703384ffc36",
+            "id": "4870f5564618f822",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Chronology of Utland.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Chronology of Utland"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,24 +195,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a65ab703384ffc36",
+  "active": "299516f53ef74679",
   "lastOpenFiles": [
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Religion-Clergy/The Church of The Eight.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Belief of The Eight.md",
+    "Campaign - Without A Sound/Campaign Specific NPCs/Typha, Friend of Forlornwoods.md",
+    "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 1.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Orvyll/Doran of Greentown.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Chronology of Utland.md",
+    "Campaign - Without A Sound/Campaign Specific NPCs/Father Quinten.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Orvyll/Vincas Orvyll.md",
+    "Campaign - Without A Sound/Campaign Specific NPCs/Esmé.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Belief of The Eight.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/The Tribe of the Bear of Forlornwoods.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Orvyll/House Orvyll.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Orvyll/Vincentas Orvyll.md",
+    "Campaign - Without A Sound/Campaign Specific NPCs/Kjall, son of Kjall.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Religion-Clergy/The Church of The Eight.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The All-Mother.md",
     "Campaign - Without A Sound/Session 0.md",
     "Campaign - Without A Sound/Building Campaign - Without A Sound.md",
-    "Campaign - Without A Sound/Campaign Specific NPCs/Father Quinten.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Orvyll/House Orvyll.md",
     "Campaign - Without A Sound/Campaign Specific NPCs/Ebrek Rubyhammer.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/The Senate and People of Utland.md",
     "Campaign - Without A Sound/Sessions/Table 1 (Abandoned)/Without A Sound - Bölüm 1.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Religion-Clergy/Basilica Arbitria.md",
     "A Dream of The Nine/Myth/Artifacts/Alves.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Orvyll/Vincas Orvyll.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Traveler.md",
-    "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 1.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Fighter.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Geography of SPQU.md",
     "Campaign - Without A Sound/camp.md",
@@ -238,13 +233,7 @@
     "Assets/World Assets/The Root.png",
     "Assets/World Assets/The Lightkeeper.png",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/Greentown.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/Greenfort.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/Burned Claws Scout Camp.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations",
-    "Concepts on Development/Alf Stone.md",
-    "Concepts on Development/Developing Concepts.md",
-    "Concepts on Development/Greystones.md",
-    "Concepts on Development/Small Kingdoms.md",
     "Concepts on Development",
     "Campaign - Without A Sound/Sessions/Table 2",
     "Campaign - Without A Sound/Sessions/Table 1 (Abandoned)",

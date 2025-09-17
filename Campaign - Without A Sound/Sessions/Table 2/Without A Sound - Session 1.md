@@ -1,93 +1,97 @@
 ## Characters
 
-## **Sahne 0: Giriş**
-	"Alevler Savaşı’ndan yaklaşık yirmi yıl sonra...  Dünya bir Alf ağacını kaybetmiş, savaşın yıkıntıları hâlâ onarılmaya çalışılmaktadır. SPQU'da, Utland Krallığı'ndan geriye kalan soylular bir cumhuriyet kurarak eski otoritelerini yeniden konsolide etmeye uğraşmakta; başkent Ewyngard’daki mecliste ise senatörlerin ayrılıkçı ülkeler üzerinde yeniden fetih planlarını giderek daha yüksek sesle tartıştıkları günler yaşanmaktadır. 
-	Güneyde, Yüksek Orman ve Alçak Orman elfleri, Sonsuz Orman'ın güneyinde yükselen bir karanlıkla mücadele etmektedir. Veretia’da, şehri yerle bir olmuş Gnomelar hayata tutunmaya çalışmakta, gece gündüz çalışarak yeni yerleşkeler kurmaya uğraşmaktadır.
-	Diyardaki bu istikrarsızlığı sezmiş olan yeşil derili halklar, Dev Dağ Eteği tundralarından doğuya –uyanmakta olanların topraklarına– doğru hareket etmeye başlamıştır.
-	İşte böyle bir zamanda, karakterlerimiz SPQU’nun yalnızca kısmen parçası sayılan güneybatı sınırında, herhangi bir eyalete bağlı olmayan Orvyll Hanedanlığı’nın derebeyliğinde, Taş Nehri’nin toprağı ikiye böldüğü, kuzeyi ve güneyi Kayıp Dağlarla çevrili, Yalnız Ormanlar Vadisi’nin içindeki tek yerleşim olan King’s Stand kasabasına doğru –birbirlerinden habersiz şekilde– yola çıkmışlardır.
-	Yalnız Ormanlar, Alevler Savaşı’ndan kesinlikle nasibini almış bir yerdir. Savaş öncesinde burası, elf, insan ve cüce mallarının nadiren de olsa birlikte geçtiği kilit bir ticaret yolu üzerindeydi. Ancak savaşla birlikte harap olmuş ve isminin hakkını verircesine tekrar yapayalnız bir ormana dönüşmüştür.
-	Ve aslında buraya gelenler kişiler de ormanın ruhunu yansıtmaktadır: Kıyamet çoktan kopmuş, Gezgin onların canını almayı unutmuş, ve şimdi onlar küllerinden yeniden doğmaya çalışıyorlar."
+## Scene 0: Opening
+	"About twenty years after the War of Flames... The world has lost an Alf tree, and the ruins of the war are still being repaired. In SPQU, the nobles who remain from the Kingdom of Utland are attempting to establish a republic and reconsolidate their former authority; in the senate at the capital Ewyngard, days are marked by increasingly louder debates among senators about reconquest plans over the separatist states.
+	In the south, the High Forest and Low Forest elves are struggling against a darkness rising beyond the southern reaches of the Endless Forest. In Veretia, the Gnomes—whose city was reduced to rubble—strive to cling to life, working day and night to build new settlements.
+	Sensing this instability across the land, the green-skinned peoples have begun moving eastward from the tundras of the Giant’s Foothills—toward the lands of the awakened.
+	It is in such a time that our characters have set out—unknowingly of one another—toward the town of King’s Stand, the only settlement within the Lonely Forest Valley, where the Stone River splits the land in two, the north and south encircled by the Lost Mountains. The town lies within the fiefdom of the Orvyll Dynasty, on the southwestern frontier that is only partially considered part of SPQU and bound to no province.
+	The Lonely Forest is indeed a place deeply scarred by the War of Flames. Before the war, this was a vital trade route—though rarely—where elven, human, and dwarven goods crossed paths. But with the war it was devastated, and, true to its name, it once again became a forest utterly alone.
+	And in truth, those who come here mirror the spirit of the forest itself: the apocalypse has long since come, the Wanderer has forgotten to claim their souls, and now they struggle to be reborn from their own ashes."
+## Scene 1: By the Fire  
+	"In such a place, right in the middle of September, on an autumn evening… On the eastern outskirts of the Lonely Forest, about an hour before nightfall, along the main stone road… Amidst the sounds of insects and the chirping of birds; within the green thickets of pines and conifers, someone walks along, their clothes carrying the dust and soil of the road."
+-  One or more of the players travels towards [[King's Stand]].
+- By the roadside, in a small clearing between the trees, a campfire is burning. A bag has been left by the fire. Here, another player (or players) can be seen. Let the characters introduce themselves. Encourage the characters to stay at the camp together.
+- Shortly after, another player witnesses the same scene and approaches along the main road.
+- Give players time for roleplay. Allow them the opportunity to introduce themselves.
+- And as night falls, from the forest, strange beings begin to follow one of the players: their bodies appear humanoid at first, but upon closer look are covered with thorns, vines, and leaves; their skin resembles tree bark, and they move with an uncanny, trembling motion. Some are small, some large—yet all seem like living fragments of the forest itself. Combat.
+- Long rest at the camp. The beginning of the journey to King’s Stand.
+## Scene 2.1: Journey Through the Forest
+	"You set out westward through the forest. The main road, long untouched by caravans, is covered in moss upon its stone paving, in places mingling with soil. Along the way, various birds and squirrels move about in the trees, watching you as you pass. From time to time, wild animals such as deer, boars, skunks, and badgers appear. The journey of about six hours passes without incident."
+- Ask the party for their marching order.
+- Ask the players if they want to do anything during the journey (e.g., gathering plants).
+- **Passive Perception ≥ 15**: They notice, out of the corner of their eye, a human-sized dark silhouette watching the party from within the forest. When they turn their head, the silhouette vanishes. _(Note: This is the ghost of a former human druid who has turned into a tree within the forest.)_
+## Scene 2.2: The End of the Road
+	"At the end of six hours, the stone road curves southward, where a second side path cleared from the forest appears. Following this path, the Lonely Mountains to the south begin to rise on the horizon, and the incline gradually levels out. By the roadside, eight or nine large tents have been set up. Right at the road’s edge, you see two men sitting on the stumps of felled trees half-buried in the soil.
+	
+	One is of medium height, wearing a leather headpiece adorned with tusk-shaped ornaments curling on both sides. He has on armor made of a mix of fur and leather, and at his belt hang two axes crafted of bone and bronze.
+	
+	The other wears no armor, his chest and stomach bare. Draped across his back is a brown bearskin, and in his hands he holds a massive greataxe. His face is almost completely hidden beneath long white-blond hair and beard; he appears to be in his fifties and is of a notably large build."
+- [[Kjall, son of Kjall|Kjall, Kjall’s son]], chief of the [[The Tribe of the Bear of Forlornwoods|Forlornwoods’ Bear Tribe]]. He stands on the main road, keeping watch together with Ulf.
+	- Ulf is utterly loyal to Kjall, a man with a scruffy beard, slow speech, and a voice that seems to come from deep in his throat.
+- These individuals are unfamiliar to the players; they do not resemble the people of SPQU and look foreign and unusual.
+- Kjall asks the party who they are and what business they have in these lands. He attempts to extort 1 gold from the strangers.
+## Scene 3: King's Stand
+	"As you continue along the road, a structure appears on a slightly elevated hill. It is a church of the Eight; a bell tower rises above its dome, and many bird nests are visible on the tower. As the road levels out completely, the stone pavement beneath your feet gives way to a dirt path, and the town of King’s Stand comes fully into view before you.
+	
+	King’s Stand is built in a clearing created by cutting down trees within the forest. It consists of approximately 100–120 buildings; most are wooden, though a few stone structures stand out among them. Despite being located within the Lonely Forest, the small crowds walking its streets shows you a rare sight of togetherness in this far land.
+	
+	In the center of the town, a small manor-like building flies a flag from its rooftop. The flag is green and yellow, with an arrow symbol passing through trees at its center. This is clearly the coat of arms of the local dynasty. Around the town, a wooden defensive wall is under construction, still incomplete."
+- Give the players time to explore King’s Stand.
 
-## **Sahne 1: Ateş Başı**  
-	"Böyle bir yerde, tam da Eylül ayının ortasında, bir sonbahar akşamı vakti... Yalnız Orman’ın doğu açıklarında, geceye yaklaşık 1 saat kala, ana taş yolun üzerinde… Böceklerin sesleri, kuşların cıvıltıları; çam ve iğne yapraklı ağaçlarla kaplı yeşil sıklıklar arasında, yolun tozunu ve toprağını toplamış kıyafetleriyle bir büyücü yürümektedir. Büyücünün kulakları bir elf gibi kıkırdak kısımında sivridir ama yüz hatları bir insandaki gibi daha az keskin ve sakal köklerine sahiptir, bütün günü yürüyerek geçirdiği her hâlinden bellidir."
-- Dex, King’s Stand’e doğru yolculuk eder.
-- Yol kenarında, ağaçların biraz açıklık bıraktığı bir alanda bir kamp ateşi yanmaktadır. Ateşin başında ufak bir çanta bırakılmıştır. Burada Hayaleti görürüz. Karakterler birbirlerini tanıtsınlar. Karakterleri kampta beraber kalmaya teşvik et.
-- Biraz sonra Thokk Darkac da aynı manzarayı görür ve o da anayoldan yürüyerek gelir.
-- Roleplay için oyunculara zaman ver. Oyunculara kendilerini tanıtma fırsatı ver.
-- Ve gece, ormandan Faelgor Mosswhiff’in peşinde, vücutları insan şeklinde gözüken ama yakından bakıldığında bedenleri diken, sarmaşık ve yapraklarla kaplı; derileri ağaç kabuğu gibi olan, garip bir şekilde titreyerek hareket eden, küçük ve büyük yapılı, ormanın bir parçası gibi görünen varlıklar yaklaşır. Combat.
-- Kampta long rest. King’s Stand’e yolculuğun başlangıcı.
+**Rumors**
+- The townsfolk speak with concern about Lord [[Vincentas Orvyll|Vincentas]]’s deteriorating health.
+- [[Vincas Orvyll]]’s dealings with the mountain men have caused significant unease among the people.
+- Goblins are said to have advanced deep into the forest.
+- The forest is reportedly "going mad," with strange noises and movements coming from within at night.
+- Last July, goblins ambushed and killed 30 militiamen at the bridge that connects the Stone River.
 
-## **Sahne 2.1: Ormanda Yolculuk**
-	Ormandan batıya doğru yolculuğa başlıyorsunuz. Ana yol, uzun süredir kervan geçmediği için taş döşemeleri yosunla kaplanmış, yer yer toprakla karışmış. Yol boyunca çeşitli kuşlar ve sincaplar ağaçlarda gezinirken sizi izliyor. Arada sırada geyik, yaban domuzu, kokarca, porsuk gibi yabani hayvanlar görülüyor. Yaklaşık 6 saatlik yolculuk sorunsuz geçiyor.
-- Partiye yürüyüş sırasını sor.
-- Oyunculara yolculuk sırasında bir şey yapmak isteyip istemediklerini sor. (Bitki toplamak vs.)
-- **Passive Perception ≥ 15** olanlar: Ormanın içinden insan boyutlarında, karanlık bir siluetin partiyi izlediğini göz ucuyla fark ederi. Başınızı çevirdiğinizde siluet kaybolur. (Not: Bu, ormanda agac haline gelmis eski bir insan druid hayaletidir.)
+Those in the party who notice the healers are told that Lord Vincentas has been ill for a long time. They are advised to try their luck at the Orvyll Manor.
 
-## **Sahne 2.2: Yolun Sonu**
-	Altı saatin sonunda taş yol güney yönünde kıvrılıyor, burada ormandan temizlenmiş ikinci bir yan yol beliriyor. Bu yolu takip ettiğinizde güneydeki Yalnız Dağlar ufukta görünmeye başlıyor, yokuş da yavaş yavaş düzleşiyor. Yolun kenarında sekiz-dokuz tane büyük çadır kurulmuş. Hemen yol kenarında, toprağa gömülü kalmış kesilmiş ağaç gövdelerinin üstüne oturmuş iki adam görüyorsunuz. Bir tanesi orta boylu, başında iki yandan kıvrılan domuz dişi şeklinde süsleri olan deri bir başlık var. Üzerinde kürk ve deri karışımı bir zırh, belinde kemikten ve bronzdan yapılmış iki balta taşıyor. Diğeri zırhsız, göğsü ve karnı açıkta. Sırtında kahverengi bir ayı postu var, elinde büyük bir greataxe tutuyor. Yüzü uzun beyaz-sarı saçları ve sakalıyla neredeyse tamamen kapalı, ellili yaşlarında ve oldukça iri yapılı biri.
-- [[Kjall, son of Kjall|Kjall, Kjall’ın oğlu]], [[The Tribe of the Bear of Forlornwoods|Forlornwoods’un Ayı Kabilesi]]'nin şefi. Ana yol üzerinde, Ulf birlikte nöbet tutuyor. 
-	- Ulf Kjall'a son derece sadık, kirli sakallı, yavaş konuşan, sesi boğazından çıkan bir adamdır.
-- Oyuncular için bu kişiler tanıdık gelmez; SPQU halkına benzemiyorlar, görünüşleri yabancı ve alışılmadık.  
-- Kjall, partinin kim olduklarını ve bu topraklarda ne işleri olduğunu sorar.
+**Quest: The Ailing Lord**  
+[[Doran of Greentown]] stands watch in front of the Orvyll Manor. Adventurers passing by catch his attention. If he deems them trustworthy and competent, he will tell them of an important task.
+- Lord Vincentas has been struggling with a severe illness since July. Despite all efforts, the town’s priest [[Father Quinten|Quinten]] and healer [[Esmé]] have been unable to cure him.
+- Esmé has indicated that only a rare plant found deep within the forest, from a special tree, could be the cure for this illness.
+- However, due to the increasing goblin threat, the town cannot send soldiers into the forest.
+- Doran will offer this task to the adventurers only if he judges them to be sufficiently reliable and capable. Those who accept the quest will be generously rewarded by Lord Vincas.
+- Esmé is the person with the most knowledge about the sought ingredient.
+    - She notes that the “plant” is not a plant in the usual sense.
+    - The cure originates from a crimson, fist-sized crystal that forms at the heart of a special tree. Its appearance resembles a human heart.
+    - This crystal is a magical talisman capable of curing nearly any disease in the human body. Esmé claims she can make a medicine from this crystal to treat Lord Vincentas.
+    - Esmé recalls noticing such a tree while gathering herbs in the forest in the past, but abandoned the attempt to approach it because an owlbear lived nearby.
+    - The tree’s location is approximately 5–6 hours from the town and lies deep within the forest.
+## Scene 4: Journey to the Magical Tree
+- Ask the players, “Who walks in front, and who stays at the back?” to clarify their marching order.
+- During the journey, have someone make a **DC 12 Survival** check. On a success, they notice **footprints from goblins and wolf-like creatures—larger than normal wolves—that passed through 2–3 hours earlier**.
+- If they choose to follow the tracks, proceed to the **Goblin Scouts** scene.
+- If they say, “We’re going straight to the tree,” start the **Lovers' Fey Tree** scene.
+## Scene 5: The Lovers’ Fey Tree
+	"After a five-hour journey, the familiar forest texture begins to change with its dark green, thorny leaves. Broad-leaved plants and shrubs start to appear among the usual foliage. Even tree species not commonly seen in this forest, such as oaks and poplars, begin to emerge."
+- Those with **Passive Perception 15 or higher** notice shapes on the bark of certain trees.
+- Upon closer inspection, it becomes clear that these shapes are **symbols in the Druidic language**.
+- The symbols read: **“The friendly Owlbear protects the forest.”**
+ 
+``` 
+"After a five-hour journey, the familiar forest texture begins to change. The dark green, thorny leaves of the usual foliage are now interspersed with broad-leaved plants and shrubs. Even tree species not commonly seen in this forest, such as oaks and poplars, start to appear.
 
-## **Sahne 3: King's Stand**
-	Yola devam ettiğinizde ufukta, yüksekçe bir tepenin üzerine inşa edilmiş bir yapı beliriyor. Sekizli’nin bir kilisesi bu; kubbesinin üzerinde bir çan kulesi yükseliyor ve kulede birçok kuş yuvası göze çarpıyor. Yol tamamen düzleştiğinde, ayaklarınızın altındaki taş zemin yerini toprak yola bırakıyor ve King's Stand kasabası önünüzde tümüyle görünür hale geliyor. 
-	King's Stand, ormanın içinde ağaçların kesilerek açılmış bir alana kurulmuş. Yaklaşık 100-120 binadan oluşuyor; çoğu ahşap, ancak aralarda taş ile yapılmış birkaç bina da dikkat çekiyor. Yalnız Orman’ın içinde yer almasına rağmen, sokaklarında yürüyen kalabalığa bakılırsa bu kasaba pek de yalnız değil. 
-	Kasabanın merkezinde, küçük bir malikane görünümündeki binanın tepesinde bir bayrak dalgalanıyor. Bayrak yeşil ve sarı renklere sahip, ortasında ağaçların arasından geçen bir ok simgesi bulunuyor. Bu açıkça bir hanedan arması. Kasabanın çevresindeyse henüz tamamlanmamış, tahta bir savunma duvarı inşaatı sürüyor.
-- Oyuncularin [[King's Stand]]'de gezmesi icin kesif zamani.
+Despite the lack of a clear path or trail, the forest gradually opens up as you move forward. An ancient tree comes into view; its leaves are shades of yellow and brown, and its roots protrude from the ground like veins. Fireflies hover around it, and it radiates a magical presence — this must be the tree you are seeking.
 
-**Söylentiler**
-- Kasaba halkı, **Lord Vincentas**’ın sağlığının giderek kötüleştiğinden endişeyle bahsediyor.
-- [[Vincas Orvyll]]'ın dağ adamlarıyla yaptığı anlaşma, halk arasında ciddi bir huzursuzluk yaratıyor.
-- Goblinlerin ormanın derinliklerine kadar ilerlediği konuşuluyor.
-- Ormanın "delirmeye" başladığı, geceleri içeriden tuhaf sesler ve hareketler geldiği söyleniyor.
-- Geçtiğimiz Temmuz ayında goblinler, kasabanın yakınlarındaki köprüde pusu kurarak 30 milisi öldürdü.
-
-Partideki sifacilari goren kisiler onlara Lord Vincentas'in uzun suredir hasta oldugunu soyler. Onlara Orvyll Malikanesine gidip sanslarini denemelerini tavsiye eder.
-
-**Gorev: Hasta Lord**
-[[Doran of Greentown]], Orvyll Malikanesi'nin önünde nöbet tutmaktadır. Malikanenin önünden geçen maceracılar dikkatini çeker. Eğer bu kişilerin güvenilir ve becerikli olduklarına kanaat getirirse, onlara önemli bir görevden söz eder.
-- **Lord Vincentas**, Temmuz ayından bu yana ağır bir hastalıkla mücadele etmektedir. Kasabanın rahibi **Marlon** ve şifacısı [[Esmé]], tüm çabalarına rağmen onu iyileştirememiştir.
-- **Esmé**, yalnızca ormanın derinliklerinde bulunan, özel bir ağaçtan elde edilen nadir bir bitkinin bu hastalığa çare olabileceğini belirtmiştir.
-- Ancak artan goblin tehdidi nedeniyle, kasaba ormanın içlerine asker gönderememektedir.
-- Doran, maceracılara bu görevi yalnızca yeterince güvenilir ve ehil olduklarına kanaat getirirse teklif eder. Görevi üstlenenlere, Lord Vincas tarafından cömert bir ödül verilecektir.
-- **Esmé**, aranan bileşen hakkında en fazla bilgiye sahip kişidir.
-	- Bitkinin aslında klasik anlamda bir "bitki" olmadığını belirtir.
-	- Şifanın kaynağı, **özel bir ağacın kalbinde** oluşan **kızıl renkli, yumruk büyüklüğünde bir kristaldir**. Görünümü, tıpkı bir insan kalbini andırır.
-	- Bu kristal, insan bedenindeki hemen her türlü hastalığı tedavi edebilecek güçte **büyülü bir tılsım** niteliği taşımaktadır. Esmé bu kristalden bir ilaç yapıp Lord Vincentas'ı tedavi edebileceğini söyler.
-	- Esmé, geçmişte ormanda bitki toplarken böyle bir ağacın varlığını fark ettiğini, ancak **ağacın yakınlarında bir owlbear** yaşadığı için yaklaşmaktan vazgeçtiğini söyler.
-	- Ağacın konumu, **kasabadan yaklaşık 5-6 saat** uzaklıktadır ve ormanın iç bölgelerinde yer alır.
-## **Sahne 4: Büyülü Ağaca Yolculuk**
-- Oyunculara “Kim önde yürüyor, kim arkada?” diye sor. Yürüyüş sıralarını netleştir.
-- Yolculuk sırasında birine **DC 12 Survival** attır. Başarılı olursa, yolda **2-3 saat önce geçmiş goblin ve kurda benzer ama kurtlara ait olamayacak büyüklükte ayak izleri** fark eder.
-- Eğer izleri takip ederlerse, **Goblin İzcileri** sahnesine geç.
-- Yok, “biz direkt ağaca gidiyoruz” derlerse, **Dryad Ağacı** sahnesi başlasın.
-
-## **Sahne 5: Aşıkların Fey Ağacı**
-
-	Beş saatlik yolculuğun ardından, koyu yeşil ve dikenli yapraklarıyla bildiğiniz orman dokusu değişmeye başlıyor. Aralara geniş yapraklı bitkiler ve çalılar karışıyor. Hatta normalde bu ormanda pek rastlanmayan meşe ve kavak gibi ağaç türleri de görünür hale geliyor.
-- **Passive Perception’u 15 ve üzeri olanlar**, bazı ağaçların kabuklarında şekiller fark eder.
-- Dikkatlice bakıldığında bu şekillerin **Druidic** dilinde semboller olduğu anlaşılır.
-- Sembollerde şöyle yazıyor:  **“Dost Owlbear ormanı korur.”**
-
-`Yol veya belirgin bir patika olmamasına rağmen, orman ilerledikçe kendi kendine aralanmaya başlıyor. Karşınıza yaşlı bir ağaç çıkıyor; yaprakları sarı ve kahverenginin tonlarında, kökleri topraktan damarlar gibi dışarı çıkmış, etrafında ateş böcekleri süzülüyor. Büyülü bir varlık olduğu şüphesiz — aradığınız ağaç bu olmalı. Ağacın hemen yanında ise devasa bir yaratık uyuyor. Baş kısmı bir baykuşu andırıyor, gagası testere dişleri gibi tırtıklı. Tüyleri gri baykuş tüyü gibi ama vücudu neredeyse bir ayı kadar iri ve kaslı. Etrafındaki toprakta sayısız pençe izi var.`
-
-- **Owlbear**’in adı **Burbur**. Goblinler onu batı ormandan sürmüş. O da nehri geçip [[Typha, Friend of Forlornwoods]]’nın koruduğu [[Lovers' Fey Tree]]'ye sığınmış. Şimdi tek derdi, hem goblinleri hem başkalarını o bölgeden uzak tutmak. Ağaca yaklaşanları önce **uyarır**. Dinlemezlerse saldırır. Savaş çıkarsa, karakterler ağacın çevresinden **birkaç saat uzaklaşana kadar** onları takip eder, tehdit geçene kadar peşlerini bırakmaz. Burbur sesleri uzatarak konusur.
-- Typha ağacın arkasına saklanmıştır.  
-	- Sesini ağacın içinden geliyormuş gibi yansıtarak ağaca yaklaşanlara konuşur. 
-	- Bu bölgenin eski bir elf savaşçısının mezarı olduğunu söyler. 
-	- Zarar vermeye geldilerse gitmelerini, değilse neden geldiklerini sorar.
-- Oyunculara güvenirse, ağacın arkasından çıkar.  
-	- İyi roleplay ile **Persuasion Check gerekmez**. Aksi hâlde **Persuasion DC 15**.
-- Oyuncular ağacın kalbinde yaşayan kristal için geldiklerini belirtirse:
-	- Kristali veremeyeceğini söyler.
-	- Ormanın derinliklerinde başka bir [[Cursed Blight Tree|fey ağacının]] bulunduğunu belirtir. 
-	- Bu ağaçta da bir **kalp taşı** vardır.
-	- Ancak bu ağaç hastalık yaymakta, bitkileri agresif şekilde dikenli ve sert büyümeye zorlamakta, doğayı bozmaktadır.
-	- Typha, kökleri sayesinde bu ağacın yerini bilmektedir. Ağaç, insanların yaptığı yolun karşısında, ormanın içinde ve dağdan çıkan nehrin kıyısındadır.
-	- Eğer bu ağacın hastalık yaymasını durdururlarsa, onlara burada, ormanda ağacın korumasında güvenli bir şekilde istedikleri zaman kalabileceklerinin sözünü verir ve onlara doğa ile alakalı sordukları şeylere yardımcı olur.
-
-## **Sahne 6: Goblin İzcileri**
+Right beside the tree, a massive creature sleeps. Its head resembles that of an owl, with a serrated, saw-like beak. Its feathers are gray like an owl’s, but its body is nearly as large and muscular as a bear’s. Countless claw marks mar the surrounding soil." 
+```
+- **The Owlbear**’s name is **Burbur**. The goblins drove him out of the western forest. He crossed the river and took refuge at the [[Lovers' Fey Tree]], protected by [[Typha, Friend of Forlornwoods]]. His only concern now is to keep both goblins and intruders away from the area. Those who approach the tree are first **warned**. If they do not heed the warning, he attacks. If combat ensues, the characters are pursued around the tree **until they are several hours away**, and he does not relent until the threat is gone. Burbur communicates with extended vocalizations.
+- Typha is hiding behind the tree.
+	- She makes her voice sound as if it comes from within the tree when speaking to those who approach.
+	- She explains that this area is the grave of an ancient elven warrior.
+	- She asks them to leave if they have come to cause harm; otherwise, she inquires about their purpose.
+- If she trusts the players, she emerges from behind the tree.
+	- With good roleplay, **no Persuasion check is needed**. Otherwise, **Persuasion DC 15** applies.
+- If the players indicate they have come for the crystal living in the heart of the tree:
+	- She will say she cannot give them the crystal.
+	- She will point out that another [[Cursed Blight Tree|fey tree]] exists deeper in the forest.
+	- This tree also contains a **heart stone**.
+	- However, this tree spreads disease, forcing plants to grow aggressively with thorns and disrupting nature.
+	- Typha knows the location of this tree via its roots. The tree is across from a man-made path, inside the forest, and along the river coming from the mountain.
+	- If the players manage to stop this tree from spreading disease, she promises they may safely stay here under the tree’s protection whenever they wish, and she will help them with any nature-related questions. Until then, Typha does not want them around her lover's tomb.
+## Sahne 6: Goblin İzcileri
 Eğer oyuncular goblin izlerini takip ederek bu noktaya gelmişlerse, goblinler partinin yaklaştığından habersizdir. Ancak eğer parti ormanda ses çıkararak ilerlerse, goblinler onları fark eder ve pusuya düşürür. Bu karşılaşma, parti King's Stand’in yaklaşık 4 saat uzağındayken gerçekleşir.
 
 	Yolculuğunuz esnasında sizi sığ bir dereye getiriyor. Dere kenarına yaklaştığınızda, ıslak toprağın üzerinde bırakılmış izler görüyorsunuz. Bu izler derenin öbür tarafına geçip, sık ağaçların arasından büyükçe bir kayaya doğru devam ediyor.

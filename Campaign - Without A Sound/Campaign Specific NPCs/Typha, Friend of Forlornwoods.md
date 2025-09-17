@@ -2,7 +2,7 @@
   <img src="Typha.png" alt="NPC Name" style="max-width: 200px;">
 </div>
 
-**Typha** was a neutral aligned **dryad** bound to the [[Lovers' Fey Tree]] in [[Forlornwoods]]—the grave of her fallen lover. Though she wandered the lands surrounding the tree, it remained her home and tether to the mortal world. Among the woodland folk, she was known and accepted as a soul of nature.
+**Typha** was a Neutral aligned **dryad** bound to the [[Lovers' Fey Tree]] in [[Forlornwoods]]—the grave of her fallen lover. Though she wandered the lands surrounding the tree, it remained her home and tether to the mortal world. Among the woodland folk, she was known and accepted as a soul of nature.
 
 Her lover had been an elf who perished during _the Era of the Moon_, slain while fighting against *Followers of The Ninth*. His absence in the Feywild brought her great grief. In mourning, she descended into the material plane and bound herself to his grave.
 

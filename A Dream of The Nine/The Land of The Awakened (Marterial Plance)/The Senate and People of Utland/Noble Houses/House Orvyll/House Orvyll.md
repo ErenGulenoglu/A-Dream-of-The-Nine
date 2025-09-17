@@ -42,7 +42,7 @@ In his final years, the lord sought to bring elven and gnomish master craftsmen 
 Lord Bertas died a year and a half later, while his son was still on the road returning. He did not live to see his vision fulfilled—the trade of magical goods crafted in Greentown never came to life in his time. He died at the age of 82.
 <hr style="margin: 0;">
 
-***Lord Vincentas Orvyll (827 AA - Current)*** 
+***Lord [[Vincentas Orvyll]] (827 AA - Current)*** 
 ^VincentasOrvyll
 
 Lord Vincentas Orvyll was born in the fall of 787 AA. He succeeded his father at the age of forty, upon returning from a diplomatic mission to the [[Broken Mountains]], bringing with him the renowned master craftsman [[Ebrek Rubyhammer]] to the Forlornwoods.
