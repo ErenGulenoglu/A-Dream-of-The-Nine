@@ -4,8 +4,8 @@
 	"About twenty years after the War of Flames... The world has lost an Alf tree, and the ruins of the war are still being repaired. In SPQU, the nobles who remain from the Kingdom of Utland are attempting to establish a republic and reconsolidate their former authority; in the senate at the capital Ewyngard, days are marked by increasingly louder debates among senators about reconquest plans over the separatist states.
 	In the south, the High Forest and Low Forest elves are struggling against a darkness rising beyond the southern reaches of the Endless Forest. In Veretia, the Gnomes—whose city was reduced to rubble—strive to cling to life, working day and night to build new settlements.
 	Sensing this instability across the land, the green-skinned peoples have begun moving eastward from the tundras of the Giant’s Foothills—toward the lands of the awakened.
-	It is in such a time that our characters have set out—unknowingly of one another—toward the town of King’s Stand, the only settlement within the Lonely Forest Valley, where the Stone River splits the land in two, the north and south encircled by the Lost Mountains. The town lies within the fiefdom of the Orvyll Dynasty, on the southwestern frontier that is only partially considered part of SPQU and bound to no province.
-	The Lonely Forest is indeed a place deeply scarred by the War of Flames. Before the war, this was a vital trade route—though rarely—where elven, human, and dwarven goods crossed paths. But with the war it was devastated, and, true to its name, it once again became a forest utterly alone.
+	It is in such a time that our characters have set out—unknowingly of one another—toward the town of King’s Stand, the only settlement within the Forlornwoods, where the Stone River splits the land in two, the north and south encircled by the Lost Mountains. The town lies within the fiefdom of the Orvyll Dynasty, on the southwestern frontier that is only partially considered part of SPQU and bound to no province.
+	The Forlornwoods indeed a place deeply scarred by the War of Flames. Before the war, this was a vital trade route—though rarely—where elven, human, and dwarven goods crossed paths. But with the war it was devastated, and, true to its name, it once again became a forest utterly alone.
 	And in truth, those who come here mirror the spirit of the forest itself: the apocalypse has long since come, the Wanderer has forgotten to claim their souls, and now they struggle to be reborn from their own ashes."
 ## Scene 1: By the Fire  
 	"In such a place, right in the middle of September, on an autumn evening… On the eastern outskirts of the Lonely Forest, about an hour before nightfall, along the main stone road… Amidst the sounds of insects and the chirping of birds; within the green thickets of pines and conifers, someone walks along, their clothes carrying the dust and soil of the road."
@@ -13,7 +13,7 @@
 - By the roadside, in a small clearing between the trees, a campfire is burning. A bag has been left by the fire. Here, another player (or players) can be seen. Let the characters introduce themselves. Encourage the characters to stay at the camp together.
 - Shortly after, another player witnesses the same scene and approaches along the main road.
 - Give players time for roleplay. Allow them the opportunity to introduce themselves.
-- And as night falls, from the forest, strange beings begin to follow one of the players: their bodies appear humanoid at first, but upon closer look are covered with thorns, vines, and leaves; their skin resembles tree bark, and they move with an uncanny, trembling motion. Some are small, some large—yet all seem like living fragments of the forest itself. Combat.
+- And as night falls, from the forest, strange beings begin to follow one of the players: their bodies appear humanoid at first, but upon closer look are covered with thorns, vines, and leaves; their skin resembles tree bark, and they move with an uncanny, trembling motion. Some are small, some large—yet all seem like living fragments of the forest itself. **Twig Blight**s and **Needle Blight**s.
 - Long rest at the camp. The beginning of the journey to King’s Stand.
 ## Scene 2.1: Journey Through the Forest
 	"You set out westward through the forest. The main road, long untouched by caravans, is covered in moss upon its stone paving, in places mingling with soil. Along the way, various birds and squirrels move about in the trees, watching you as you pass. From time to time, wild animals such as deer, boars, skunks, and badgers appear. The journey of about six hours passes without incident."
@@ -91,27 +91,27 @@ Right beside the tree, a massive creature sleeps. Its head resembles that of an 
 	- However, this tree spreads disease, forcing plants to grow aggressively with thorns and disrupting nature.
 	- Typha knows the location of this tree via its roots. The tree is across from a man-made path, inside the forest, and along the river coming from the mountain.
 	- If the players manage to stop this tree from spreading disease, she promises they may safely stay here under the tree’s protection whenever they wish, and she will help them with any nature-related questions. Until then, Typha does not want them around her lover's tomb.
-## Sahne 6: Goblin İzcileri
-Eğer oyuncular goblin izlerini takip ederek bu noktaya gelmişlerse, goblinler partinin yaklaştığından habersizdir. Ancak eğer parti ormanda ses çıkararak ilerlerse, goblinler onları fark eder ve pusuya düşürür. Bu karşılaşma, parti King's Stand’in yaklaşık 4 saat uzağındayken gerçekleşir.
+## Scene 6: Goblin Scouts
+If the players have followed the goblin tracks to this point, the goblins are unaware of the party’s approach. However, if the party makes noise while moving through the forest, the goblins notice them and set up an ambush. This encounter takes place when the party is about 4 hours away from King’s Stand.
 
-	Yolculuğunuz esnasında sizi sığ bir dereye getiriyor. Dere kenarına yaklaştığınızda, ıslak toprağın üzerinde bırakılmış izler görüyorsunuz. Bu izler derenin öbür tarafına geçip, sık ağaçların arasından büyükçe bir kayaya doğru devam ediyor.
+	"Your journey brings you to a shallow stream. As you approach its bank, you notice tracks left in the wet soil. The tracks cross to the other side of the stream and continue through the dense trees toward a large rock."
 
-**Karşılaşma Detayları**
-- **Goblinler:** 4 goblin, King's Stand'i gözlemledikten sonra üslerine dönerken burada kısa bir mola verir. İnsanların korkaklığına güvenerek tetikte olmadan dinlenmektedirler. Goblinlerin vücutlarının farklı kısımları yanmış ve iyileşmiştir. Bazılarının gözleri, bazılarının kolları, bazılarının da boyunları yanmıştır. 
-- **Pasif Algı (Passive Perception):** Goblinlerin _Stealth_ zarından daha yüksek pasif algıya sahip oyuncular, sürpriz turunda aksiyon alabilir.
-- **Stealth:** Goblinler için bir _Stealth_ zarı at. (Not: Ormanlık alanda olduklarından avantajlı olabilirler.)(Stealth Rolls: 12, 18, 25, 13)
-- **Sesli Yaklaşım Durumu:**
-    - 2 goblin büyük kayanın üzerine çıkar.
-    - 2 goblin ağaçların arkasına geçer.
-    - Kayanın üstündeki goblinler saldırı zarlarına **+2** bonus alır.
-    - Hem kayanın üzerinde hem de ağaçların arkasında olan goblinler **half cover** sebebiyle **AC +2** kazanır.
-- **Sessiz Yaklaşım Durumu:** Eğer parti gizlice yaklaşırsa, goblinler kayanın arkasında savunmasız şekilde dinleniyor hâlde bulunur.
-- **Kaçış:** Goblinler dövüşü kaybettiklerini anlarsa, kuzeybatıya—[[Burned Claws Scout Camp]]’a—doğru kaçmaya çalışırlar.
+**Encounter Details**
+- **Goblins (4 total):**  Recently scouted King’s Stand and are now resting on their way back to camp. They rely on the fear of men and are resting without much caution.  Each has visible burn scars: some on their eyes, others on arms or necks.
+- **Passive Perception:**  Any character whose Passive Perception beats the goblins’ *Stealth* roll can act during the surprise round.  
+- **Stealth Rolls (advantage in forest):** 12, 18, 25, 13  
+- **If the party is noisy:**
+	- 2 goblins climb onto the large rock.
+	- 2 hide behind trees.
+	- Rock goblins gain **+2 attack bonus**.
+	- All goblins behind cover (rock or trees) gain **+2 AC (half cover)**.  
+- **If the party is stealthy:** Goblins are caught resting, vulnerable behind the rock.
+- **Retreat:** If losing, the goblins attempt to flee northwest toward [[Burned Claws Scout Camp]].
 
-**Goblinler Ne Biliyor**
-Eğer karakterler buradaki goblinlerden birini yakalar ya da büyüyle etkilerse, goblin bazı faydalı bilgileri paylaşmaya ikna edilebilir:
-- Kabilelerinin adı [[Burned Claws Tribe]]. Şeflerinin adı [[Cannibal Brits|Yamyam Brits]]. Kabilenin ana üssü [[Greentown]]’dadır. Brits, kış gelmeden önce King's Stand’i ele geçirip ormandaki insan egemenliğini tamamen sona erdirmek istemektedir. Brits’in hobgoblin sağ kolları vardır ve [[Iennos, The Shadow|Gölge]] denilen bir mahlukatı yanından ayırmaz.
-- Ormanda iki ayrı kamp vardır. [[Shrine of Cleansing|Ana kamp]], ormanın güneyinde yıkılmış bir cüce mabedidir. [[Burned Claws Scout Camp|Ara kamp]] ise, ormanın içinde büyük bir kayalığın üzerine kurulmuş olan izci kampıdır.
-- İzci kampı, King's Stand’deki askeri gücün hareketlerini gözlemlemek için vardır. Ana kuvvet ise doğudaki cüce mabedinde toplanmaktadır.
-- İzci kampı aynı zamanda bir ikmal noktası olarak kullanılmaktadır. Greentown’dan gelen **Worg**lara bindirilmiş ikmal malzemeleri ve yeni askerler doğrudan güneydeki kampa sevk edilmektedir. Kampın etrafında tuzaklar kuruludur.
-- İzci kampında 7 goblin ve 1 bugbear bulunmaktadır. Bugbear’in adı Norr’dur. Khonn, Yamyam Brits’in teğmenlerinden biridir ve ormandaki izcilik faaliyetlerinden ve ikmal organizasyonundan sorumludur.
+**What the Goblins Know**  
+If the characters capture or magically influence one of the goblins here, the goblin can be persuaded to share some useful information:  
+- Their tribe is called the [[Burned Claws Tribe]]. Their chief’s name is [[Cannibal Brits]]. The tribe’s main stronghold is in [[Greentown]]. Brits wants to conquer King’s Stand before winter and end human dominance in the forest entirely. Brits has hobgoblin lieutenants and keeps a creature known as [[Iennos, The Shadow]] always at his side.  
+- There are two separate camps in the forest. The [[Shrine of Cleansing|main camp]] is a ruined dwarven temple in the south of the forest. The [[Burned Claws Scout Camp|scout camp]] is built atop a large rocky outcrop within the woods.  
+- The scout camp exists to monitor King’s Stand’s military movements. The main force, however, is gathered at the dwarven temple to the east.  
+- The scout camp also serves as a supply point. Supplies and new soldiers mounted on **worgs** are sent directly from Greentown to the southern camp. The camp is surrounded by traps.  
+- The scout camp currently houses 7 goblins and 1 bugbear. The bugbear’s name is **Norr**. **Norr** is one of Cannibal Brits’ lieutenants and is responsible for scouting operations and supply coordination in the forest.  
