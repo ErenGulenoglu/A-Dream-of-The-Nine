@@ -26,6 +26,8 @@ Forlornwoods was once the land of the [[The Tribe of the Bear of Forlornwoods]],
 
 Before the War of Flames, the people of House Orvyll inhabited [[Greentown]]. After the war, the human, dwarf, and halfling populations shifted to [[King's Stand]], leaving the western Forlornwoods to [[Burned Claws Tribe]] around 856 AA.
 
+In addition, [[Saltuarius Tribe]]—a small migrant gatherers—travelled in the forest seasonally.
+
 After _the War of Flames_, as the region grew more isolated, sightings of goblinoids became increasingly common.
 
 It is said that Forlornwoods still harbors ancient nature spirits who hide themselves from the sleepers.

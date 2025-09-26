@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/King's Stand.md",
-                "mode": "preview",
+                "file": "Campaign - Without A Sound/Sessions/Table 2/Session 2.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "King's Stand"
+              "title": "Session 2"
             }
           },
           {
@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Campaign - Without A Sound/Players/Robin Haddock/Robin Haddock.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -50,35 +50,63 @@
             }
           },
           {
-            "id": "d60728810ac1f5ea",
+            "id": "8343260da5319263",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Belief of The Eight.md",
+                "file": "Campaign - Without A Sound/Campaign Specific NPCs/Sialis.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Belief of The Eight"
+              "title": "Sialis"
             }
           },
           {
-            "id": "4fa5198ed8dd3bd4",
+            "id": "04d1291cd5e55b04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign - Without A Sound/Players/Cran Nolast/Cran Nolast.md",
+                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Orvyll/Vincas Orvyll.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vincas Orvyll"
+            }
+          },
+          {
+            "id": "12e32fceb886759f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Chronology of Utland.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cran Nolast"
+              "title": "Chronology of Utland"
+            }
+          },
+          {
+            "id": "d08eefabf7aa9440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/Forlornwoods.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forlornwoods"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "the land of awakene",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,13 +252,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf3024ef56fad08e",
+  "active": "8343260da5319263",
   "lastOpenFiles": [
+    "Assets/World Assets/Haddock.jpg",
+    "Assets/World Assets/Sialis.jpg",
+    "Campaign - Without A Sound/Players/Robin Haddock/Robin Haddock.md",
+    "Campaign - Without A Sound/Campaign Specific NPCs/Sialis.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Orvyll/Vincas Orvyll.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Culture of Utland.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Chronology of Utland.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Orvyll/Sir Vincentas Orvyll.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/Forlornwoods.md",
+    "Campaign - Without A Sound/Sessions/Table 2/Session 2.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/King's Stand.md",
     "Campaign - Without A Sound/Players/Cran Nolast/Cran Nolast.md",
     "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 1.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Belief of The Eight.md",
-    "Campaign - Without A Sound/Players/Robin Haddock/Robin Haddock.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/King's Stand.md",
     "Campaign - Without A Sound/Players/Helen Nolast/Helen Nolast lvl 1.pdf",
     "Campaign - Without A Sound/Players/Cran Nolast/Cran_Nolastcharacter.pdf",
     "Assets/World Assets/Typha.png",
@@ -242,11 +279,9 @@
     "Assets/World Assets/The Fighter.png",
     "Assets/World Assets/The Artisan.png",
     "Assets/World Assets/shadar_kai.png",
-    "Assets/World Assets/scout_camp.webp",
     "Campaign - Without A Sound/Players/Tommen of Al'Var/Tommen Al’Var - Level 1 Paladin.pdf",
     "Campaign - Without A Sound/Players/Helen Nolast/Helen Nolast.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Geography of SPQU.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Chronology of Utland.md",
     "Campaign - Without A Sound/Players/Robin Haddock/Robin Haddock 1.docx",
     "Campaign - Without A Sound/Players/Robin Haddock/Robin Haddock.docx",
     "Campaign - Without A Sound/Players/Robin Haddock",
@@ -264,12 +299,6 @@
     "Campaign - Without A Sound/Items/Diary of Assassin.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Religion-Clergy/The Church of The Eight.md",
     "Campaign - Without A Sound/Players (Abandoned)/Faelgor Mosswhiff.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/NPCs/Edelhard of Al'var.md",
-    "Campaign - Without A Sound/Campaign Specific NPCs/Typha, Friend of Forlornwoods.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Orvyll/Doran of Greentown.md",
-    "Campaign - Without A Sound/Campaign Specific NPCs/Father Quinten.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Orvyll/Vincas Orvyll.md",
-    "Campaign - Without A Sound/Campaign Specific NPCs/Esmé.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/The Tribe of the Bear of Forlornwoods.md"
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/NPCs/Edelhard of Al'var.md"
   ]
 }

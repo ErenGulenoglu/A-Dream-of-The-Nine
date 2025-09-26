@@ -39,7 +39,7 @@
 - Give the players time to explore King’s Stand.
 
 **Rumors**
-- The townsfolk speak with concern about Lord [[Vincentas Orvyll|Vincentas]]’s deteriorating health.
+- The townsfolk speak with concern about Lord [[Sir Vincentas Orvyll|Vincentas]]’s deteriorating health.
 - [[Vincas Orvyll]]’s dealings with the mountain men have caused significant unease among the people.
 - Goblins are said to have advanced deep into the forest.
 - The forest is reportedly "going mad," with strange noises and movements coming from within at night.
