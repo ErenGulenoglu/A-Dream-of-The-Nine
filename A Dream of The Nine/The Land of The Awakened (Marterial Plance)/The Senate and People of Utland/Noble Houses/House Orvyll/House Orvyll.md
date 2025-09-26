@@ -47,7 +47,7 @@ Lord Bertas died a year and a half later, while his son was still on the road re
 
 Lord Vincentas Orvyll was born in the fall of 787 AA. He succeeded his father at the age of forty, upon returning from a diplomatic mission to the [[Broken Mountains]], bringing with him the renowned master craftsman [[Ebrek Rubyhammer]] to the Forlornwoods.
 
-In his early life, Vincentas earned acclaim in 808 AA by winning the melee at the [[Tournament of Roses]], where he was knighted by [[House Rose#^JacquesI|Duke Jacques I Rose]].
+In his early life, Vincentas earned acclaim in 808 AA by defeating [[Sir Malekith Nolast]] in the final round of the melee at the [[Tournament of Roses]], where he was knighted by [[House Rose#^JacquesI|Duke Jacques I Rose]].
 
 He focused his fiefdom's economy on the processing of alf stones, seeking to fulfill his father's vision of establishing a market for magical items within the borders of Utland. To offset the costs of this endeavor, he withdrew from the broader mining sector, keeping only the alf stone mine beneath Greenfort operational. He did not expand the number of settlements under his rule. Instead of directing the growing population toward labor or agriculture, he enlisted many into his militia, strengthening his military presence in the region.
 
@@ -59,3 +59,4 @@ After the collapse of the Kingdom of Utland, the political standing of House Orv
 <hr style="margin: 0;">
 
 ***Lord [[Vincas Orvyll|Vincas II Orvyll]] (857 AA - Current)*** 
+Lord Vincas Orvyll took over his grandfather's duties as regent until he recovers from his sickness.
