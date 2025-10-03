@@ -6,7 +6,7 @@
 
 <hr style="margin: 0;">
 
-**House Orvyll** is a noble house independent from any province of the republic. Their seat of [[King's Stand]] is located in [[Forlornwoods]]. The are the farthest house to [[Ewyngard]]. Historically, a prominent rising family in the west, they lost wealth and settlements after _the War of Flames_. Their coat of arms is an arrow passing through trees. Their motto is "Hear The Call".
+**House Orvyll** is a noble house independent from any province of the republic. Their seat of [[King's Stand]] is located in [[Forlornwoods]]. They are the farthest house to [[Ewyngard]]. Historically, a prominent rising family in the west, they lost wealth and settlements after _the War of Flames_. Their coat of arms is an arrow passing through trees. Their motto is "Hear The Call".
 <hr style="margin: 0;">
 
 ## History

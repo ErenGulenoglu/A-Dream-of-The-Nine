@@ -6,4 +6,4 @@ When the dwarves lost their halls in the mountains after the burning of the [[Al
 
 The arrival of the [[Burned Claws Tribe]] in the Forlornwoods pressed them further into the northern heights. By the command of [[Kjall, son of Kjall]], then chief of the tribe, an uneasy alliance was struck with House Orvyll, the very foes who had once driven them out. The clansmen spoke ill of their chief for this choice, and murmurs of challenge stirred among them. A contest for leadership loomed near.
 
-Tribe of the Bear worships to the Bear of Forlornwoods.
+Tribe of the Bear worships to [[The Great Bear|the Great Bear]].

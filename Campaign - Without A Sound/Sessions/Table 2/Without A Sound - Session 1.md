@@ -8,7 +8,7 @@
 	The Forlornwoods indeed a place deeply scarred by the War of Flames. Before the war, this was a vital trade route—though rarely—where elven, human, and dwarven goods crossed paths. But with the war it was devastated, and, true to its name, it once again became a forest utterly alone.
 	And in truth, those who come here mirror the spirit of the forest itself: the apocalypse has long since come, the Wanderer has forgotten to claim their souls, and now they struggle to be reborn from their own ashes."
 ## Scene 1: By the Fire  
-	"In such a place, right in the middle of September, on an autumn evening… On the eastern outskirts of the Lonely Forest, about an hour before nightfall, along the main stone road… Amidst the sounds of insects and the chirping of birds; within the green thickets of pines and conifers, someone walks along, their clothes carrying the dust and soil of the road."
+	"In such a place, right in the middle of September, on an autumn evening… On the eastern outskirts of the Forlornwoods, about an hour before nightfall, along the main stone road… Amidst the sounds of insects and the chirping of birds; within the green thickets of pines and conifers, someone walks along, their clothes carrying the dust and soil of the road."
 -  One or more of the players travels towards [[King's Stand]].
 - By the roadside, in a small clearing between the trees, a campfire is burning. A bag has been left by the fire. Here, another player (or players) can be seen. Let the characters introduce themselves. Encourage the characters to stay at the camp together.
 - Shortly after, another player witnesses the same scene and approaches along the main road.
@@ -21,7 +21,7 @@
 - Ask the players if they want to do anything during the journey (e.g., gathering plants).
 - **Passive Perception ≥ 15**: They notice, out of the corner of their eye, a human-sized dark silhouette watching the party from within the forest. When they turn their head, the silhouette vanishes. _(Note: This is the ghost of a former human druid who has turned into a tree within the forest.)_
 ## Scene 2.2: The End of the Road
-	"At the end of six hours, the stone road curves southward, where a second side path cleared from the forest appears. Following this path, the Lonely Mountains to the south begin to rise on the horizon, and the incline gradually levels out. By the roadside, eight or nine large tents have been set up. Right at the road’s edge, you see two men sitting on the stumps of felled trees half-buried in the soil.
+	"At the end of six hours, the stone road curves southward, where a second side path cleared from the forest appears. Following this path, the Lost Mountains to the south begin to rise on the horizon, and the incline gradually levels out. By the roadside, eight or nine large tents have been set up. Right at the road’s edge, you see two men sitting on the stumps of felled trees half-buried in the soil.
 	
 	One is of medium height, wearing a leather headpiece adorned with tusk-shaped ornaments curling on both sides. He has on armor made of a mix of fur and leather, and at his belt hang two axes crafted of bone and bronze.
 	
@@ -33,7 +33,7 @@
 ## Scene 3: King's Stand
 	"As you continue along the road, a structure appears on a slightly elevated hill. It is a church of the Eight; a bell tower rises above its dome, and many bird nests are visible on the tower. As the road levels out completely, the stone pavement beneath your feet gives way to a dirt path, and the town of King’s Stand comes fully into view before you.
 	
-	King’s Stand is built in a clearing created by cutting down trees within the forest. It consists of approximately 100–120 buildings; most are wooden, though a few stone structures stand out among them. Despite being located within the Lonely Forest, the small crowds walking its streets shows you a rare sight of togetherness in this far land.
+	King’s Stand is built in a clearing created by cutting down trees within the forest. It consists of approximately 100–120 buildings; most are wooden, though a few stone structures stand out among them. Despite being located within the Forlornwoods, the small crowds walking its streets shows you a rare sight of togetherness in this far land.
 	
 	In the center of the town, a small manor-like building flies a flag from its rooftop. The flag is green and yellow, with an arrow symbol passing through trees at its center. This is clearly the coat of arms of the local dynasty. Around the town, a wooden defensive wall is under construction, still incomplete."
 - Give the players time to explore King’s Stand.

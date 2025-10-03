@@ -20,8 +20,3 @@ Priests of the Twins wear robes of dark and light blue, reflecting the ever-shif
 
 To worship the Twins, the sleepers must embrace the duality of the will by offering a paired sacrifice: one sweet and one bitter food, one cherished possession and one they despise, one that brings joy and one that brings sorrow. These offerings are cast into the open sea, to be carried away by the waves — a tribute to the ever-shifting pattern the Twins weave. For those far from the sea, the sacrifice is burned instead, and the ashes left to dance upon the wind, entrusted to the skies where the pattern of the Twins guides all things unseen.
 <hr style="margin: 0;">
-
-trickery and tempest
-lovers of sailors,
-order and chaos
-elfler imparator u meydan muharebesinde oldurdukten sonra amiral imparatorluktan kopar, ve # adalarinda kendini yonetici ilan eder
