@@ -7,7 +7,7 @@ Forlornwoods is the fiefdom of [[House Orvyll]]. Before _the War of Flames_, it 
 <hr style="margin: 0;">
 
 **Geographical Features**
-Forlornwoods is a valley between [[Lost Mountains]], divided in two by _Rock River_. It is a dense forest located in the southwest of Utland. The inner regions of the valley are notably flat, while the edges near the mountains consist of rocky hills.
+Forlornwoods is a valley between Lost Mountains, divided in two by _Rock River_. It is a dense forest located in the southwest of Utland. The inner regions of the valley are notably flat, while the edges near the mountains consist of rocky hills.
 
 In 791 AA, it was discovered that the roots of the [[Alves|Alf]] run beneath the valley, connecting two distant geographies through the earth below.
 
@@ -22,7 +22,7 @@ The overall atmosphere and grass tend to be brighter and more colorful on the we
 ## Inhabitants
 <hr style="margin: 0;">
 
-Forlornwoods was once the land of the [[The Tribe of the Bear of Forlornwoods]], before it became the property of Lord Vincas Orvyll in 725 AA. Since then, the Bear Tribe lost their footholds in the forest and were forced back into the hills, caverns, and crags of the [[Lost Mountains]]. Forlornwoods gradually became home to settlers from Utland, as well as halflings and dwarves.
+Forlornwoods was once the land of the [[The Tribe of the Bear of Forlornwoods]], before it became the property of Lord Vincas Orvyll in 725 AA. Since then, the Bear Tribe lost their footholds in the forest and were forced back into the hills, caverns, and crags of the Lost Mountains. Forlornwoods gradually became home to settlers from Utland, as well as halflings and dwarves.
 
 Before the War of Flames, the people of House Orvyll inhabited [[Greentown]]. After the war, the human, dwarf, and halfling populations shifted to [[King's Stand]], leaving the western Forlornwoods to [[Burned Claws Tribe]] around 856 AA.
 

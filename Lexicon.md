@@ -22,13 +22,13 @@ Use this page to get yourself familiarized with unfamiliar words of A Dream of T
 
 ***The Book of the Eight.*** The holy book that carries the passages of Lucron the Pure, and his teachings. ^TheBookofEight
 
-***The Dream.*** the consciousness that is bestowed upon the children of gods, the collective creation. *See also: [[Lexicon#^TheLand|The Land of The Awakened]]* ^TheDream
+***The Dream.*** the consciousness that is bestowed upon the children of gods, the collective creation. *See also: [[Lexicon#^Lands|Lands of the Awakened]]* ^TheDream
 
 ***The Eight.*** how all Sominatores were called after the betrayal of the Nine. ^TheEight
 
 ***The Great Raven.*** 'bearer of news', 'the companion', 'friend of the creator of creators'. ^GreatRaven
 
-***The Land of The Awakened.*** It is the name of the Dream put by the protector children. *See also: [[Lexicon#^TheDream|The Dream]].* ^TheLand
+***Lands of The Awakened.*** It is the name of the Dream put by the protector children. *See also: [[Lexicon#^TheDream|The Dream]].* ^Lands
 
 ***The Nine.*** 'the nine creators of the dream'. ^TheNine
 
