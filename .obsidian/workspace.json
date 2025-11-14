@@ -8,48 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4973388aba2e32bc",
+            "id": "03a5cc60a4df489b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign - Without A Sound/Party 3/Athena Lycaon/Athena Lycaon.md",
-                "mode": "preview",
+                "file": "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 2.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Athena Lycaon"
+              "title": "Without A Sound - Session 2"
             }
           },
           {
-            "id": "0bd7f98cd41ceac0",
+            "id": "163a75fc2a9c18af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign - Without A Sound/Campaign Specific NPCs/Sialis.md",
+                "file": "Campaign - Without A Sound/Campaign Specific NPCs/Nírëalda.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sialis"
+              "title": "Nírëalda"
             }
           },
           {
-            "id": "d4b992832166ff5d",
+            "id": "e3a734c2d0d99a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign - Without A Sound/Campaign Specific NPCs/Iennos, The Shadow.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iennos, The Shadow"
+            }
+          },
+          {
+            "id": "6293cf4d27c34bd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Campaign - Without A Sound/Party 3/Forge Moltin/Forge Moltin.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Forge Moltin"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ffc5a1f4ce66e53a",
@@ -68,8 +83,47 @@
               "icon": "lucide-file",
               "title": "Tommen of Al'Var"
             }
+          },
+          {
+            "id": "fcfbd292274a770c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign - Without A Sound/Party 3/Marsh/Marsh of Fasces.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marsh of Fasces"
+            }
+          },
+          {
+            "id": "199b34dc5dec25c6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "9acc1a39669110a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Without A Sound - Session 3"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "magic",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,53 +269,106 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4973388aba2e32bc",
+  "floating": {
+    "id": "80aab6475f324e3e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2589fc9b40eab0c7",
+        "type": "window",
+        "children": [
+          {
+            "id": "a0da75559febff81",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5631fff0e6de0bf4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Campaign - Without A Sound/Building Campaign - Without A Sound.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Building Campaign - Without A Sound"
+                }
+              },
+              {
+                "id": "f5d8d4a26b3c0536",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Chronology of Utland.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Chronology of Utland"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1089,
+        "y": 52,
+        "width": 788,
+        "height": 992,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "163a75fc2a9c18af",
   "lastOpenFiles": [
-    "Assets/Player Assets/Athena_Lycaon.png",
-    "Campaign - Without A Sound/Campaign Specific NPCs/Sialis.md",
-    "Campaign - Without A Sound/Party 3/Athena Lycaon/Athena Lycaon.md",
-    "Saltuarius Tribe.md",
+    "Campaign - Without A Sound/Building Campaign - Without A Sound.md",
+    "Campaign - Without A Sound/Campaign Specific NPCs/Nírëalda.md",
+    "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 2.md",
+    "Campaign - Without A Sound/Campaign Specific NPCs/Iennos, The Shadow.md",
     "Campaign - Without A Sound/Party 3/Forge Moltin/Forge Moltin.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Orvyll/House Orvyll.md",
-    "Untitled.md",
-    "Campaign - Without A Sound/Party 3/Athena Lycaon",
-    "Assets/Player Assets/Forge_Moltin.jpg",
-    "Campaign - Without A Sound/Party 2 (Dead)/Tommen of Al'Var/Tommen of Al'Var.md",
-    "Campaign - Without A Sound/Party 2 (Dead)/Helen Nolast/Helen Nolast.md",
-    "Campaign - Without A Sound/Party 2 (Dead)/Cran Nolast/Cran Nolast.md",
-    "Campaign - Without A Sound/Party 3/Marsh/Marsh of Fasces.md",
-    "Campaign - Without A Sound/Party 3/Forge Moltin",
-    "Campaign - Without A Sound/Party 1 (Abandoned)/Jeremus.md",
-    "Campaign - Without A Sound/Party 1 (Abandoned)/Faelgor Mosswhiff.md",
-    "Campaign - Without A Sound/Party 3/Marsh/Letter from Y.md",
-    "Assets/Player Assets/Tommen of Al'Var.jpg",
-    "Assets/Player Assets/Marsh of Fasces.png",
-    "Assets/Player Assets/hayalet.png",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Chronology of Utland.md",
-    "Fascesstadt.md",
+    "Campaign - Without A Sound/Party 2 (Dead)/Tommen of Al'Var/Tommen of Al'Var.md",
     "Assets/World Assets/Alf Stone.png",
     "Assets/World Assets/Cannibal Brits.png",
     "Assets/World Assets/Cloaked Figure.jpg",
     "Assets/World Assets/Diary of Master Assassin.png",
     "Assets/World Assets/Doran.png",
     "Assets/World Assets/Ebrek_Rubyhammer_ghost.png",
+    "Assets/World Assets/Esme.png",
+    "Assets/World Assets/goblin_stronghold.png",
+    "Assets/World Assets/Greenfort.png",
+    "Assets/World Assets/Haddock.jpg",
+    "Campaign - Without A Sound/Campaign Specific NPCs/Sialis.md",
+    "Campaign - Without A Sound/Party 3/Athena Lycaon/Athena Lycaon.md",
+    "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 3.md",
+    "Campaign - Without A Sound/Party 3/Marsh/Marsh of Fasces.md",
+    "Campaign - Without A Sound/Party 2 (Dead)/Robin Haddock/Robin Haddock 1.docx",
+    "Saltuarius Tribe.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Orvyll/House Orvyll.md",
+    "Untitled.md",
+    "Campaign - Without A Sound/Party 3/Athena Lycaon",
+    "Campaign - Without A Sound/Party 2 (Dead)/Helen Nolast/Helen Nolast.md",
+    "Campaign - Without A Sound/Party 2 (Dead)/Cran Nolast/Cran Nolast.md",
+    "Campaign - Without A Sound/Party 3/Forge Moltin",
+    "Campaign - Without A Sound/Party 1 (Abandoned)/Jeremus.md",
+    "Campaign - Without A Sound/Party 1 (Abandoned)/Faelgor Mosswhiff.md",
+    "Campaign - Without A Sound/Party 3/Marsh/Letter from Y.md",
+    "Fascesstadt.md",
     "Concepts on Development/Alf Stone.md",
     "Campaign - Without A Sound/Party 3/Marsh",
     "Campaign - Without A Sound/Party 3",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/Forlornwoods.md",
-    "Campaign - Without A Sound/Building Campaign - Without A Sound.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/The Senate and People of Utland.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Artisan.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Geography of SPQU.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Belief of The Eight.md",
-    "A Dream of The Nine/Myth/Invokers of The Dream/Ner'st.md",
-    "A Dream of The Nine/Myth/Myth, A Dream Coming True.md",
-    "Lexicon.md",
     "Campaign - Without A Sound/Party 2 (Dead)/Helen Nolast/Helen Nolast lvl 1.pdf",
     "Campaign - Without A Sound/Party 2 (Dead)/Cran Nolast/Cran_Nolastcharacter.pdf",
     "Campaign - Without A Sound/Party 2 (Dead)/Tommen of Al'Var/Tommen Al’Var - Level 1 Paladin.pdf",
     "Campaign - Without A Sound/Players/Robin Haddock/Robin Haddock 1.docx",
-    "Campaign - Without A Sound/Party 2 (Dead)/Robin Haddock/Robin Haddock.docx",
-    "Campaign - Without A Sound/Party 2 (Dead)/Robin Haddock"
+    "Campaign - Without A Sound/Party 2 (Dead)/Robin Haddock/Robin Haddock.docx"
   ]
 }

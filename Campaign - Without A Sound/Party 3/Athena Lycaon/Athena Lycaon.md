@@ -17,3 +17,21 @@ Sialis preached that survival came from strength and decisive action, not restra
 Athena remained in her role as a guardian, teaching the younger children how to fight and defend themselves. As Robin’s health improved and others took on the task of protecting the camp, Athena began venturing into the woods alone — seeking out danger, both to vent her frustration at being left behind and in the hope of finding her brother.
 
 Four days after Robin and her party departed on a scouting mission, Sialis invited Athena to join an expedition north of the [[Forlornwoods]] to secure the passage of the remaining members of the [[The Tribe of the Bear of Forlornwoods|Tribe of the Bear]]. Refusing to be left behind again, Athena followed her — first to help complete the mission, and then to pursue her own: to find Robin and Nyctimus, and to finally prove herself as a true protector of her tribe.
+
+<hr style="margin: 0;">
+
+**Personality Traits**
+: I watch over my friends as if they were a litter of newborn pups.
+: I place no stock in wealthy or well-mannered folk. Money and manners won’t save you from a hungry owlbear.
+
+**Ideals**
+: Glory. I must earn glory in battle, for myself and my clan. (Any)
+: Change. Life is like the seasons, in constant change, and we must change with it. (Chaotic)
+
+**Bonds**
+: My family, clan, or tribe is the most important thing in my life, even when they are far from me.
+: I will bring terrible wrath down on the evildoers who destroyed my homeland.
+
+**Flaws**
+: I remember every insult I’ve received and nurse a silent resentment toward anyone who’s ever wronged me.
+: Violence is my answer to almost any challenge.
