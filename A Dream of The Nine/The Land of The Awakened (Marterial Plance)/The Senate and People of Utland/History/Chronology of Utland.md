@@ -11,6 +11,13 @@
 **551 AA**
 - Reconstruction of the church of Arbitria finishes.
 
+**583 AA**
+- [[Ewyn I von Ewfai]] is assassinated on the battlefield after the fighting has ended, killed by [[Sergej Tepes]], brother of Tatrian Voivode [[Lugos Tepes]], who had disguised himself as a wounded deserter.
+- [[Owyn I von Ewfai]] succeeds his father as the new *General*.
+
+**584 AA**
+- Coup d'état of guilds happens in [[Fascesstadt]]. [[House Tepes]] perishes.
+
 **591 AA**
 - [[Owyn I von Ewfai]] unites the realm of man, and establishes Kingdom of Utland.
 
@@ -30,7 +37,7 @@
 - House Orvyll gets banished to Eastern Forlornwoods.
 
 **838 AA**
-- Kingdom of Utland loses *the War of The Flames*. King Galvynn II von Ewfai dies in the field, his children are put to knife in Ewyngard.
+- Kingdom of Utland loses *the War of The Flames*. King Galvyn II von Ewfai dies in the field, his children are put to knife in Ewyngard.
 - The kingdom starts to get dissolved as Small Kingdoms, tribes of the Blue Desert declare independence.
 - The kingdom revokes itself and SPQU is formed under the initiation of Steward Heber Illarion.
 

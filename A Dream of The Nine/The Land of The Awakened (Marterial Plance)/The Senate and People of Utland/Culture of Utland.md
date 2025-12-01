@@ -7,5 +7,3 @@ Out of these people formed many small and large countries, but as they reached t
 - The Kingdom of Euandros (West)
 
 Although they spoke of same language, depending upon the geography their religion, skin color, their pronunciations changed.
-
-After [[Chronology of Utland#^EwynI|Ewyn I von Ewfai]] killed the head of Orvyn, and [[Chronology of Utland#^OwynI|Owyn I von Ewfai]] killed the Euandros. The Kingdom of Ros was involved in Utland through marriage.

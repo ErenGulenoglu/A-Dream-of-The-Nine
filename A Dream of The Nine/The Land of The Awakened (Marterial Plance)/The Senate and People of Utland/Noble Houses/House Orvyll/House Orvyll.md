@@ -17,7 +17,7 @@
 
 Vincas served as the captain of the **Green Companions**, a mercenary company operating between [[Ard Caëd]] and the Vallée d'été. The company gained a reputation for protecting local towns and villages from greenskin raiders during the mid-seventh century AA.
 
-In 693 AA, during King [[Malyr I von Ewfai]]’s royal progress to Ard Caëd, the volcano [[Mont Colère]] erupted, devastating southwestern [[Rosefall]] and blocking the main southern road. The king's entourage was forced to divert through the Forlornwoods, where they were ambushed by [[The Tribe of the Bear of Forlornwoods|mountain tribes]] descending from [[Lost Mountains]]. Surrounded and unable to advance, the king’s host was in peril. Dwarven reinforcements from Lost Mountains were reportedly held at the river by tribal resistance.
+In 693 AA, during King [[Malyr I von Ewfai]]’s royal progress to Ard Caëd, the volcano [[Mont Colère]] erupted, devastating southwestern [[Duchy of Rose]] and blocking the main southern road. The king's entourage was forced to divert through the Forlornwoods, where they were ambushed by [[The Tribe of the Bear of Forlornwoods|mountain tribes]] descending from [[Lost Mountains]]. Surrounded and unable to advance, the king’s host was in peril. Dwarven reinforcements from Lost Mountains were reportedly held at the river by tribal resistance.
 
 Upon learning of the king's situation, the Green Companions marched swiftly into the forest. Instead of using the main road, they cut through an overgrown woodland path and attacked the ambushers’ flank, relieving the royal host. For his actions, Vincas was knighted by King Malyr I on the field and granted lordship over the Forlornwoods.
 
@@ -55,7 +55,7 @@ In 836 AA, during the Kingdom of Utland’s invasion of [[Veretia]], Lord Vincen
 
 A year later, during _the War of Flames_, he defended his stronghold at Greenfort against a siege by the Elven Coalition. The western settlements of his fiefdom were razed in the conflict. During the siege, his son **Valdas Orvyll** and Valdas’s wife **Alma Orvyll** were killed when a castle tower collapsed under a blast of destructive magic. Their five-year-old son **Vincas** survived, found in the arms of his mother beneath the rubble. Ultimately, Greenfort fell to the elven armies, who held control over powerful arcane forces. The victors cast a protective enchantment over the ruins, rendering Greenfort magically sealed and impassable. Lord Vincentas and the surviving populace, having surrendered, were banished to King’s Stand.
 
-After the collapse of the Kingdom of Utland, the political standing of House Orvyll was left ambiguous. Stripped of their former influence, they were unable to rebuild their destroyed settlements, nor did they possess the wealth they had once commanded. Following the peace conferences, the major trade routes were redirected through the southwest of [[Rosefall]], bypassing the Forlornwoods and further diminishing House Orvyll’s strategic and economic significance.
+After the collapse of the Kingdom of Utland, the political standing of House Orvyll was left ambiguous. Stripped of their former influence, they were unable to rebuild their destroyed settlements, nor did they possess the wealth they had once commanded. Following the peace conferences, the major trade routes were redirected through the southwest of [[Duchy of Rose]], bypassing the Forlornwoods and further diminishing House Orvyll’s strategic and economic significance.
 <hr style="margin: 0;">
 
 ***Lord [[Vincas Orvyll|Vincas II Orvyll]] (857 AA - Current)*** 

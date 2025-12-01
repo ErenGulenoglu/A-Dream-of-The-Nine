@@ -11,7 +11,9 @@ Notes:
 		- The tree is sleeping. There is two souls within this tree battling for control. This tree is an elf grave. The tree is tainted by touch of an evil.
 		- Currently, the elf's soul forces death comatose on the tree for evil to not takeover. Once it wakes up, the blight will attack everything in the forest.
 		- Somthing written on the tree with Druidic (Help, Sleep?)
+		- Arcana for spellcasters. Druid agacin koruma alani oldugunu anlar blighta karsi, bard eski elf agacinin uykusunda cok ince koruma efekti olan bir muzik mirildandigini anlar
 	- Create another NPC for the tribe, maybe a rival for [[Kjall, son of Kjall]].
 	- After coming to [[King's Stand]] give them option to track down dead character's trail. [[Father Quinten]] asks one of them to bring body of [[Tommen of Al'Var]], for him to be buried properly and sent off to the afterlife as a proper son of [[The Fighter]].
+When they first see the tree roll wisdom for minor insanity.
 
 ## Scene 1

@@ -9,7 +9,7 @@ This weathered journal is bound in dark wood cover. Though it appears to be the 
 The diary is written entirely in Thieves’ Cant. Only those who understand the code may comprehend its contents.
 
 **Lore:**  
-Eldon’s true identity was known only to Lord Vincentas Orvyll, head of House Orvyll. Culann served as the House’s spymaster and protector, charged with defending against infiltration and espionage. His most grievous task, however, was to assassinate the children of King Galvynn II, on the orders of his liege.
+Eldon’s true identity was known only to Lord Vincentas Orvyll, head of House Orvyll. Culann served as the House’s spymaster and protector, charged with defending against infiltration and espionage. His most grievous task, however, was to assassinate the children of King Galvyn II, on the orders of his liege.
 
 Haunted by guilt, Eldon concealed his memories within this diary and took his own life. The pages are layered with secrets, and a hidden spell scroll lies encoded within them.
 
@@ -19,7 +19,7 @@ Haunted by guilt, Eldon concealed his memories within this diary and took his ow
 
 ***Chapter II – The End of the World, The End of the Kingdom***
 
-	“When the Alf Tree burned, Lord Vincentas returned to Forlornwoods. He saw the madness in King Galvynn II, and foresaw his death against the elves. He gave me one final task: go to Ewyngard as a trusted envoy, and kill the king’s children to plunge the realm into a succession crisis. I obeyed. I learned the guards’ patterns, studied the castle’s rhythms. Then the king died in battle. Chaos reigned. That night, I wore the face of a slain guard and entered the children's chambers. I left no trace. I have killed enemies of the House before—but this time, I buried my blade in shame. I hid it in the bell of the Church of the Raven. Only the gods may judge me.”
+	“When the Alf Tree burned, Lord Vincentas returned to Forlornwoods. He saw the madness in King Galvyn II, and foresaw his death against the elves. He gave me one final task: go to Ewyngard as a trusted envoy, and kill the king’s children to plunge the realm into a succession crisis. I obeyed. I learned the guards’ patterns, studied the castle’s rhythms. Then the king died in battle. Chaos reigned. That night, I wore the face of a slain guard and entered the children's chambers. I left no trace. I have killed enemies of the House before—but this time, I buried my blade in shame. I hid it in the bell of the Church of the Raven. Only the gods may judge me.”
 
 ***Chapter III – The End?***
 

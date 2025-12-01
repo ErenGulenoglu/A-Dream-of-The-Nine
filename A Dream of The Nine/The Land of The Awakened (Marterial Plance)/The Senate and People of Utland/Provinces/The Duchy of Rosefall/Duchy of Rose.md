@@ -1,3 +1,3 @@
 #Humans #Province #Utland 
-capital is [[Rosefall City]]
+capital is [[Rosefall]]
 Yaz vadisi

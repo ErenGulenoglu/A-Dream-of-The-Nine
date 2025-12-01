@@ -1,0 +1,1 @@
+genis kivrim dagi, alp daglari gibi, ren nehri gibi nehir akar, cuceler yasar, [[Riverlands]] ve [[Duchy of Rose]] arasindadir
