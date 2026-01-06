@@ -1,6 +1,7 @@
 <div style="text-align: center;">
   <img src="eira.png" alt="NPC Name" style="max-width: 400px;">
 </div>
+
 **Eira** was the daughter of **Tanad** and **Marla**, born in 836 AA in [[Blackthorn Town]]. From a young age, she learned the nature of death, helping her family maintain the town’s cemetery and assisting the local church in organizing funerals. By the age of fourteen, she spent most of her days making bodies presentable for viewing, only to bury her work and watch it rot beneath the soil — all while the living around her endured poverty. The waste of valuables on the dead gnawed at her, and at night she would return to the cemetery to relieve the deceased of their burdens.
 
 After about a year, her grave-robbing habits caught up with her. One night, the drunken burgomaster of Blackthorn came to the cemetery to visit his daughter’s grave. There, Eira was discovered — but not caught. In the chaos that followed, she shoved the man into the open grave she had dug, slipping away as his curses echoed through the night and roused the entire town.
