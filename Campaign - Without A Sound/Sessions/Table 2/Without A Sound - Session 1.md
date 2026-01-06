@@ -114,4 +114,4 @@ If the characters capture or magically influence one of the goblins here, the go
 - There are two separate camps in the forest. The [[Shrine of Cleansing|main camp]] is a ruined dwarven temple in the south of the forest. The [[Burned Claws Scout Camp|scout camp]] is built atop a large rocky outcrop within the woods.  
 - The scout camp exists to monitor King’s Stand’s military movements. The main force, however, is gathered at the dwarven temple to the east.  
 - The scout camp also serves as a supply point. Supplies and new soldiers mounted on **worgs** are sent directly from Greentown to the southern camp. The camp is surrounded by traps.  
-- The scout camp currently houses 7 goblins and 1 bugbear. The bugbear’s name is **Norr**. **Norr** is one of Cannibal Brits’ lieutenants and is responsible for scouting operations and supply coordination in the forest.  
+- The scout camp currently houses 5 goblins and 1 bugbear. The bugbear’s name is **Norr**. **Norr** is one of Cannibal Brits’ lieutenants and is responsible for scouting operations and supply coordination in the forest.  

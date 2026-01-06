@@ -1,3 +1,6 @@
+## Scene 3: Lost Ones
+- they find the corpses of the party where the goblin killed them, medicine isn't with them.
+
 - Eventually after the news reach [[Vincas Orvyll]], the Lord will call the adventurers to his manor.
     - The party will be asked to report their doings and learnings.
     - The Lord will assign them to capture the [[Burned Claws Scout Camp]] while he moves to cut reinforcements from the south.
@@ -10,7 +13,7 @@
 - After the prayer gathering has ended, **Father Quinten**'s face looks dark, tired, and sickly. He says he need to rest, and this is usual.
 ## Scene 3: Burned Claws Scout Camp
 when they go to [[Shrine of Cleansing]], they can see burned claws tribe is there and captured **Burbur** after destruction of [[Lovers' Fey Tree]]
-
+	
 arrange history of Tournement of Roses, maybe in future knight Helen
 orvyll manor un icindeki turnuva portresi
 Lord Vincentasin zirhi ve kilici
