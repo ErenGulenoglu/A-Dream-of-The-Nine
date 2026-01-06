@@ -4,129 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "ffc5a1f4ce66e53a",
-        "type": "tabs",
-        "dimension": 72.06703910614524,
-        "children": [
-          {
-            "id": "eac29f99856b2dfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign - Without A Sound/Party 3/Elia Blackthorn/Eira of Blackthorn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eira of Blackthorn"
-            }
-          },
-          {
-            "id": "20542bb06ccad451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Chronology of Utland.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chronology of Utland"
-            }
-          },
-          {
-            "id": "8ecb0ec1edf7ffb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Riverlands/Fascesstadt.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fascesstadt"
-            }
-          },
-          {
-            "id": "2cad41e6e7fc6d9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Geography of SPQU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Geography of SPQU"
-            }
-          },
-          {
-            "id": "8afef38a94f23443",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/The Stewardy of Patria/Patria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Patria"
-            }
-          }
-        ]
-      },
-      {
         "id": "8b76ff65112d4488",
         "type": "tabs",
-        "dimension": 27.932960893854748,
         "children": [
           {
-            "id": "dd346f434764ec5d",
+            "id": "12f54e0bd84d7c95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign - Without A Sound/Campaign Specific NPCs/Sialis.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sialis"
-            }
-          },
-          {
-            "id": "87bdd460b990f356",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Chronology of Utland.md",
+                "file": "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chronology of Utland"
+              "title": "Without A Sound - Session 4"
             }
           },
           {
-            "id": "f5338eff0067b29a",
+            "id": "0526648dff2de37e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Orvyll/House Orvyll.md",
+                "file": "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Without A Sound - Session 3"
+            }
+          },
+          {
+            "id": "e32b1675eee6d012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Without A Sound - Session 2"
+            }
+          },
+          {
+            "id": "cd9b9120701779b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "House Orvyll"
+              "title": "Without A Sound - Session 1"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c0ab05028307629c",
+        "type": "tabs",
+        "children": [
           {
             "id": "2c13f984c38c0175",
             "type": "leaf",
@@ -137,8 +80,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -296,71 +237,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "80aab6475f324e3e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6ffc8766263a7146",
-        "type": "window",
-        "children": [
-          {
-            "id": "8d44618ed7ec736a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a7e1dc57c8ed0b59",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaign - Without A Sound/Party 3/Forge Moltin/Forge Moltin.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Forge Moltin"
-                }
-              },
-              {
-                "id": "3e9f15422e97c70b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaign - Without A Sound/Party 3/Marsh/Marsh Rivers.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Marsh Rivers"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": -1490,
-        "y": 28,
-        "width": 1207,
-        "height": 992,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "eac29f99856b2dfa",
+  "active": "0526648dff2de37e",
   "lastOpenFiles": [
-    "Campaign - Without A Sound/Party 3/Marsh/Marsh Rivers.md",
-    "Campaign - Without A Sound/Party 3/Elia Blackthorn/Eira of Blackthorn.md",
-    "Assets/Player Assets/eira.png",
-    "Campaign - Without A Sound/Party 3/Forge Moltin/Forge Moltin.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Geography of SPQU.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/The Stewardy of Patria/Patria.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Riverlands/Fascesstadt.md",
-    "Campaign - Without A Sound/Party 3/Athena Lycaon/Athena Lycaon.md",
+    "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 1.md",
+    "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 3.md",
+    "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 2.md",
+    "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 4.md",
+    "Campaign - Without A Sound/Party 2 (Dead)/Tommen of Al'Var/Tommen of Al'Var.md",
+    "Campaign - Without A Sound/Campaign Specific NPCs/Sialis.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Chronology of Utland.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/The Stewardy of Patria/Patria.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Geography of SPQU.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Riverlands/Fascesstadt.md",
+    "Campaign - Without A Sound/Party 3/Elia Blackthorn/Eira of Blackthorn.md",
+    "Campaign - Without A Sound/Party 3/Forge Moltin/Forge Moltin.md",
+    "Campaign - Without A Sound/Party 3/Marsh/Marsh Rivers.md",
+    "Assets/Player Assets/eira.png",
+    "Campaign - Without A Sound/Party 3/Athena Lycaon/Athena Lycaon.md",
     "Campaign - Without A Sound/Building Campaign - Without A Sound.md",
     "Campaign - Without A Sound/Party 3/Elia Blackthorn",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Twins.md",
@@ -371,14 +264,9 @@
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Belief of The Eight.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Artisan.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The All-Mother.md",
-    "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 1.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Galvyn II von Ewfai.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/King's Stand.md",
     "Campaign - Without A Sound/Campaign Specific NPCs/Kjall, son of Kjall.md",
-    "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 2.md",
-    "Oneshot - A Night in Fascesstadt/Old Strings, New Hands.md",
-    "Campaign - Without A Sound/Session 0.md",
-    "Campaign - Without A Sound/Campaign Specific NPCs/Sialis.md",
     "Assets/Tokens/Athena Lycaon Token.png",
     "Assets/Tokens/Forge Moltin Token.png",
     "Assets/World Assets/Barbarian_CR1.png",
