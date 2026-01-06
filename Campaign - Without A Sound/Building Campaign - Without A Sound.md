@@ -9,7 +9,7 @@
 <hr style="margin: 0;">
 
 - Greenfort was besieged by the Elven Coalition during _the War of Flames_. Now, it is sealed by [[Ard Caëd]] with magic, and no citizen of [[The Senate and People of Utland|SPQU]] is allowed to enter.
-- Forlornwoods is the fief of House Orvyll. House Orvyll has been in decline since its central settlements were destroyed during the war. Forlornwoods is becoming increasingly dangerous and isolated.
+- Forlornwoods is the fief of House Orvyll. House Orvyll has been in decline since its central settlements were destroyed by elves during the war. Forlornwoods is becoming increasingly dangerous and isolated.
 - The western half of Forlornwoods, including [[Greentown]] and the rest of House Orvyll’s settlements, was destroyed. The banished folk of Greentown resettled in King's Stand, the new seat of House Orvyll.
 - The dwarves of [[Lost Mountains]] abandoned Forlornwoods after losing their mountain to the armies of dark forces that awoke beneath it when the [[Alves|Alf]] of [[Veretia]] was burned.
 - Graves of many elves are scattered throughout Forlornwoods from the war. Some claim that ghosts haunt the forest.

@@ -9,6 +9,7 @@
     - Want to have deeper conversation with [[Father Quinten]].
 - Cran
     - Wounded from Owlbear attack
+To the new party [[Sialis]] can ask them to find [[Robin Haddock]].
 ## Scene 1: Good and Bad News
 - The party returns with good and bad news.
 - Eventually after the news reach [[Vincas Orvyll]], the Lord will call the adventurers to his manor.

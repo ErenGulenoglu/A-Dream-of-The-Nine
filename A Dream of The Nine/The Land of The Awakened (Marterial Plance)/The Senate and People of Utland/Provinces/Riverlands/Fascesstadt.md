@@ -1,9 +1,13 @@
-Fascesstadt, also known as the _Republic of Thieves_, was the second-largest city in Utland and a hub for dwarven trading goods traveling north via the [[Copper River]]. The city was one of the most important financial centers of the realm, home to bourgeois artists and guildsmen who influenced the realm’s economy, as well as criminal organizations that managed the darker side of trade, including smuggling rare and illegal materials and offering various illicit services.
+<div style="text-align: center;">
+  <img src="Fascesstadt.jpg" alt="NPC Name" style="max-width: 600px;">
+</div>
+
+**Fascesstadt**, also known as the _Republic of Thieves_, was the second-largest city in Utland and a hub for dwarven trading goods traveling north via the [[Copper River]]. The city was one of the most important financial centers of the realm, home to bourgeois artists and guildsmen who influenced the realm’s economy, as well as criminal organizations that managed the darker side of trade, including smuggling rare and illegal materials and offering various illicit services.
 
 Militarily, Fascesstadt was not among the strongest cities in Utland, relying heavily on mercenary companies for its city guard and men-at-arms. In terms of population, Fascesstadt was one of the most cosmopolitan cities in Utland, with a diverse society composed of humans, dwarves, half-elves, tieflings, gnomes, halflings, half-orcs, and, more rarely, wood elves.
 
-- Imports: #
-- Exports: #
+- Imports: Artists, Crafters, Gems, Mercenaries
+- Exports: Crafts (Weaponry, Exotic Jewelry, Artwork, Fine Clothing)
 - Government: Oligarchy, Kleptocracy, City-State
 - Races: Human, Dwarf, Half-Elf, Tiefling, Gnome, Halfling, Half-Orc, and, Wood Elf.
 - Region: Riverlands
@@ -27,15 +31,22 @@ Fascesstadt was considered the heart of the [[Riverlands]], serving as the centr
 After succeeding his father in 583 AA, [[Chronology of Utland#^OwynI|Owyn I von Ewfai]] initiated a coup d'état against [[House Tepes]], collaborating with the guilds of _River Court_ in 584 AA. The guilds overthrew Tepes family, executing Voivode Lugos Tepes and sending his head as a gift to the conqueror of Utland. As a result, the city became a vassal and was granted autonomy under the rule of von Ewfai, with governance entrusted to the guilds.
 ## Symbol
 <hr style="margin: 0;">
+<div style="display: flex; align-items: center; gap: 12px;">
+  <div style="flex: 1;">
+    After 584 AA, the badge of Fascesstadt featured a hammer crossed with a quill on a yellow field, symbolizing the strength of the guilds and the city’s economic power.
+  </div>
+  <div style="text-align: center;">
+    <img src="Fascesstadt_CoA.png" alt="Fascesstadt Coat of Arms" style="max-width: 100px;">
+  </div>
+</div>
 
-After 584 AA, the badge of Fascesstadt featured a hammer crossed with a quill on a yellow field, symbolizing the strength of the guilds and the city’s economic power.
 
 ## Government
 <hr style="margin: 0;">
 
 Before 584 AA, Fascesstadt was ruled by a Voivode, the elected monarch of the Riverlands. The Voivode’s seat was located in Fascesstadt, from which he governed the rest of the Riverlands as centralized vassals and served as the supreme military commander of the region.
 
-After 584 AA, with the voivodeship abolished, the city transitioned into a merchant republic. Its central governing body became the Great Council, with councillorship open to all adult male guild members (at least 25 years old) of recognized bourgeois families who lived in King's Bank. Councillorship was hereditary and limited to 200 seats. The symbolic head of the government was the Doge, elected for life. His influence stemmed more from personal prestige and respect than from formal authority attached to his office. The Great Council gathers at St. Belenus' Cathedral, at King's Bank. A councillor was also known as a “yellowjacket,” as the formal attire of council members included bright yellow jackets.
+After 584 AA, with the voivodeship abolished, the city transitioned into a merchant republic. Its central governing body became the Great Council, with councillorship open to all adult male guild members (at least 25 years old) of recognized bourgeois families who lived in King's Bank. Councillorship was hereditary and limited to 200 seats. The symbolic head of the government was the Doge, elected for life. His influence stemmed more from personal prestige and respect than from formal authority attached to his office. The Great Council gathers at Cathedral of St. Belenus, at King's Bank. A councillor was also known as a “yellowjacket,” as the formal attire of council members included bright yellow jackets.
 
 On the Voivode’s Bank, there were no official representatives of illegal activity, but prominent gangs ruled their own territories autonomously, generally maintaining an understanding with the city’s legal authorities. Mob leaders and councillors remained in contact through unofficial channels, each managing their respective sides of the trade networks.
 ## Defenses
@@ -49,7 +60,7 @@ During the _War of Flames_, when the threat of the elven coalition laying siege 
 
 Fascesstadt’s Voivode’s Bank is the breeding ground where all illegal activity in [[The Senate and People of Utland|SPQU]] takes root. Numerous major and minor criminal organizations operate there, engaging in thievery, assassination, smuggling, espionage, kidnapping, robbery, money laundering, illegal minting, forgery, and countless other illicit practices. These activities are unofficially tolerated by the authorities on the King’s Bank—so long as those on the Voivode’s Bank do not interfere with the interests of the councilors.
 
-Occasionally, orphans and beggars who crossed into the King’s Bank were beaten to death by the city guards, a brutal measure intended to keep the eastern side of the river “clean” of the scum from the wrong side.
+Occasionally, orphans and beggars who were seen anywhere but Cathedral of St. Belenus in the King’s Bank were beaten to death by the city guards, a brutal measure intended to keep the eastern side of the river “clean” of the scum from the wrong side.
 
 City guards rarely patrol the Voivode’s Bank, and when they do, they never respond to any cries for help. The golden rule for those living on the wrong side of the river is simple: do not steal from the guards, and never cross the “yellowjackets.”
 ## Society
@@ -85,5 +96,10 @@ Without the involvement of the guilds, it is difficult for anyone to establish t
 ## Layout
 <hr style="margin: 0;">
 
-cok gen duvarlar arasindan nehir gecer felan filan
-copper river passes through its middle (265 meter witdh), some places are artificially filled
+The city, divided by the Copper River is divided into two banks, Voivode's Bank and King'Bank, which were priorly known as Western Bank and Eastern Bank. Every side of the city is covered by fortified stone walls and towers.
+
+A traveler who would view the city from a distance would see tall and colorfully painted houses, workshops, and gigantic Cathedral of St. Belenus towering over the stone buildings of Voivode's Bank. However, the highest peak of the city is  the inner castle of the city, the old seat of voivodes Paltašić Castle. At night Cathedral of St. Belenus dedicated to the Lightkeeper remains magnificent and glowing even from the farthest edges that has the city's view, its glasses illuminating the city with various colors, to upkeep the philosophy that even in the dark the Lightkeeper's presence may be seen by those still searching.
+
+The banks of the river is connected by *Lemetor's Bridge*, and old stone bridge that connects approximately 250 meters banks apart together, providing a large two winged canal for trade vessels that would pass under it.
+
+Thanks to the Great Council's diplomatic maneuvers, Fascesstadt was untouched during the _War of Flames_.

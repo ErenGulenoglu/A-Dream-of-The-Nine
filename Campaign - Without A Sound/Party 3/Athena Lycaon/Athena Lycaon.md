@@ -16,7 +16,7 @@ Sialis preached that survival came from strength and decisive action, not restra
 
 Athena remained in her role as a guardian, teaching the younger children how to fight and defend themselves. As Robin’s health improved and others took on the task of protecting the camp, Athena began venturing into the woods alone — seeking out danger, both to vent her frustration at being left behind and in the hope of finding her brother.
 
-Four days after Robin and her party departed on a scouting mission, Sialis invited Athena to join an expedition north of the [[Forlornwoods]] to secure the passage of the remaining members of the [[The Tribe of the Bear of Forlornwoods|Tribe of the Bear]]. Refusing to be left behind again, Athena followed her — first to help complete the mission, and then to pursue her own: to find Robin and Nyctimus, and to finally prove herself as a true protector of her tribe.
+Four days after Robin and her party departed on a scouting mission, Sialis invited Athena to join an escort mission to north of the [[Forlornwoods]] to secure the passage of the remaining members of the [[The Tribe of the Bear of Forlornwoods|Tribe of the Bear]]. Refusing to be left behind again, Athena followed her — first to help complete the mission, and then to pursue her own: to find Robin and Nyctimus, and to finally prove herself as a true protector of her tribe.
 
 <hr style="margin: 0;">
 

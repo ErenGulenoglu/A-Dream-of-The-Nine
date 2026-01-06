@@ -6,7 +6,7 @@
 	Sensing this instability across the land, the green-skinned peoples have begun moving eastward from the tundras of the Giant’s Foothills—toward the lands of the awakened.
 	It is in such a time that our characters have set out—unknowingly of one another—toward the town of King’s Stand, the only settlement within the Forlornwoods, where the Stone River splits the land in two, the north and south encircled by the Lost Mountains. The town lies within the fiefdom of the Orvyll Dynasty, on the southwestern frontier that is only partially considered part of SPQU and bound to no province.
 	The Forlornwoods indeed a place deeply scarred by the War of Flames. Before the war, this was a vital trade route—though rarely—where elven, human, and dwarven goods crossed paths. But with the war it was devastated, and, true to its name, it once again became a forest utterly alone.
-	And in truth, those who come here mirror the spirit of the forest itself: the apocalypse has long since come, the Wanderer has forgotten to claim their souls, and now they struggle to be reborn from their own ashes."
+	And in truth, those who come here mirror the spirit of the forest itself: the apocalypse has long since come, the Traveler has forgotten to claim their souls, and now they struggle to be reborn from their own ashes."
 ## Scene 1: By the Fire  
 	"In such a place, right in the middle of September, on an autumn evening… On the eastern outskirts of the Forlornwoods, about an hour before nightfall, along the main stone road… Amidst the sounds of insects and the chirping of birds; within the green thickets of pines and conifers, someone walks along, their clothes carrying the dust and soil of the road."
 -  One or more of the players travels towards [[King's Stand]].

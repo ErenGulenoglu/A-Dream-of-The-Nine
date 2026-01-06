@@ -24,7 +24,7 @@ Lord Orvyll resides in the family mansion, a modest yet easily defensible struct
 
 After House Orvyll’s defeat in 837 AA, no standing army remained to guard the Forlornwoods. The local militia gradually dwindled to nothing, as what little remained of the house’s resources was redirected toward relocating the banished populace to King’s Stand.
 
-By 857 AA, in response to the growing presence of greenskins in the western Forlornwoods, Lord Vincas Orvyll invited the [[The Tribe of the Bear of Forlornwoods|mountain tribes]] to settle in the town as a defensive measure. The townsguard now consists of tribal axemen, pikemen, and archers. At their head stands [[Kjall, son of Kjall]], a hardened warrior and leader among his people. Approximately, 50 soldiers all together.
+By 857 AA, in response to the growing presence of greenskins in the western Forlornwoods, Lord Vincas Orvyll invited the [[The Tribe of the Bear of Forlornwoods|Bear Tribe]] to settle in the town as a defensive measure. The townsguard now consists of tribal axemen, pikemen, and archers. At their head stands [[Kjall, son of Kjall]], a hardened warrior and leader among his people. Approximately, 40 soldiers all together.
 
 With Lord Vincas's orders, a defensive wooden fortification is built around the town.
 
