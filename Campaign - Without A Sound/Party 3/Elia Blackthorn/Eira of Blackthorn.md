@@ -18,17 +18,17 @@ Hordes of human-like creatures, their bodies covered in tree bark and thorns, to
 <hr style="margin: 0;">
 
 **Personality Traits**
-: asd
-: asd
+: Apathetic. I don’t show a lot of emotion; I like people, but don’t expect me to be friendly or care about your feelings or problems.
+: Anyone who’s nice to me is a liar, a loser, or trying to fuck me over.
 
 **Ideals**
-: asd
-: asd
-: asd
+: Wealth. I will do anything for money/luxuries. To be rich is my dream.
+: Freedom. Nobody can tell me what to do, not the law, not people, nobody.
 
 **Bonds**
-: asd
+: I may be a heartless bitch, but even I feel guilty for abandoning my parents. I'd do anything to see them again, or just know if they're ok.
+: The burgomaster of Blackthorn and anyone who sold me out deserves to rot in a shallow grave. If I see any of them, I’ll make sure they do just that.
 
 **Flaws**
-: asd
-: Iasd
+: I am never in the ‘wrong’ - everything I do is right, fuck the law and fuck morals.
+: I'm in eternal debt. I spend my ill-gotten gains on luxuries faster than I can earn money to pay for them.

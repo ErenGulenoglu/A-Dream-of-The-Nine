@@ -7,7 +7,7 @@
 - **[[Forge Moltin]]**
     - Joined the party on proposition of Sialis. Willing to help.
     - Wants to be safe, wants to demolish anything that is killing the nature outside of the nature's harmony.
-- Banshee
+- [[Eira of Blackthorn|Banshee]]
     - A rogue that came to the forest to seek answers on her nightmares, and looking to make a fortune from looting corpses of ones who died in the _War of the Flames_.
 To the new party [[Sialis]] can ask them to find [[Robin Haddock]].
 ## Scene 1: Bad News
@@ -36,3 +36,5 @@ If the characters capture or magically influence one of the goblins here, the go
 - The scout camp exists to monitor King’s Stand’s military movements. The main force, however, is gathered at the dwarven temple to the east.
 - The scout camp also serves as a supply point. Supplies and new soldiers mounted on **worgs** are sent directly from Greentown to the southern camp. The camp is surrounded by traps.
 - The scout camp currently houses 5 goblins and 1 bugbear. The bugbear’s name is **Norr**. **Norr** is one of Cannibal Brits’ lieutenants and is responsible for scouting operations and supply coordination in the forest.
+
+End of Session 5, Revenge.

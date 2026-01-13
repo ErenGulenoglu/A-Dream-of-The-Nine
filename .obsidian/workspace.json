@@ -22,35 +22,19 @@
             }
           },
           {
-            "id": "0526648dff2de37e",
+            "id": "3e4c37e1a60fcc8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 3.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.11.4"
               },
-              "icon": "lucide-file",
-              "title": "Without A Sound - Session 3"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
             }
           },
           {
-            "id": "e32b1675eee6d012",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 2.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Without A Sound - Session 2"
-            }
-          },
-          {
-            "id": "cd9b9120701779b8",
+            "id": "31daa670321f15d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,17 +48,31 @@
             }
           },
           {
-            "id": "5146c5c578f333a3",
+            "id": "eec061cfb2c15576",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Burned Claws Tribe.md",
+                "file": "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 3.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Without A Sound - Session 3"
+            }
+          },
+          {
+            "id": "13ceff86ec0261f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/Forlornwoods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Burned Claws Tribe"
+              "title": "Forlornwoods"
             }
           }
         ],
@@ -93,8 +91,51 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "59100df25b4e8343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign - Without A Sound/Sessions/Table 2/next sessions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "next sessions"
+            }
+          },
+          {
+            "id": "8b10a28e65274ff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Chronology of Utland.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chronology of Utland"
+            }
+          },
+          {
+            "id": "b80e0bb5e1ff5b14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/Burned Claws Scout Camp.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Burned Claws Scout Camp"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 213.5
   },
   "right": {
     "id": "af39ae8d8e1021dc",
@@ -251,36 +292,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0526648dff2de37e",
+  "active": "3e4c37e1a60fcc8d",
   "lastOpenFiles": [
-    "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 4.md",
     "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 3.md",
     "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 1.md",
-    "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 2.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Burned Claws Tribe.md",
+    "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 4.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/Forlornwoods.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/Burned Claws Scout Camp.md",
+    "Campaign - Without A Sound/Party 2 (Dead)/Robin Haddock/Robin Haddock.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Burned Claws Tribe.md",
+    "Campaign - Without A Sound/Campaign Specific NPCs/Father Quinten.md",
+    "Campaign - Without A Sound/Sessions/Table 2/next sessions.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Chronology of Utland.md",
+    "Assets/World Assets/goblin_ScoutCamp.webp",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/King's Stand.md",
+    "Campaign - Without A Sound/Building Campaign - Without A Sound.md",
+    "Campaign - Without A Sound/Party 3/Marsh/Marsh Rivers.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/NPCs/Mugaz.md",
+    "Campaign - Without A Sound/Sessions/Table 2/Without A Sound - Session 2.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Orvyll/Vincas Orvyll.md",
+    "Campaign - Without A Sound/Party 3/Elia Blackthorn/Eira of Blackthorn.md",
+    "Celestine.md",
+    "Oneshot - A Night in Fascesstadt/Old Strings, New Hands.md",
+    "Oneshot - A Night in Fascesstadt/NPCs/Varis Nai'lo.md",
+    "Session 2.md",
     "Campaign - Without A Sound/Party 2 (Dead)/Tommen of Al'Var/Tommen of Al'Var.md",
     "Campaign - Without A Sound/Campaign Specific NPCs/Sialis.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Chronology of Utland.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/The Stewardy of Patria/Patria.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Geography of SPQU.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Riverlands/Fascesstadt.md",
-    "Campaign - Without A Sound/Party 3/Elia Blackthorn/Eira of Blackthorn.md",
-    "Campaign - Without A Sound/Party 3/Forge Moltin/Forge Moltin.md",
-    "Campaign - Without A Sound/Party 3/Marsh/Marsh Rivers.md",
     "Assets/Player Assets/eira.png",
-    "Campaign - Without A Sound/Party 3/Athena Lycaon/Athena Lycaon.md",
-    "Campaign - Without A Sound/Building Campaign - Without A Sound.md",
     "Campaign - Without A Sound/Party 3/Elia Blackthorn",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Twins.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Traveler.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Raven.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Lightkeeper.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Fighter.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Belief of The Eight.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Artisan.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The All-Mother.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Galvyn II von Ewfai.md",
     "Assets/Tokens/Athena Lycaon Token.png",
     "Assets/Tokens/Forge Moltin Token.png",
     "Assets/World Assets/Barbarian_CR1.png",
@@ -290,7 +332,6 @@
     "Campaign - Without A Sound/Party 2 (Dead)/Robin Haddock/~$bin Haddock.docx",
     "Assets/World Assets/Fascesstadt.jpg",
     "Assets/World Assets/G'eldfryn Do'ghym.webp",
-    "Assets/World Assets/drow_sign.png",
     "Oneshot - A Night in Fascesstadt/NPCs",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Riverlands",
     "Campaign - Without A Sound/A Night in/Untitled",

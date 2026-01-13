@@ -36,4 +36,7 @@ Since then, he has wandered southward, always looking over his shoulder, never d
 **Flaws**
 : I'm convinced that no one could ever fool me the way I fool others.
 : If I feel myself getting close to someone, I'll start to push them away.
+<hr style="margin: 0;">
 
+## Relationships
+- During his childhood, Marsh befriended two orphans, [[Mugaz]] and [[Celestine]], who were working for [[Varis Nai'lo]], a trusted ally of Leman. In the streets of Fascesstadt, they grew up together.

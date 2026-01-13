@@ -17,11 +17,11 @@ By taking the main road, travelers may enter Forlornwoods from either the west o
 
 **Overland Travel**
 - From the eastern entrance of the forest to King’s Stand takes approximately **10 hours** at a normal pace.
-- From King’s Stand to the bridge that connects both sides of the forest takes approximately **4 hours** at a normal pace.
-- From Greentown to the bridge that connects both sides of the forest takes approximately **2 hours** at a normal pace.
+- From King’s Stand to the bridge that connects both sides of the forest takes approximately **6 hours** at a normal pace.
+- From Greentown to the bridge that connects both sides of the forest takes approximately **4 hours** at a normal pace.
 - From Greentown to Greenfort takes approximately **1 hour** at a normal pace.
-- From Greentown to the western entrance of the forest takes approximately **6 hours** at a normal pace.
-- It takes approximately **8 hours** to travel on foot from the northern Lost Mountains to the southern Lost Mountains at normal pace.
+- From Greentown to the western entrance of the forest takes approximately **8 hours** at a normal pace.
+- It takes approximately **10 hours** to travel on foot from the northern Lost Mountains to the southern Lost Mountains at normal pace.
 
 **Flora & Fauna**
 The valley is forested with various tree types—hardwoods on the west side and softwoods on the east. The western forest is home to oak, maple, hickory, beech, birch, and fruit-bearing ash trees, while the eastern side features pine, spruce, fir, cedar, hemlock, and other needle-leaved varieties.

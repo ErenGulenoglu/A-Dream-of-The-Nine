@@ -1,0 +1,3 @@
+**Mugaz** was a half-orc orphan of [[Fascesstadt]] who lived on the wrong side of the river. He was a member of [[Acutus]], serving under [[Varis Nai'lo]]. His closest friends was [[Marsh Rivers]] and [[Celestine]]. He was known with his proves in melee and his cruelty.
+
+On Varis’s orders, he planted an elven blade—the murder weapon used to kill Doge **Terentius Martini**—beneath the bed of Marsh’s mentor, [[Leman of Al’Var]], leading to the hanging of Leman and his daughter, [[Linda of Al'Var]]. He was one of the prominent and trusted members of his gang.
