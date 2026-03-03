@@ -1,3 +1,4 @@
+#spoilers #Somniatore 
 ## Origins
 Moh'kor was an ever impatient red dwarf. He combined his [[Lexicon#^theWill|will]] with his brother [[Meh'ker]] to awake into the endlessness. From the first moment he wanted to seek celestial objects, smelt and mix them together with his ever red surface to give shape to them. During their journeys with Meh'ker, he challenged him and got challenged by him many times to display strength and skill. Many times they wrestled and clashed, shaking the emptiness around them.
 

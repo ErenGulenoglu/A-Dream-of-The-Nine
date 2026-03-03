@@ -12,6 +12,19 @@
 when they go to [[Shrine of Cleansing]], they can see burned claws tribe is there and captured **Burbur** after destruction of [[Lovers' Fey Tree]]
 - goblins know that there is a larger host encampment on the south, excavating a dwarven tomb, Iennos searching for something
 
+## Father Quinten
+- father quinten started to hear the voices he heard in his childhood again, a demon is awakening inside him seeking to control
+- he asks for the party to help him with a ritual.
+	- The ritual is to put the demon inside him to sleep again. He knows that Shrine of Cleansing is a holy place with the power of gods. There he may weaken the demon.
+	- The demon is a Bulezau that become strong again by violance in the nature, and how [[Nírëalda]] is getting corrupted. Bulezau wants to posses Quinten and increase the violance in the forest more to get stronger and satisfy its dark soul.
+
+## Lord's Folly
+- Frostbeard brothers and other town populars are disturbed by the grandson lord's acceptance of [[The Tribe of the Bear of Forlornwoods|the Bear Tribe]]. They think he makes his ancestors turn in their grave for [[House Orvyll]]'s foundations were built upon bodies of mountain man who almost killed King [[Malyr I von Ewfai]] by ambushing his host in the forest.
+	- An event happens, one of the tribesman kills a herdsman for spitting at him when they hit their shoulders in the town.
+	- Townspeople are angry to their lord because he does not pass judgment upon tribesman. There is more tribesman militia in the town than than Orvyll militia. Upon this, [[Kjall, son of Kjall]] decides to not to punish the killer but takes his weapons away and does not let him walk around the town.
+	- The family wants revenge. Frostbeard brothers supports the family and wants an eye for an eye. Their plan is to sneak inside the tribe's camp at the dark of night, and bring justice to the murderer.
+
+nirelda has a bag of holding that belonged to one of the elf wizards who came here during the way hooked on one of its branches. this bag of holding is looked to be made of leaf . Inside this bag of holding there is a wizard spellbook,p written in elvish. when they try to take it nirelda gets restless in its dream
 
 arrange history of Tournement of Roses, maybe in future knight Helen
 orvyll manor un icindeki turnuva portresi
@@ -28,3 +41,8 @@ level 2: shrine of cleansing, secret entrance (main army is in the front one), f
 level 3: sidequest nirelda, + political disturbance in the town, dwarves not liking the lord
 level 4: defense of King's Stand
 level 5: siege of Greenfort
+
+1. time skipte kis doneminde olan bir olay, daglardan kucuk bir ork kabilesi iner ve lordun onlara hucum icin parali askerlik yaptirmaya ihtiyaci olur
+    
+2. bu orklar athenanin ailesini oldurmus ve kardesini almislardir
+3. bir dilemma, parti icin orklari yakalar ve gotururlerse en iyi ihtimalle kole olarak kullandirilicak olucaklar, ama farkli yaklasirlarsa muttefik olabilirler

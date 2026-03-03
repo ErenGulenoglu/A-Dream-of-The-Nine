@@ -1,6 +1,4 @@
-companion of the perished, Lord of The River, God of death
-
-during the time of the betrayal, he was delivering the souls of the protector children to feywild to save them from the hands of the Ninth
+#spoilers #Somniatore 
 ## Origins
 Ner'thas was a lonely neutron star, awakened by himself in the endlessness. He traveled by himself, searching for others who carried [[Lexicon#^theWill|Will]], but found none. His gravitation pull was so strong that he unwillingly ended life of one of his sleeping kin by passing the nearby star system. He was the one who tasted the bitterness of guilt and murder. He wanted to end his existence and go back to his sleeping state, and stayed stationary until he recieved the light of [[The Ethereal Fire|the Ethereal Fire]]. To end his bitterness he moved towards the light that might gave him his wish.
 ## Accepting The Ethereal Fire
@@ -8,5 +6,6 @@ He was the eight one who passed from the Ethereal Fire, and embraced the reality
 ## The Era of The First Dream
 ## The Era of The Sun
 ## The Era of The Moon
+during the time of the betrayal, he was delivering the souls of the protector children to feywild to save them from the hands of the Ninth
 ## The Era of The Second Dream
 ## The Withdrawal

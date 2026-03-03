@@ -1,8 +1,20 @@
-- - -
+<hr style="margin: 0;">
+<span style="margin:0; display: inline-flex; align-items: center; gap: 3px;">
+  <img src="The Church of the Eight Symbol.png" width="100" style="margin:0; margin-right: 8px; padding: 25px 0px;">
+  <span style="margin:0; display: flex; flex-direction: column;">
+    <span style="margin:0; display: inline-flex; gap: 3px;">
+      <em></em>
+      <em>Sanctuary of the Eight and All Believers</em>
+      <em></em>
+    </span>
+  </span>
+</span>
+<hr style="margin: 0;">
+
 The Church of The Eight is the official clerical administration within [[The Senate and People of Utland]], and the largest church that accepts [[The Belief of The Eight]] within [[Lexicon#^Somnium|Somnium]]. The church is an organization that exists since the dawn of the kings, serving every corner of the realm through performing religious rituals, offering spiritual guidance, raising advisors for governors, organizing festivals, educating clergy personnel, regulating [[Lexicon#^TheBookofEight|The Book of The Eight]] for worship, and offering guidance to [[The Senate|The Senate of Utland]] on the matters of religion. Saint Vryon acts central administrative cell of The Church of The Eight, and is located within [[Basilica Arbitria]] in [[Ewyngard]], the capital city of Utland. Arbitria(land of will), also known as "The City Within City", was named by [[Lexicon#^Lucron|Lucron The Pure]], the prophet of [[Lexicon#^TheEight|the Eight]].
 - - -
 ## Hierarchy
-- **The Vicar:** The Vicar is the spiritual leader of the Church of The Eight. He is accepted as the Vicar of Lucron on the earth. His authority is to define and interpret the doctrine of the Eight. His missions are to appoint Cardinals, Bishops, leading important religious ceremonies (including the Senate's ceremonies), making decisions on appointment of advisors to the aristocrat houses of Utland, and holding the office of [[Lexicon#^PontifexMaximus|Pontifex Maximus]] in [[The Senate|the Senate]]. Usually, a Cardinal gets elected as the next Vicar after the Vicar closes his eyes to Somnium. To be elected as the Vicar, one must be a male believer of the Eight.
+- **The Vicar:** The Vicar is the spiritual leader of the Church of The Eight. He is accepted as the Vicar of [[Lucron]] on the earth. His authority is to define and interpret the doctrine of the Eight. His missions are to appoint Cardinals, Bishops, leading important religious ceremonies (including the Senate's ceremonies), making decisions on appointment of advisors to the aristocrat houses of Utland, and holding the office of [[Lexicon#^PontifexMaximus|Pontifex Maximus]] in [[The Senate|the Senate]]. Usually, a Cardinal gets elected as the next Vicar after the Vicar closes his eyes to Somnium. To be elected as the Vicar, one must be a male believer of the Eight.
 - **Cardinal:** Cardinals are senior members of the clergy directly appointed by the Vicar, given as an honorary title. They hold this title for a lifetime. They serve as the Vicar's closest advisors and responsible of electing the new Vicar. Usually, Cardinals gets selected from archbishops and bishops. After one becoming a cardinal they may be dismissed from their other duties and be assigned to dicastery of Curia Octo as judges that solves disputes between clergy, as bureaucrats that issues the Vicar's decrees and paperwork managers of church affairs, as diplomats between the church and the state, as inquisitors conduct heresy investigations, as financial managers of Arbitria, and other critical central administrative roles within the church. As their assistants and helpers, with the permission of the Vicar, a cardinal can appoint a pro-cardinal. To become a cardinal one must achieve priesthood.
 	- **Pro-Cardinal:** Members of the clergy appointed by cardinals that carry authority of the cardinal who appointed them.
 - **Archbishop:** An archbishop is a bishop of higher rank. An archbishop governs an Ecclesiastical province from his seat archdiocese. An archdiocese with some exceptions are usually located within the most metropolitan city of their state. They are the head of the clergy administration in their state. They can call reginal church councils to deal with heresy, reforms, or disputes, can act as advisors to regional powerful aristocrats, could investigate or disciple bishops, and can act as a court of appeal for people about decisions of bishops. Archbishop title can be given by the Vicar himself, or granted to bishop by the former archbishop as a way of passing their duties.

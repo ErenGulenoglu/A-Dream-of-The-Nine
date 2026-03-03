@@ -1,4 +1,4 @@
-#Legend 
+#Legend #spoilers 
 **Disclaimer:** This is the secret of the universe. Unless the campaign hasn't gone to places where characters met some of the most powerful or ancient beings not just of the world, but of the Universe of A Dream of The Nine, they will not truly know about how the dream have came to being, and what was the begging. In the end, in the real world, we do not truly know what initiated the big bang, we just theorize about it.
 
 ---
@@ -10,9 +10,6 @@ How Somniatores came to have the will is question yet to be answered. But, as a 
 *As we are [[Lexicon#^Dormiens|Dormiens]], our will is given to us by our creators. In theory, this process might have happened with our creators as well assuming that they are the upper link in the long chain of creation. This pushes me to think that our creators could have received their own will through intervention of a higher entity. In this scenario, the question shifts towards the identity of the possible higher entity(ies). How did they came to existence? Do they have control over the will?*
 ### *The Awakening*
 *In the scenario where a higher entity did not intervened with Somniatores, we would assume that they existed or formed by their selves. And as the time passed, they used the will to awaken from a state of sleeping. In this scenario, we have to accept that the creators had the the will in their being. This can make us think on the question, are there no other entities that have control over the will? Or, why do the creators have the will in their being?*
-### Theory 3
-Lorem impsum.
-*Hal' Duran. (BW 30000). A Question of Creation.*
 
 ---
 ## The Endless Time
@@ -39,7 +36,7 @@ Once they all passed through the fire, only a small amount of it was left. As th
 
 To create a celestial body of that capacity outside of The Will Above All's designs, each of them parted away with half of their own will to shape a celestial body greater than any of them. This new celestial body was later to be known as The Dream.
 
-As she was given the command over the will of giving birth to living frames without wills, Nebula created four large elemental dimensions so that all kinds of celestial bodies with wills can exist in the Dream without having to distort their shapes. Then, Aqua and Aura touched and orbited around each of these elements: Fire, Earth, Water, and Air. Then they fabricated patterns for each of them, each ever changing and in motion of balance like all the creations of the Will Above All. After all this was over, Moh'kor forged a great binding, chained all elemental planes together, creating a small canvas to paint their vision of the Dream.
+As she was given the command over the will of giving birth to living frames without wills, Nebula created four large elemental dimensions so that all kinds of celestial bodies with wills can exist in the Dream without having to distort their shapes. Then, Aqua and Aura touched and orbited around each of these elements: [[Elemental Plane of Fire|Fire]], Earth, Water, and Air. Then they fabricated patterns for each of them, each ever changing and in motion of balance like all the creations of the Will Above All. After all this was over, Moh'kor forged a great binding, chained all elemental planes together, creating a small canvas to paint their vision of the Dream.
 
 And then each of them did the parts that befall on them. Soliel created a reflection of her will to enlighten the dream, which was later to be known as [[The Sun|the Sun]]. Moh'kor shaped the dream, hit his hammer to create space that wills can touch on, placed mountains, created river beds, made plateaus, and decided on the shape of land. Nebula created living frames for companions to later to free wills later to awake; animals, trees, vegetation, and uncountable amount of other frames binding them with elements so they restore themselves by drawing life from elements for endless existence. Aqua and Aura touched on elements that every of them used in the dream, giving them an order and balance, creating the creations' unconscious patterns and their philosophical existence within the dream. Within these living frames, Soliel shared flicker of free Will.
 

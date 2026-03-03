@@ -1,5 +1,4 @@
-#Somniatore 
-the all wise
+#Somniatore #spoilers 
 ## Origins
 It is not known what the first creation of the creator was, but the Great Raven was the first of the creations that had free control over [[Lexicon#^theWill|the Will]]. The creator of creators wanted to create a companion that would amuse, and that was the birth of him. At first, the creator of creators did not give him free will, but that left the creator of creators unfulfilled seeing that the actions of its companion was to its predicament. So, the creator of creators gave its companion his own will, but the Great Raven did not forget the times his will was controlled.
 

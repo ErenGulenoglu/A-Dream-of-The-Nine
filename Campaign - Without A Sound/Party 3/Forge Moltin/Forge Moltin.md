@@ -6,7 +6,7 @@ Forge was raised in the [[Lost Mountains]], but something about the endless mini
 
 The business flourished, praised for the unmatched quality of its wares—many said Forge’s work seemed guided by the fire itself. Yet even amid prosperity, Forge grew restless. The town’s hunger for iron and fuel echoed the same imbalance he had fled from. His wife, **Anva Moltin**, tired of his discontent, refused to leave. So Forge left alone, entrusting his family with the forge, its brand, and their wealth, setting out toward the [[Forlornwoods]] in search of a simpler life.
 
-The woods were harsher than he had imagined. Though his dwarven eyes pierced the dark, the cold and hunger nearly broke him. One stormy night, lightning struck a great tree before him, setting it ablaze. From the flames appeared a small, flickering creature—a _fire spirit_ in the shape of a squirrel. Whether born of magic or madness, it guided him through his struggles and taught him the ways of the druid.
+The woods were harsher than he had imagined. Though his dwarven eyes pierced the dark, the cold and hunger nearly broke him. One stormy night, lightning struck a great tree before him, setting it ablaze. From the flames appeared a small, flickering creature—a _[[Tu-ran|fire spirit]]_ in the shape of a squirrel. Whether born of magic or madness, it guided him through his struggles and taught him the ways of the druid.
 
 Forge never abandoned his craft. Instead, he learned to blend it with nature, forging only when fire came naturally—from lightning, wild embers, or what he believed were gifts of the spirit. Travelers and wanderers soon sought him out in the woods, speaking of a dwarf who forged with patience and purpose, as if listening to the flame itself.
 

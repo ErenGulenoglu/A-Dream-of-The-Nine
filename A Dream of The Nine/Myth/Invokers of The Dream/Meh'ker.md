@@ -1,4 +1,4 @@
-god of courage, tactician, 
+#spoilers #Somniatore 
 ## Origins
 Meh'ker was a still and resilient red rocky desert planet. He woke up alone next to his brother—[[Moh'kor]]—who was trying to extend his [[Lexicon#^theWill|will]] to the endlessness to gain free will. The first emotion he felt when he saw that was fear. The fear of his brother not waking up, and being alone in the endlessness. As soon as he gained his free will, he combined his will with his brother to wake him from a heavy sleep. The only purpose he found for himself in the endlessness was to help his brother and all [[Lexicon#^CelestialBody|celestial bodies]] that were in need. During their journeys together with Moh'kor, he loved to display his skills, wrestle and clash with his brother.
 

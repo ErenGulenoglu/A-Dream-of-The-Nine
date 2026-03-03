@@ -6,9 +6,8 @@ SPQU experiences temperate climate with mild winters and dry summers. Northern, 
 <hr style="margin: 0;">
 
 ## Borders of Utland
-Utland is bordered by [[Ard Caëd]] on the southwest, flanked by [[Small Kingdoms]] on the west, closed by # on the east, and touches on borders of [[Veretia]] on southeast. It would take roughly a year for one to walk from the western border of Utland to its eastern edge.
 <hr style="margin: 0;">
-
+Utland is bordered by [[Ard Caëd]] on the southwest, flanked by [[Small Kingdoms]] on the west, closed by # on the east, and touches on borders of [[Veretia]] on southeast. It would take roughly a year for one to walk from the western border of Utland to its eastern edge.
 ## Provinces of Utland
 <hr style="margin: 0;">
 

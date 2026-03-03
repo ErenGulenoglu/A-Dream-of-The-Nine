@@ -27,7 +27,7 @@
 	- To open the lock characters are required to succeed on a **DC 15** Thieves' Tools check.
 
 **Treasure**
-Arrow ×20, two backpacks, ball bearings, a bedroll, a bell, five candles, a chest, two sets of common clothes, a crowbar, a holy symbol (emblem), a hammer, holy water, a hooded lantern, a longsword, a mace, manacles, a mess kit, a steel mirror, two flasks of oil, ten pitons, a quiver, twelve days of rations, two 50-foot lengths of hempen rope, a shield, string, two tinderboxes, eight torches, vestments, two waterskins, a wooden stake, fifteen gold pieces, and one silver piece.
+Arrow ×20, two backpacks, ball bearings, a bedroll, a bell, five candles, a chest, two sets of common clothes, a crowbar, a holy symbol (emblem), a hammer, holy water, a hooded lantern, a longsword, a mace, manacles, a staff, a hunting trap,, a mess kit, a steel mirror, two flasks of oil, ten pitons, a set of traveler's clothes, a quiver, twelve days of rations, two 50-foot lengths of hempen rope, a shield, string, two tinderboxes, eight torches, vestments, two waterskins, a wooden stake, 4 leather armors, 25 gold pieces, and 1 silver piece.
 ## 3. Cages
 Deeper in the cave, goblins spared a corner for prisoners with two makeshift cages locked with locks taken out of supply chests.
 - In one of the cages **Haddock** stays imprisoned.

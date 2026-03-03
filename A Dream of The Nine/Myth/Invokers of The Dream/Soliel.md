@@ -1,6 +1,4 @@
-#Somniatore 
-the weaver of souls, the lady of fire, 
-soliel -> soul
+#Somniatore #spoilers 
 ## Origins
 Soliel was a beautiful golden star. From her first moment, she wanted to share her [[Lexicon#^theWill|Will]], and find companions to enjoy beauty of the endlessness and the creations yet to gain their wills. With each system she found, she touched into the lesser willed, yet to awake kind.
 During her journeys in the endlessness, she met with [[Moh'kor]] and [[Meh'ker]]. The three continued their journeys and explorations together until they received the brilliance of [[The Ethereal Fire|the Ethereal Fire]]. During their journeys, Meh'ker frequently asked her to share their orbits to let their satellites revolve around each other. Soliel accepted these propositions for she loved sharing wills and companionship. Many times she warned Meh'ker of him getting close to her orbit was resulting in scorching of his surface, but Meh'ker insisted on being close to her light in their journeys.

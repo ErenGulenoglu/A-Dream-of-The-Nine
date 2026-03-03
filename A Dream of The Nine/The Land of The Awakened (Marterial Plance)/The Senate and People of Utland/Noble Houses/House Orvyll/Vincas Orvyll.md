@@ -12,4 +12,4 @@ In the summer of 857 AA, after thirty militia of King’s Stand were killed in a
 
 After secretly sickening his grandfather, he announced to the people of King’s Stand that Lord Vincentas had fallen ill, and that he would assume his duties until his recovery. Under his authority, he made an alliance with [[Kjall, son of Kjall]], and added twenty tribal warriors to the town's remaining militia. Many townsfolk despise him for allying with mountain men, but Vincas sees this as a necessity. He is currently working to bring more mountain folk from the northern [[Lost Mountains]], and has begun constructing a wooden fortification outside King’s Stand.
 
-Vincas cannot bring himself to kill his grandfather, even though he was the one who made him ill. The old man is the last reminder of his family.
+Vincas cannot bring himself to kill his grandfather, even though he was the one who made him ill. The old man is the last reminder of his family. The young men is a humble soul and does not carry smugness of nobility, he wears common clothes and opens the door of his house to visitors himself.

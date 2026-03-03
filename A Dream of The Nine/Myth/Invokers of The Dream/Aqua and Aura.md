@@ -1,4 +1,4 @@
-#Somniatore 
+#Somniatore #spoilers 
 twins
 ## Origins
 Aqua and Aura were two binary starts orbiting around each other from the begging of time. Twins did not knew they were awakened until the moment they realized that they had the [[Lexicon#^theWill|will]] to stop playing the game of chasing each other. They both left their places at once to include others to their chasing game, wandering and chasing each other in the endlessness.

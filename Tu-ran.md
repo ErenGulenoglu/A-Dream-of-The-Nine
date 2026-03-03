@@ -1,0 +1,3 @@
+**Tu-ran** is a flame spirit that resides in [[Lost Mountains]]'s fires and lavas in its depths. Tu-ran sensing [[Forge Moltin]]'s worthiness and skill using the fire, it decided to open him the path of druid, revealing itself as a fire in the shape of squirrel before him.
+
+Tu-ran is not a conscious creature by itself. It is the accumulation of the will of fires beneath [[Forlornwoods]]. Tu-ran has strange abilities to show visions to communicate events through dreams related to fires.

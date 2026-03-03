@@ -1,0 +1,8 @@
+**Characters**
+- [[Athena Lycaon]]: Athena is a Barbarian from [[Saltuarius Tribe]], what wanted to join _Cervidae_ as a protector. Her mother and father was killed in an orc attack when they were migrating to north. Only **Nyctimus**, her brother's body was not found after the attack. She played a key role in rescuing **Haddock** from [[Burned Claws Scout Camp]]. She was a close friend of late [[Robin Haddock]]. She followed [[Sialis]] and accomplished a favor she asked.
+- [[Marsh Rivers]]: Spook is a Tiefling Bard from [[Fascesstadt]] who seeks to disintegrate the magical barrier around [[Greenfort]] to accomplish the last request of [[Leman of Al’Var]], that he believes to be reflected in the note he found in his masters' lute's secret compartment, [[Note From Mistress]]. He made an agreement with [[Rurik Frostbeard]] to play in **Frostbeard Inn** in return of sleeping in the inn.
+- [[Forge Moltin]]: Forge is a loner druid who lived inside [[Forlornwoods]] for hundreds of years. He got disturbed by the chaos that overtook the nature, and greenskins that started to fill the forest. He seeks to restore the balance in Forlornwoods. He now works in **Green Iron** with **Bain Frostbeard** as the town needs blacksmiths now more than ever.
+- [[Eira of Blackthorn]]: Banshee is a Halfling Rogue that started her career as grave robber. Her life led her to become a smuggler on the north of Fascesstadt, along [[Copper River]]. She sees strange and dark nightmares that showed her visions of Greenfort, which she came to forest to learn what is behind her dark dreams, and profit from the elven tombs laying inside the forest, unguarded.
+
+## Scene 1: Rest in The Burned Claws Scout Camp
+- Forge subclass choice dream.

@@ -1,3 +1,4 @@
+#Town #Humans #Utland 
 <div style="text-align: center;">
   <img src="King's Stand.webp" alt="NPC Name" style="max-width: 700px;">
 </div>
