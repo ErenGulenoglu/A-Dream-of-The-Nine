@@ -1,12 +1,11 @@
 <hr style="margin: 0;">
 <div style="text-align: center; margin: 0;">
-  <img src="House_Orvyll.png" width="100" style="display: block; margin: 0 auto;">
+  <img src="House_Orvyll.png" width="125" style="display: block; margin: 0 auto;">
   <em style="margin: 0; line-height: 1;">Hear The Call</em>
 </div>
-
 <hr style="margin: 0;">
 
-**House Orvyll** is a noble house independent from any province of the republic. Their seat of [[King's Stand]] is located in [[Forlornwoods]]. They are the farthest house to [[Ewyngard]]. Historically, a prominent rising family in the west, they lost wealth and settlements after _the War of Flames_. Their coat of arms is an arrow passing through trees. Their motto is "Hear The Call".
+**House Orvyll** is a noble house, lordship, independent from any province of the republic. Their seat of [[King's Stand]] is located in [[Forlornwoods]]. They are the farthest house to [[Ewyngard]]. Historically, a prominent rising family in the west, they lost wealth and settlements after _the War of Flames_. Their coat of arms is an arrow passing through trees. Their motto is "Hear The Call".
 <hr style="margin: 0;">
 
 ## History
@@ -42,7 +41,7 @@ In his final years, the lord sought to bring elven and gnomish master craftsmen 
 Lord Bertas died a year and a half later, while his son was still on the road returning. He did not live to see his vision fulfilled—the trade of magical goods crafted in Greentown never came to life in his time. He died at the age of 82.
 <hr style="margin: 0;">
 
-***Lord [[Sir Vincentas Orvyll]] (827 AA - Current)*** 
+***Lord, [[Sir Vincentas Orvyll]] (827 AA - Current)*** 
 ^VincentasOrvyll
 
 Lord Vincentas Orvyll was born in the fall of 787 AA. He succeeded his father at the age of forty, upon returning from a diplomatic mission to the [[Broken Mountains]], bringing with him the renowned master craftsman [[Ebrek Rubyhammer]] to the Forlornwoods.

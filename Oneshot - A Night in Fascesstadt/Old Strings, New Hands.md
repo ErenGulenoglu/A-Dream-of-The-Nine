@@ -1,5 +1,5 @@
 ## Summary
-This small adventure tells the background story of [[Marsh Rivers]] — how his found family died, and how his new purpose in [[Forlornwoods]] was forged. The events begin in **853 AA** and conclude in **857 AA**.
+This small adventure tells the background story of [[Marsh Rivers]] — how his found family died, and how his new purpose in [[Forlornwoods]] was forged. The events begin in **853 AA** [[Fascesstadt]] and conclude in **857 AA**.
 
 At the start of the adventure, Marsh and a group of his friends are given a task by [[Leman of Al’Var|Leman]] and [[Varis Nai'lo|Varis]]: to collect a delivery from a courier who is a longtime friend of Leman. Unbeknownst to the players, the items they are asked to retrieve will set in motion the downfall of both Leman and Varis. Leman, unaware that Varis plans to betray him, believes the elf to be an ally — but Varis, along with other figures on the wrong side of the river, has grown increasingly uneasy with Leman’s habit of working for _both_ banks of the city.
 

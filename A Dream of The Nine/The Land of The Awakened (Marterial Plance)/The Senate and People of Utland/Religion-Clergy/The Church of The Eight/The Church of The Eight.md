@@ -44,3 +44,9 @@ The administration of the church is spread on the Somnium through various big an
 - **Dicasterium Inquisitionis:** It is the department that oversees heresy investigations.
 - **Dicasterium Aerarii:** It is the department that oversees the treasury of the church.
 A diocese is known as a land governed by clergy. A diocese can be a province governed by a bishop, while an archdiocese are usually the capital cities of states of Utland. From archdiocese, an archbishop governs all clergy in different dioceses of the state.
+- - -
+## Historical Members
+- [[Vicar Saint Colin]], The First Vicar (? - 319 AA)
+- [[Vicar Saint Vyron]], (401 - 447 AA)
+- [[Vicar Ugurfil]], (585 - 604 AA)
+- [[Vicar Lucius Berklen]], (843 - AA)
