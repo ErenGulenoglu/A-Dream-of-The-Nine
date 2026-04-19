@@ -1,0 +1,7 @@
+**Gregory Pond** was never the man he thought he was going to be. His future plans all changed the day his father knighted in his dying breaths.
+
+Initially Gregory was always an athletic and strong child, as were the rest of his older brothers. They all showed great martial prowess. Although Gregory’s brothers were all much older than him, he still developed a close bond with them. Seeing them leave for war was one of the saddest moments of his life, but deep down he knew their departure was inevitable.
+
+Gregory was never prepared to be a knight, let alone heir. He spent most of his noble life in rich company, talking and dancing his nights away in lavish pleasures. Being the youngest son, Gregory was always used to getting what he wanted, how he wanted. He had a knack for persuasion, because in his eyes there was always some way to convince a man before you had to slay him. 
+
+However sometimes the latter was required, and Gregory was trained with intensity like his brothers before him. Going into his 20s, Gregory maintained the athleticism he was gifted with. He learnt under many great martial teachers. His teachers would tell you Gregory’s fighting style revolved around the offensive usage of his shield, which was peculiar to them but he somehow made it work.

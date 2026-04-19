@@ -16,7 +16,7 @@ Historically a militaristic family renowned for raising knights, they lost all m
 ***Sir Maryn Pond (783 AA - 857 AA)*** 
 ^MarynPond
 
-Sir Maryn was born in 783 AA. He was the eldest son of **Sir Samuel Pond**. He succeeded his father at the age of 14, upon Sir Samuel’s early death. In 784 AA, he married his betrothed, **Idil Nevenir**. He was known for his martial prowess. He unhorsed [[Louise Rose|Sir Louise Rose]], a renowned knight and brother of [[House Rose#^JacquesI|Duke Jacques I Rose]] in 808 AA in the [[Tournament of Roses]].
+Sir Maryn was born in 783 AA. He was the eldest son of **Sir Samuel Pond**. He succeeded his father at the age of 14, upon Sir Samuel’s early death. In 784 AA, he married his betrothed, **[[Idil Pond]]**. He was known for his martial prowess. He unhorsed [[Louise Rose|Sir Louise Rose]], a renowned knight and brother of [[House Rose#^JacquesI|Duke Jacques I Rose]] in 808 AA in the [[Tournament of Roses]].
 
 Sir Maryn had his firstborn son, **Garibald Pond**, in 799 AA. His second-born son, **Gelther Pond**, was born in 802 AA. His third-born son, **Gerwald Pond**, was born in 806 AA. In 834 AA, his youngest son, [[Gregory Pond]], was born.
 

@@ -18,11 +18,17 @@ Some rules:
 ## Scene 0: On The Roof
 
 	"About fifteen years after the War of Flames, the new republic still struggles to mend the wounds left by the fallen kingdom. In Ewyngard, the Senate remains locked in endless debate—whose lands suffered most, which regions deserve investment, and where the new trade routes should run. Along the southern border of Utland, villages lie abandoned and ruined. Distant, once-prosperous human tribes and cities have taken the collapse of the Kingdom of Utland as a chance to reclaim their freedom, refusing taxes and declaring independence.
+	
 	The smallfolk—the farmers, herders, taxpayers, militia members, and the backbone of Utland—have suffered everywhere. Those near the southern border were cut down by elven blades and spells or fled, becoming paupers in safer regions. Those in places untouched by the war still paid ever-rising taxes, surrendered livestock and harvests, sent their sons to distant battlefields, and watched their livelihoods shrink year after year.
+	
 	Those who stayed loyal to King Galvyn II von Ewfai are now dead, landless, impoverished, or forgotten. Those who rose against his tyranny were executed as traitors.
+	
 	It has been fifteen years since the flames of war died out. Our story begins in a place the fire never reached—where loyalty is fluid, survival is pragmatic, and ambitions shift like river currents.
+	
 	 Fascesstadt, heart of the Riverlands-western province of the SPQU, is a large fortress-city built around the widest branch of the Copper River. By land, the western trade route of Utland passes directly through the city; by river, dwarven goods from Broken Mountains and goods from northern coastal settlements of Utland all flow into its bustling markets. Granted autonomy long ago under the Kingdom of Utland, Fascesstadt chose to remain within the republic on its own terms.
+	
 	 Officially, the city is governed as a Merchant Republic, ruled by a council of merchants, bourgeois families, and guildmasters. Unofficially, however, kleptocracy dominates life here—money, corruption, blackmail, thievery, and murder shape both politics and the streets. True to their nature, the city’s rulers negotiated with the elves during the war and stayed well away from the fighting.
+	
 	Our characters are street kids in their early teens who have spent most of their lives in Fascesstadt. As the sun sets, they sit on the rooftops of tightly packed, multi-story buildings of King's Bank, their legs dangling over the edge. From their perch they watch the Copper River flow through the heart of the city, observe crowds moving through the streets below, and look toward a hanging taking place before the Cathedral of St. Belenus.
 - Everyone introduces their characters.
 - Describe procedure of hanging.
