@@ -1,0 +1,1 @@
+**Ample Grove** is a small forest known with its plenty of yields in fishing from its [[Blue Pond]] and fruit trees. It is on the western [[Partia]].

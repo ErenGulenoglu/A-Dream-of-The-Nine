@@ -1,7 +1,7 @@
 <hr style="margin: 0;">
 <div style="text-align: center; margin: 0;">
-  <img src="House Pond.png" width="125" style="display: block; margin: 0 auto;">
-  <em style="margin: 0; line-height: 1;">Blood runs thicker than water.</em>
+  <img src="House Pond.png" width="125" style="display: block; margin: 8 auto;">
+  <em style="margin: 0; line-height: 1;">Blood Runs Thicker Than Water.</em>
 </div>
 <hr style="margin: 0;">
 

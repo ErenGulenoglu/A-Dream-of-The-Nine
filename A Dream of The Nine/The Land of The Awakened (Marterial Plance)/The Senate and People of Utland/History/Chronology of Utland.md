@@ -37,7 +37,7 @@
 - House Orvyll gets banished to Eastern Forlornwoods.
 
 **838 AA**
-- Kingdom of Utland loses *the War of The Flames*. King Galvyn II von Ewfai dies in the field, his children are put to knife in Ewyngard.
+- Kingdom of Utland loses *the War of The Flames*. King Galvyn II von Ewfai dies in the field during the [[Battle of Embers]], his children are put to knife in Ewyngard.
 - The kingdom starts to get dissolved as Small Kingdoms, tribes of the Blue Desert declare independence.
 - The kingdom revokes itself and SPQU is formed under the initiation of Steward Heber Illarion.
 

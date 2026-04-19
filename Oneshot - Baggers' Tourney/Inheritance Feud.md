@@ -2,6 +2,10 @@
   <img src="trial_by_combat.jpg" alt="Tourney" style="max-width: 600px;">
 </div>
 
+oyunu yazmaya baslamadan once kalan seyler:
+- [[Boris Pond]], ikinci kardesi yaz
+- elf combatant in stat blockunu olustur
+- hanim efendiyi kisaca yaz
 ## Summary
 This small adventure tells the inheritance crisis that [[House Pond]] went through in the summer of **857 AA**, after the death of [[Sir Maryn Pond|Lord Maryn Pond]].
 
