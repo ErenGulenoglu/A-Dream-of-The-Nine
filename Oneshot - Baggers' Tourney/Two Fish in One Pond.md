@@ -52,7 +52,7 @@ oyunu yazmaya baslamadan once kalan seyler:
 - As they step outside, the rain grows stronger. Many people from Village of Blue Pond and [[Appleton]] come to offer their condolences to Sir Gregory, laying flowers at their lord’s tomb.
 	- As this unfolds, lightning turns night into day for a moment. Next to your father’s grave, you see a figure in plate armor holding his cape over a woman kneeling with a baby in her arms, shielding them from the rain. The figure’s face cannot be seen, and the inside of his visor is dark. The knight's sound rises in the rain, and begins to recite the knighthood oaths, and all the people around you join him in unison.
 ## Scene 1: On the Road Side
-- Sir Gregory wakes up. It has been a month since he buried his father. He is on the side of the road that leads to Wolfkeep. Alex is sitting next to a campfire. Gregory lies in his bedroll, feeling sweaty and restless. Their two horses are sleeping about ten meters away from the fire.
+- Sir Gregory wakes up. It has been a month since he buried his father. He is on the side of the road that leads to Wolfkeep. Alex is sitting next to a campfire. Gregory lies in his bedroll, feeling sweaty and restless. Their two horses are sleeping about ten meters away from the fire. On the ground, there are two leather bags. One is carrying Gregory's plate armor. The other belongs to Alex.
 - On the morrow, they will reach Wolfkeep.
 - Some freetime for the character, and roleplaying opportunity.
 ## Scene 2: Wolfkeep
@@ -60,7 +60,9 @@ oyunu yazmaya baslamadan once kalan seyler:
 	
 	As you approach, you see that the gates of the town walls are open, with two guards standing watch at the eastern entrance.
 - If they stay on the road, they arrive near midday.
-- They can request to be taken directly into the inner castle. On the path, some commoners recognize him from his house colors, and wish good fortune to him.
+- They can request to be taken directly into the inner castle. 
+- On the path, some commoners recognize him from his house colors, and wish good fortune to him.
+- One of the commoners asks how he is going to slay the elf?
     - Once inside, they are led to a room prepared for their stay, with all their needs arranged. It has a large bed, a hearth fire, fruits, wine, and decorations in the blue and green colors of their house.
 - Alternatively, they may spend time in the town, seeking services through brief roleplay or by fast-forwarding.
 ## Scene 3: Family Reunion
@@ -93,15 +95,42 @@ oyunu yazmaya baslamadan once kalan seyler:
 ## (Optional) Scene 6: Red Berry vs Blue Berry
 - If Gregory wants to watch another trial, [[House Berry]]'s trial takes place.
 - The arena is a closed tourney field for melee combat. It is within the atrium of the castle. And, there are lots of empty spaces left around the field. From above, nobility can peer into the ring, while on the ground commoners are allowed within this castle for this rare occasion.
+- Describe the scene as you like. Combatants are two mercenaries hired by the both branches of the house. One of them wears half-plate armor and fighting with sword and shield, while the other wears chainmail and fights with mace and shield. 
+- House Blue Berry wins, as the fight gets longer, the mace crushes the opponent's kneecap and ends up with champion of Red Berry dying on the ground. 
 ## Scene 7: A Secret Proposition
 - Gregory’s second cousin, [[Boris Pond]], visits him before the trial. Boris is a man in his thirties, with short black hair combed back.
 	- He asks Gregory whether he intends to fight for Iris Lavoine, noting that she has asked nearly everyone in the castle.
 	- He makes a proposition to Gregory: if Gregory agrees to grant him the Village of Blue Pond and a third of the Blue Pond, he will allow Gregory to keep Knight’s Rest and Appleton. In return, he will proclaim a new house, House Green Pond.
 	- If Gregory asks about Zahar, Boris tells him not to worry, saying that it is uncertain what the next day may bring.
 ## (Optional) Scene 8: Trial By Combat: House Lavoine
-- If Gregory accepts to be champion of Iris Lavoine, he shall face with [[Sir Robyn Vine]]. He has statblock of **Knight**.
+- If Gregory accepts to be champion of Iris Lavoine, he shall face with [[Sir Robyn Vine|Sir Robyn Vine, the Sour Grape]],. He has statblock of **Knight**.
 - Their allowed to choose their own choice of weapons.
-- As they enter the ring, a prayer gets recited, and the some people from the commoners cheer for Sir Gregory. Roll initiative.,
 - If Gregory survives, Sir Alexander Broken tower deems his worthy, and will take matters into his own hands againts the elven champion of _Green Ponds._
+
+`As you walk towards the ring through the secure path that Baron's guardsmen makes for you with their shields. A men who is holding his daughter on his shoudlers tells you: 'May the Fighter grant you strength Sir Pond.' Once you step into the arena, some of the townsfolk throw flowers into the arena towards you.`
+
+`A moment later, from the same path you walked, a tall and strong men in plate armor enters. With one his hands he carries his helmet that has nothing to reflect the lightless gray skies above, and with the other holds a two handed greatsword. He enters the ring, walks past you, and stations on the opposite side of the ring. He places his helmet on his head, and pulls his sword out.`
+
+`On the balcony, you see Baron Diethard Farkel has taken his place in his high seat. There are seats behind him where other members of nobility sits. Among these seats, you see Iris Lavoine. She has gathered her hands, whispering a prayer glancing at you.`
+
+`From above, Baron whispers something to his crier's ear, a men with fine clothes carrying the black and red colors of the baron's house. Then, the crier takes a step forward to the balcony's treshold and shouts: 'Hear you! Hear you! Let no man be so bold as to speak or make sign under the pain of death. Let the combat proceed as ordained. May the Eight defend the right. FIGHT!' Roll initiative.`
+
 ## Scene 9: Trial By Combat: Two Fish in One Pond
-- 
+- **If Sir Alexander deems Gregory worthy:**
+	- Before he goes to the trial, Sir Alexander Brokentower gets rid of his disguise. She shaves his hair and beard, and dons his plate armor. His armor has saw battles, but properly repaired and kept. His plate armor's contains engravings in many places, and engravings carry the color of red. On his central chest piece and on his red cape, there is a symbol of infinity, the symbol of [[The Church of The Eight|the Church of the Eight]].
+		- Roll **Religion** or **History** (DC 13) to understand his organization. ([[Eight Horseman]])
+
+Describe Gentoris Wooddreamer entring to the ring.
+
+`The whole town came to watch this fight. So many people squeze into the castle's atrium, and the crowd pours out of the castle.`
+
+`As Sir Alexander walks through the crowd, people throw flowers in his way, some people try to touch the symbol of the Eight on his armor through guards that are making a path blocking them. When he enters the ring, he puts his unsheated sword againts the fence, and after making the sign of the Eight on his chest, he puts his helmet on.`
+
+`After a moment he slowly draws his sword from its scabbard. As he draws, the gray color light that comes from cloudy skies reflects on his sword's blade, and breaks into thousand colors. His sword hold a thousand colours, that keeps shifting inside his blade.`
+
+`Then, the speech by the crier is given again.`
+
+- **If Sir Alexander does not deem Gregory worthy:**
+	- Gregory fights for himself.
+	- Iris Lavoine accepts to marry with her brother in law, Iosif Lavoine to protect her son.
+	- Repeat the same description when Gregory is entering the ring in the Lavoine fight. Except this time, his uncles are watching him from the balcony.
