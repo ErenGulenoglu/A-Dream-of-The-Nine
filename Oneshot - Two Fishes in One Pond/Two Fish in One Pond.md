@@ -97,7 +97,7 @@ The adventure will conclude on these possibilities: Gregory fighting his own tri
 	- He makes a proposition to Gregory: if Gregory agrees to grant him the Village of Blue Pond and a third of the Blue Pond, he will allow Gregory to keep Knight’s Rest and Appleton. In return, he will proclaim a new house, House Green Pond.
 	- If Gregory asks about Zahar, Boris tells him not to worry, saying that it is uncertain what the next day may bring.
 ## (Optional) Scene 8: Trial By Combat: House Lavoine
-- If Gregory accepts to be champion of Iris Lavoine, he shall face with [[Sir Robyn Grape|Sir Robyn Grape, the Sour Grape]],. He has statblock of **Knight**.
+- If Gregory accepts to be champion of Iris Lavoine, he shall face with [[Sir Robyn Grape|Sir Robyn Grape, the Sour Grape]],. He has statblock of [**Knight**](https://www.dndbeyond.com/monsters/16938-knight).
 - Their allowed to choose their own choice of weapons.
 - If Gregory survives, Sir Alexander Broken tower deems his worthy, and will take matters into his own hands against the elven champion of _Green Ponds._
 
