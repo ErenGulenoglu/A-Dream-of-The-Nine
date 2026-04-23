@@ -5,3 +5,19 @@
 **Ser Alexander Brokentower**, _Lord Fighter_, the Shieldbreaker, was a lawful good **fighter** and a male descendant of [[House Brokentower]]. Alexander was born in 797 AA at [[Whitestone Castle]] in [[Orfyn]], the eastern province of [[The Senate and People of Utland|the republic]].
 
 Alexander was a member of the [[Eight Horsemen]]. He served during the time of [[Vicar Lucius Berklen]] and the Vicars before him. He was one of the field commanders during _the War of the Flames_, and commanded the vanguard of [[Galvyn II von Ewfai|King Galvyn II]] at the [[Battle of Embers]]. He slew [[Quarion Del Meliamne]], the field marshal of the Elven Coalition, on the battlefield. He was the last surviving member of the Eight Horsemen, and was granted the title of _Lord Fighter_ in 843 AA by His Holiness, Vicar Lucius Berklen.
+
+<hr style="margin: 0;">
+
+**Personality Traits**
+: Despite my noble birth, I do not place myself above other folk. We all have the same blood.|
+: I keep multiple holy symbols on me and invoke whatever deity might come in useful at any given moment.
+
+**Ideals**
+: **Respect.** Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good)
+: **Noble Obligation.** It is my duty to protect and care for the people beneath me. (Good) 
+
+**Bonds**
+: My loyalty to my sovereign is unwavering.|
+
+**Flaws**
+: I cling to my oaths and code of honor even when they lead me to serve unworthy masters or make the wrong choice.
