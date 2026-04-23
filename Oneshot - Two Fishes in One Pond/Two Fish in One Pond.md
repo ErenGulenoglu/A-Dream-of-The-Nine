@@ -126,13 +126,13 @@ The adventure will conclude on these possibilities: Gregory fighting his own tri
 	
 	As Sir Alexander enters to the scene, people throw flowers in his path. Some reach out, trying to touch the symbol of the Eight on the chestplate of his armor and at the back of his cape, held back by guards who force a path through the press. When he enters the ring, he sets his unsheathed sword against the fence. After making the sign of the Eight upon his chest, he places his helmet on. After a moment, he slowly draws his sword. As the blade leaves its scabbard, the gray light from the cloudy sky catches upon it and fractures into a thousand colors. The sword holds those shifting hues within its steel.`
 
-	The combat begins with the elf circling Sir Alexander, casting and throwing spells at him. Sir Alexander raises his shield, blocking the incoming magic, and presses forward whenever the elf pauses to complete a spell’s somatic components. Several times, the elf manages to push him back with bursts of magic as he closes the distance, and this pattern repeats.
+	The combat starts with the elf trying to circle around Sir Alexander, casting and throwing spells at him. Sir Alexander uses his shield to block the incoming magic and presses forward quickly whenever the elf pauses to finish the somatic components of his spells. The elf manages to cast several spells as Sir Alexander closes the distance, pushing him back, and the cycle repeats.
 	
-	This initial exchange lasts around fifteen to twenty seconds, until the elf begins to show signs of fatigue from constant casting. Seizing the moment, Sir Alexander closes the distance completely.
+	This initial phase lasts around 15–20 seconds, until the elf begins to show signs of fatigue from constant casting, and Sir Alexander finally closes the distance between them.
 	
-	From there, the fight turns sharply against _Green Pond_. With no space left, Sir Alexander drops his shield and takes his sword in both hands. The elf strikes twice, but his blows glance off the armored plates or are parried. In return, Sir Alexander delivers four precise attacks, targeting the elf’s arms and legs.
+	After that, the close combat quickly goes downhill for _Green Pond_, as the distance is fully closed. Sir Alexander drops his shield and grips his sword with both hands. While the elf makes two attacks that either strike the armored plates or are parried, Sir Alexander delivers four attacks aimed at the elf’s arms and legs.
 	
-	The fight ends when the elf, gripping his sword with both hands, tries to match Sir Alexander’s rhythm. He fails. Sir Alexander disarms him and opens a wound in his leg, forcing him to his knees. The elf looks up at him and loudly declares, “I yield.”`
+	The maneuver that ends the combat comes when the elf holds his sword with both hands, trying to match Sir Alexander’s rhythm, but fails. Sir Alexander disarms him and opens a wound in his leg, forcing him to drop to his knees. The elf looks at Sir Alexander and loudly says, “I yield.”`
 
 - **If Sir Alexander does not deem Gregory worthy:**
 	- Gregory fights for himself.
