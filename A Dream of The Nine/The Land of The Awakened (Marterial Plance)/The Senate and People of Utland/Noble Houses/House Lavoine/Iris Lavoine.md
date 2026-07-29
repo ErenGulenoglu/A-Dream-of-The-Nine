@@ -6,4 +6,4 @@
 
 She married [[Sotos Lavoine|Lord Sotos Lavoine]] and became a widow and Lady Regent of [[House Lavoine]] in the spring of 857 AA, when her husband fell ill and died on the road to [[Ewyngard]]. Her son, [[Stamatis Lavoine]], had his claim challenged by her brother-in-law, [[Iosif Lavoine]]. After she rejected his marriage proposal, he accused her of poisoning her husband and claimed that her son was a bastard.
 
-In the summer of 857 AA, she was summoned by [[Diethard Farkel]] to [[Wolfkeep]] to defend herself and her son against the accusations made by her brother-in-law.
+In the summer of 857 AA, she was summoned by [[Diethard Farkvel]] to [[Wolfkeep]] to defend herself and her son against the accusations made by her brother-in-law.

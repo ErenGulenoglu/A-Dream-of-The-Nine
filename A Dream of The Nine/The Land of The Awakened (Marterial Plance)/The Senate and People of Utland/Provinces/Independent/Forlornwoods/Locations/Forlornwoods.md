@@ -4,8 +4,6 @@
 </div>
 
 **Forlornwoods** is the fiefdom of [[House Orvyll]]. Before _the War of Flames_, it served as a key passage along the southern trade route. Long before the Awakening, the area was a vast lake. In that era, dwarves shaped the land and the [[Lost Mountains]] to carve a flow path for the _Rock River_. After the Awakening, the lake gave way to forest, and the region became what is now known as Forlornwoods.
-<hr style="margin: 0;">
-
 ## Geography
 <hr style="margin: 0;">
 
@@ -30,8 +28,6 @@ The valley is forested with various tree types—hardwoods on the west side and 
 In addition, various uniquely shaped trees with multicolored leaves commonly grow in the western part. These trees are said to have sprung from the bodies of elves who died during the siege of Greenfort and were buried within the forest afterward.
 
 The overall atmosphere and grass tend to be brighter and more colorful on the western side of the forest, as it is one of the rare places touched by the light of the Alf of [[Ard Caëd]].
-<hr style="margin: 0;">
-
 ## Inhabitants
 <hr style="margin: 0;">
 
@@ -44,8 +40,6 @@ In addition, [[Saltuarius Tribe]]—a small migrant gatherers—travelled in the
 After _the War of Flames_, as the region grew more isolated, sightings of goblinoids became increasingly common.
 
 It is said that Forlornwoods still harbors ancient nature spirits who hide themselves from the sleepers.
-<hr style="margin: 0;">
-
 ## Wilderness
 <hr style="margin: 0;">
 Forlornwoods is not safe. The place is haunted by the ghosts of people who died during the siege of Greenfort, monsters that born out of darkness that seeped in the forest, and beasts of the nature.

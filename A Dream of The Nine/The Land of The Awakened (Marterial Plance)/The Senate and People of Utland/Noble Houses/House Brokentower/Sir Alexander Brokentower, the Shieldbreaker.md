@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="Sir Albert Brokentower.jpg" alt="NPC Name" style="max-width: 350px;">
+  <img src="Sir Alexander Brokentower.jpg" alt="Sir Alexander Brokentower" style="max-width: 350px;">
 </div>
 
 **Ser Alexander Brokentower**, _Lord Fighter_, the Shieldbreaker, was a lawful good **fighter** and a male descendant of [[House Brokentower]]. Alexander was born in 797 AA at [[Whitestone Castle]] in [[Orfyn]], the eastern province of [[The Senate and People of Utland|the republic]].

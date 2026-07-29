@@ -5,7 +5,7 @@
 ## Summary
 This small adventure tells the inheritance crisis that [[House Pond]] went through in the summer of **857 AA**, after the death of [[House Pond#^MarynPond|Sir Maryn Pond]].
 
-At the start of the adventure, [[Gregory Pond]] gets knighted by his father, Sir Maryn Pond, and few days later he gets called by [[Diethard Farkel|Baron Diethard Farkel]] to [[Wolfkeep]] to answer to accusations of his cousins, cadet branch _Green Pond_. Sir Maryn Pond aware of what is going to happen, before his death he tells his son that knighthood is the soul of their family. If his brothers' children to inherit their titles, their legacy of knighthood will die as they will exchange it for gold.
+At the start of the adventure, [[Sir Gregory Pond]] gets knighted by his father, Sir Maryn Pond, and few days later he gets called by [[Diethard Farkvel|Baron Diethard Farkel]] to [[Wolfkeep]] to answer to accusations of his cousins, cadet branch _Green Pond_. Sir Maryn Pond aware of what is going to happen, before his death he tells his son that knighthood is the soul of their family. If his brothers' children to inherit their titles, their legacy of knighthood will die as they will exchange it for gold.
 
 Sir Maryn Pond is aware that if the things end up in trial by combat, _Green Ponds_ can bring a champion that outmatches his son. For this, understanding that he will die, Sir Maryn send ravens to [[Basilica Arbitria]], for his old friend [[Sir Alexander Brokentower, the Shieldbreaker]] to test his son, whether he is worthy of carrying knighthood oaths and fight againts opponents that are above his skills if he deemed worthy. Sir Alexander hides his identity to percieve Gregory and not reveal his skills againts his possible opponents.
 
@@ -34,7 +34,7 @@ The adventure will conclude on these possibilities: Gregory fighting his own tri
 	You stand in your father’s room with three other people: Father Cerdo, Captain of the guard Tinus, and your father’s friend Alex, beside your father’s deathbed."
 
 - Describe the room and the NPCs. A soft spring rain falls to [[Blue Pond]].
-    - Father Cerdo wears white robes, adorned with a symbol of a shining sun, a priest of [[The Lightkeeper|the Lightkeeper]] from [[Village of Blue Pond]]. A crescent moon with yellow accents is displayed on the chest of his robe. He is a man in his fifties, with a grey beard and wheat-colored skin.
+    - Father Cerdo wears white robes, adorned with a symbol of a shining sun, a priest of [[The Lightkeeper|the Lightkeeper]] from [[Finton]]. A crescent moon with yellow accents is displayed on the chest of his robe. He is a man in his fifties, with a grey beard and wheat-colored skin.
     - Captain of the household guard, Titus, wears chainmail armor. He is a tall man with a black moustache. He has removed his helmet and holds it in his hands, his head bowed.
     - Your father’s friend, Alex, stands at the foot of your father’s bed. He is a man in his sixties, with long white hair and a beard. He carries a longsword at his belt.
 - Sir Maryn tells his son to come closer.
@@ -43,7 +43,7 @@ The adventure will conclude on these possibilities: Gregory fighting his own tri
         "I swear to be faithful and loyal to my king and my father, to defend him and his innocent servants, to act with justice and mercy, to uphold honor in all deeds, and to never let fear overcome me, even in death."
     - Then he touches both of Gregory’s shoulders with a longsword that stands against the wall at the head of his bed. At the final touch, he lets the sword fall from his hands onto Gregory’s knees as he passes away.
 - Father Cerdo comes closer and tells Sir Gregory that everything is settled for the burial. With his word, they can begin the burial of his lordship.
-- As they step outside, the rain grows stronger. Many people from Village of Blue Pond and [[Appleton]] come to offer their condolences to Sir Gregory, laying flowers at their lord’s tomb.
+- As they step outside, the rain grows stronger. Many people from [[Finton]] and [[Appleton]] come to offer their condolences to Sir Gregory, laying flowers at their lord’s tomb.
 	- As this unfolds, lightning turns night into day for a moment. Next to your father’s grave, you see a figure in plate armor holding his cape over a woman kneeling with a baby in her arms, shielding them from the rain. The figure’s face cannot be seen, and the inside of his visor is dark. The knight's sound rises in the rain, and begins to recite the knighthood oaths, and all the people around you join him in unison.
 ## Scene 1: On the Road Side
 - Sir Gregory wakes up. It has been a month since he buried his father. He is on the side of the road that leads to Wolfkeep. Alex is sitting next to a campfire. Gregory lies in his bedroll, feeling sweaty and restless. Their two horses are sleeping about ten meters away from the fire. On the ground, there are two leather bags. One is carrying Gregory's plate armor. The other belongs to Alex.
@@ -75,7 +75,7 @@ The adventure will conclude on these possibilities: Gregory fighting his own tri
     - He states that the accusations against Gregory’s status as a knight have been brought forward by Zahar Pond. He asks Gregory if he is truly a knight, and then asks him to recite his knighthood oath.
     - He then argues that, as their family holds the status of hereditary landed knights, the oath is now questionable, since Utland no longer has a king. With the realm reformed into a republic, he claims that the eldest male of the family has the right to inheritance, as Gregory’s oath binds him to a king who no longer exists.
     - He then asks Gregory to defend his title against these accusations.
-- In the end, he reaches the conclusion that since Gregory’s oath binds him to kings who no longer exist within the government of the SPQU, his knighthood oath, and therefore his claim to the lordship of House Pond, is invalid.
+- In the end, he reaches the conclusion that since Gregory’s oath binds him to kings who no longer exist within the government of SPQU, his knighthood oath, and therefore his claim to the lordship of House Pond, is invalid.
     - If Gregory does not call for a trial by combat, he loses his status as a knight and his right to rule House Pond.
     - If Gregory demands trial by combat, Baron Diethard asks for parties champions. And the trial to be held on the open field outside of the town two days from now.
 	    - Zahar states his family's champion shall be [[Gentoris Wooddreamer]], a woodelf warrior.
@@ -94,7 +94,7 @@ The adventure will conclude on these possibilities: Gregory fighting his own tri
 ## Scene 7: A Secret Proposition
 - Gregory’s second cousin, [[Boris Pond]], visits him before the trial. Boris is a man in his thirties, with short black hair combed back.
 	- He asks Gregory whether he intends to fight for Iris Lavoine, noting that she has asked nearly everyone in the castle.
-	- He makes a proposition to Gregory: if Gregory agrees to grant him the Village of Blue Pond and a third of the Blue Pond, he will allow Gregory to keep Knight’s Rest and Appleton. In return, he will proclaim a new house, House Green Pond.
+	- He makes a proposition to Gregory: if Gregory agrees to grant him [[Finton]] and a third of the Blue Pond, he will allow Gregory to keep Knight’s Rest and Appleton. In return, he will proclaim a new house, House Green Pond.
 	- If Gregory asks about Zahar, Boris tells him not to worry, saying that it is uncertain what the next day may bring.
 ## (Optional) Scene 8: Trial By Combat: House Lavoine
 - If Gregory accepts to be champion of Iris Lavoine, he shall face with [[Sir Robyn Grape|Sir Robyn Grape, the Sour Grape]],. He has statblock of [**Knight**](https://www.dndbeyond.com/monsters/16938-knight).
@@ -140,8 +140,11 @@ The adventure will conclude on these possibilities: Gregory fighting his own tri
 	- Repeat the same description of Gregory entering the ring as in the Lavoine trial, except this time his uncles are watching him from the balcony.
 ## Scene 10: Trial By Combat: Two Fish in One Pond
 - The game can end with many possibilities.
-	- Sir Gregory Pond winning the trials and becoming ending the succession crisis within House Pond.
+	- Sir Gregory Pond winning the trials and ending the succession crisis within House Pond.
 	- Sir Gregory Pond using magic within the trials openly, and getting arrested and burned after.
 		- Or Sir Alexander can protect him from getting burned, and instead take him to the capital, [[Ewyngard]] for his fate's decision to be made by his holiness [[Vicar Lucius Berklen]].
 	- Sir Gregory can keep some of his lands in his hands by coming to an agreement with _Green Ponds_.
 	- Sir Gregory can die.
+
+- Sir Gregory Pond chooses to speak with His Holiness Vicar Lucius Berklen.
+- Iris Lavoine rules House Pond in his absence on Sir Gregory's request.
