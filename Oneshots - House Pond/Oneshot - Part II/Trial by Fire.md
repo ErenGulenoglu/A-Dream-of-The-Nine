@@ -9,11 +9,11 @@ The time skip begins when Sir Gregory arrives at [[Basilica Arbitria]] in [[Ewyn
 
 At the start of the adventure, Sir Gregory travels along the main road leading into his homeland, [[Ample Grove]]. There he comes across a small group of bandits who attempt to rob him before letting him go. These individuals are [[Kaltik]] refugees who were driven from their homes by orc tribes moving east from [[Giant Foothills]] after the collapse of the Kingdom of Utland. Over time, these refugees turned to banditry to earn a living, as they were driven away wherever they went within the SPQU. Eventually, they migrated to Ample Grove after [[Diethard Farkvel|Baron Diethard Farkvel]] allowed them to travel east, provided they did not remain within his lands. Their presence was soon discovered by [[Zahar Pond]], Gregory's eldest cousin, who seeks to rule House Pond and its lands. Zahar hired the Kaltik refugees to wage irregular warfare in [[Ample Grove]] against Sir Gregory, with the goal of killing him if possible, or otherwise weakening his forces until he is forced to surrender or concede land.
 
-The Kaltik refugees are led by [[Two-Blade Connor]], a renowned hunter of his tribe who found opportunity in banditry in exile. He gathered the men of his tribe around him, promising to provide for their families with gold, and if they managed to kill the lord of [[Knight's Rest]], a place where they could finally live in peace without being driven out by others, as they themselves once had been.
+The Kaltik refugees are led by [[Hunter Kroman]], a renowned hunter of his tribe who found opportunity in banditry in exile. He gathered the men of his tribe around him, promising to provide for their families with gold, and if they managed to kill the lord of [[Knight's Rest]], a place where they could finally live in peace without being driven out by others, as they themselves once had been.
 
 The tribe has established its camp within the forest, protected by traps and guarded at all times. They conduct hit-and-run raids on villages, killing any guards they encounter on sight and anyone who attempts to resist. If the guards withdraw, they assume the role of the local militia, looting harvests, game, and crops, while sharing the spoils only with families whose at least one member joins their ranks. Because of this, many villagers have fled to [[Appleton]], seeking safety closer to Knight's Rest.
 
-However, the tribe itself is divided. One half remains loyal to Connor and supports banditry, believing that, after being rejected everywhere they went in Utland, the only way to secure a future is to carve one out by force. The other half wishes to leave violence behind and establish a new home by reaching an agreement with the local authorities instead of forcing the people into submission.
+However, the tribe itself is divided. One half remains loyal to Kroman and supports banditry, believing that, after being rejected everywhere they went in Utland, the only way to secure a future is to carve one out by force. The other half wishes to leave violence behind and establish a new home by reaching an agreement with the local authorities instead of forcing the people into submission.
 
 Gregory must decide how to deal with the situation, as his time, resources, and household guards continue to dwindle. At [[Knight's Rest]], his eldest brother **Garibald**, who survived the dragon fire, watches him closely and serves as an old guardian of the house, judging whether Gregory is worthy to lead House Pond through a time of crisis.
 
@@ -24,14 +24,35 @@ The adventure concludes with one of several possible outcomes: Gregory assaults 
 - After two months of travel to the capital, the two knights have reached to [[Basilica Arbitria]], the central administrative cell of the Church of the Eight, also known as the city within city. Here, Sir Alexander arranged a private meeting with his holiness for Gregory.
 - In this meeting the spellcasting nature of Sir Gregory was revealed to his holiness, Sir Alexander reporting that he perceived no evil acts or intention of Gregory, and vouching that Gregory's family was royal to Utland. Gregory is asked to put his right hand in holy water, drink holy water, and pray to gods to prove that his spellcasting nature contains no evil. Finally, he is asked to swear that he shall never use them for selfish purposes or against the innocent souls of the realm, lest the curse of the gods be upon him. Once he mad the oath, he was free to go. His holiness adds that, when the time comes, he might be asked to put his abilities to good use for the realm of the awakened.
 - Sir Alexander gifted Gregory a white painted **+1 Shield** with steel rim, core made of oak, with a red symbol of the Eight on in. And, Gregory sets his way to his home, to Ample Grove.
+- Would Gregory travel back to his home with bodyguards, or alone? Would he keep a low profile on the road, or wear colors of his house or an armor?
 ## Scene 1: Homecoming
-- abisi kurtarmaya gelir 
-
+	After being away from home nearly for 5 months, in 857 AA October, Gregory slowly rides his horse to the northern enterence of the Ample Grove. Blue Lake pours from the heart of Mount Ternesah shines a bright turquoise againts the green surface of the mountain, and cuts into the grove, and flows to the Blue Pond where then spreads into many small creeks that goes north. The familiar oaks, elms, pines, spruce, birch, and chestnut trees welcomes their lords arrival, bent from the rains of Fall from the sides of the main road. Strangely, there is no traveler in the road that climbs up north to Ewyngard but Gregory.
+- After 3 minutes of riding, Gregory sees a fallen moon tree blocking the road.
+	- Moon trees are special trees that signify the peace between [[Ard Caëd]] and Kingdom of Utland. The moon tree seeds planted in Ample Grove are gift of the council of the High Forest.
+	- After the plantation of moon trees to Ample Grove, King [[Owyn I von Ewfai]] decreed that the grove shall we parted between his well respected two magister equitum (master of the horse), Magister Fluvius who later found [[House Pond]], and Magister Publius who later found [[House Luna]].
+	- Cutting moon trees are forbidden. Moon trees grow less frequent on the northern side of the Blue River. Moon trees grove blue flowers, and gave a fruit called [[Ai'nish|ai'nsh]] that looked like blue apples that had small grains like of fig inside.
+- Four Kaltik **bandits** loyal to Hunter Kroman closing off the northern entrance of Ample Grove, looting peoples valuables and letting them go to south afterwards. Two of them wear uniforms of towns guard of House Pond that they killed (leather armor with green fish on its chest), while other 2 waits behind the trees with longbow in their hands.
+	- For people who they loot, they say lord ordered them to tax people who are passing from this road.
+## Scene 2: Knight's Rest
+	As you draw closer to Blue Pond, a large fortified manor with blue roof tiles and gray stone walls reveals itself among the trees on the western shore of the lake. High outer walls extend toward the forest, denying any easy approach or immediate chance of capture. The lakeside foundations of the manor are built directly into Blue Pond itself. The doors facing the lake are thick, iron-bound, and defensible against siege, forcing anyone wishing to reach the lakeside platform to swim.
+	
+	The walls of the manor have more arrow slits than windows, and guards can be seen stationed from the highest level of the keep down to the outer walls. The militaristic nature of House Pond shaped this manor into more of a castle than a residence, a fortress built in what seemed like a paradise beyond the reach of enemies, yet always prepared for the day they might come. You reach Knight's Rest, your home.
+- Gregory is taken in by Captain Titus, and given brief about ongoing crisis.
+- 80 guards remains that serve House Pond. 20 killed in past 2 months. Bandits are hiding inside the forest, setting traps. 
+- [[Iris Lavoine]] left the defense and recapturing of the villages to Captain of the household guard Titus, but he is not willing to follow the obvious decision, burning the forest.
+- A group of bandits came to the center of Partia, and killing guards and looting villages unexpectedly. Captain Titus does not know how did this group managed to pass through other lords lands to arrive to Ample Grove, and specifically attacking House Pond, not [[House Moon]].
+- His brother in here, as an old servant of House Pond.
+- Iris can give more insight into how this group might have come from west with permission of Baron [[Diethard Farkvel]].
+- Conflict between Captain Titus and his brother. Captain Titus doesnt want to burn the forest for the moon trees are sacred gifts and it would destroy half of the forest production of the house approximately burning 25 km2 of land, but instead wants to clear the forest by ambushing and outnumbering small groups. While his brother suggests burning of the forest from 3 sides, leaving no escape, and forcing bandits to fight to come to them without stepping into the traps Traps and ground advantage is on Kaltik refugees side.
+- Dream: The knight burns the forest.
+- House Moon do not help as they did not keep their militaristic nature, and have many soldiers as House Pond.
 ## Sahne 2:
 - evdeki durumlar
 - [[Iris Lavoine]] durum raporu verir
 - golden koylerin gorunumu
-- 
+- bagislamak (secenek)
+- hangi approach (secenek)
+- ruyasinda sovalyeyi gorur
 ## Sahne 2 (Kotu giderse)
 - kale kusatmasi, neckleace of fireball beadlerini kullanarak kapiyi patlatirlar
 
