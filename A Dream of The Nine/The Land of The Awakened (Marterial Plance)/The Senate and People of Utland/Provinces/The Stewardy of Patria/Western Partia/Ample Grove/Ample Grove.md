@@ -17,9 +17,17 @@ Apart from moon trees, there were oaks, elms, pines, spruce, birch, and chestnut
 ## History
 <hr style="margin: 0;">
 
-The Council of Elders of High Forest offered [[Owyn I von Ewfai]] to plant valuable moon tree seeds of elves within his land as a sign of friendship between their countries in 585 AA. As the trees were planted by elves to grove around Blue Pond, the area was named Ample Grove. To settle on this natural beauty, Owyn I von Ewfai decreed that the grove shall we parted between his well respected two magister equitum (master of the horse), Magister Fluvius who later found [[House Pond]], and Magister Publius who later found [[House Moon]].
+The Council of Elders of High Forest offered [[Owyn I von Ewfai]] to plant valuable moon tree seeds of elves within his land as a sign of friendship between their countries in 585 AA. As the trees were planted by elves to grove around Blue Pond, the area was named Ample Grove. To settle on this natural beauty, Owyn I von Ewfai decreed that the grove shall we parted between his well respected two magister equitum (master of the horse), **Magister Fluvius** who later found [[House Pond]], and **Magister Publius** who later found [[House Moon]].
 ## Inhabitants
 <hr style="margin: 0;">
-originally no people lived in the small grove before it was assigned to loyal magisters of the king, so people who migrated here are orignally people of king who he brought his people from mountain with him
+Originally no people lived in the small grove before it was decreed as a property to the loyal magisters of the king. The people who first settled here are [[Sötonian]] humans who originally migrated to [[Utland]] with [[Owyn I von Ewfai]]. In time, the prosperity of the grove pulled [[Utlian]] population, which the cultural mix defined the rule of [[von Ewfai]].
 
+## Notable Locations
+<hr style="margin: 0;">
+- **[[Knight's Rest]]**
+- **[[Appleton]]**
+- **[[Finton]]**
+- **Blue Pond**
+- **Blue River**
+- **Mount Tarnesah**
 Blue Pond: 10 kilometer square

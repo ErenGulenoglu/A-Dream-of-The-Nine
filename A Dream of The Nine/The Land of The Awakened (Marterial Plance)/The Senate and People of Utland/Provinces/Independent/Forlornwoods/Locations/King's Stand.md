@@ -8,7 +8,7 @@
 Most of the human population remained in King’s Stand, choosing to stay near the lands their families had lived on for generations. The dwarven population, however, has dwindled—many choosing to return to their kin in the [[Broken Mountains]]. King’s Stand attempted to assume the role once held by [[Greentown]] as a center of trade, but with the southern trade routes shifting once again, the region fell back into isolation.
 
 King’s Stand survives through husbandry, woodcutting, beekeeping, hunting, fur trading, and the cultivation of forest herbs.
-- Exports: Wood, Fur, Herbs, Goats, Chicken, Honey
+- Exports: Wood, Fur, Herbs, Goat, Chicken, Honey
 - Government: Lordship
 - Races: Humans, Halflings, Dwarves
 - Region: South-West SPQU Border

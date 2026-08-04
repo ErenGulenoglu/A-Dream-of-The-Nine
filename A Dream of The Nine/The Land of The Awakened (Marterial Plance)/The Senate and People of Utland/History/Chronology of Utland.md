@@ -12,7 +12,7 @@
 - Reconstruction of the church of Arbitria finishes.
 
 **583 AA**
-- [[Ewyn I von Ewfai]] is assassinated on the battlefield after the fighting has ended, killed by [[Sergej Tepes]], brother of Tatrian Voivode [[Lugos Tepes]], who had disguised himself as a wounded deserter.
+- [[Ewyn I von Ewfai]] is assassinated on the battlefield after the fighting has ended, killed by [[Sergej Tepes]], brother of Tatrian Voivode [[Lugos Tepes]], who had disguised himself as a wounded soldier.
 - [[Owyn I von Ewfai]] succeeds his father as the new *General*.
 
 **584 AA**

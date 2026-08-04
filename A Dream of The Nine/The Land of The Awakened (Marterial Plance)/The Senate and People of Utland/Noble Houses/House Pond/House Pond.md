@@ -5,7 +5,7 @@
 </div>
 <hr style="margin: 0;">
 
-**House Pond** is a noble house, a landed hereditary knighthood, located in [[Patria]], the northern province of [[The Senate and People of Utland|the republic]]. Their ties trace back to the cavalry of [[Ewyn I von Ewfai]]. Their seat of power, [[Knight's Rest]], lies within [[Ample Grove]], built on the eastern side of [[Blue Pond]]. House Pond is favored by their subjects, as they maintain light tax policies in favor of their villagers. House Pond rules over the villages of [[Finton]], and [[Appleton]].
+**House Pond** is a noble house, a landed hereditary knighthood, located in [[Patria]], the northern province of [[The Senate and People of Utland|the republic]]. Their ties trace back to the cavalry of [[Ewyn I von Ewfai]]. Their seat of power, [[Knight's Rest]], lies within [[Ample Grove]], built on the western side of [[Blue Pond]]. House Pond is favored by their subjects, as they maintain light tax policies in favor of their villagers. House Pond rules over the villages of [[Finton]], and [[Appleton]].
 
 Historically a militaristic family renowned for raising knights, they lost all male heirs but the youngest of the senior branch (Blue Ponds) after _the War of the Flames_. Their coat of arms is a green fish on a blue field, and their motto is “Blood runs thicker than water.”
 <hr style="margin: 0;">
