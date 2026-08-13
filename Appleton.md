@@ -21,7 +21,11 @@ Twenty-five militia guard this village at all times, a number that is more than 
 ## Notable Locations
 <hr style="margin: 0;">
 
-### Church of The Lightkeeper
-<hr style="margin: 0;">
-
-	asd
+- **Church of The Lightkeeper**
+	- As [[Moon Tree|moon trees]] planted in Ample Grove by High Elves of [[Ard Caëd]] are a gift of [[Ikril]], Elven goddess of light whose avatar is the moon, to adopt and apply the philosophy of [[The Belief of The Eight|the Eight]], lords of Blue Pond supported existence of a Church of the Lightkeeper to not go against *the lady fire*, and accept the moon trees as a gift of the Lightkeeper. 
+- **A Bottle of Al'Var**
+	- This winery is operated by [[Belril of Al'Var]], a half-elven male **apprentice wizard**, who is in his seventies, made wine since his early teens. He migrated to Ample Grove after _the War of Flames_, when [[Al'Var]] was burnt down by the elven coalition. He is a lively fellow who likes to crack jokes, and make good wine. He knows a special spell taught from his master named _Age Wine_, which the spell increases the quality and value of the wine by bringing it to maturity.
+	- In the depot of winery, apple and ai'nish wines are made and sold on a small shop on front.
+	- Their signature wine is blue wine made from ai'nish.
+- **Blue Pie Tavern**
+	- This tavern is known with its sweet ai'nish pies that give out blue color.

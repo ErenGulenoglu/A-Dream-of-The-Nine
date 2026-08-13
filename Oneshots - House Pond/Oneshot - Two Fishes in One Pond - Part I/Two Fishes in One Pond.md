@@ -138,7 +138,7 @@ The adventure will conclude on these possibilities: Gregory fighting his own tri
 	- Gregory fights for himself.
 	- Iris Lavoine agrees to marry her brother-in-law, Iosif Lavoine, to protect her son.
 	- Repeat the same description of Gregory entering the ring as in the Lavoine trial, except this time his uncles are watching him from the balcony.
-## Scene 10: Trial By Combat: Two Fish in One Pond
+## Scene 10: Endings
 - The game can end with many possibilities.
 	- Sir Gregory Pond winning the trials and ending the succession crisis within House Pond.
 	- Sir Gregory Pond using magic within the trials openly, and getting arrested and burned after.

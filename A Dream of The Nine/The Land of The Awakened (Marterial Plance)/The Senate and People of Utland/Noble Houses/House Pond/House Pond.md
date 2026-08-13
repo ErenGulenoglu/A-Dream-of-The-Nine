@@ -18,7 +18,7 @@ Historically a militaristic family renowned for raising knights, they lost all m
 
 Sir Maryn was born in 783 AA. He was the eldest son of **Sir Samuel Pond**. He succeeded his father at the age of 14, upon Sir Samuel’s early death. In 784 AA, he married his betrothed, **[[Idil Pond]]**. He was known for his martial prowess. He unhorsed [[Louise Rose|Sir Louise Rose]], a renowned knight and brother of [[House Rose#^JacquesI|Duke Jacques I Rose]] in 808 AA in the [[Tournament of Roses]].
 
-Sir Maryn had his firstborn son, **Garibald Pond**, in 799 AA. His second-born son, **Gelther Pond**, was born in 802 AA. His third-born son, **Gerwald Pond**, was born in 806 AA. In 834 AA, his youngest son, [[Sir Gregory Pond]], was born.
+Sir Maryn had his firstborn son, **[[Garibald Pond]]**, in 799 AA. His second-born son, **Gelther Pond**, was born in 802 AA. His third-born son, **Gerwald Pond**, was born in 806 AA. In 834 AA, his youngest son, [[Sir Gregory Pond]], was born.
 
 In 836 AA, when [[Galvyn II von Ewfai|King Galvyn II von Ewfai]] called his banners to march against [[Veretia]], Sir Maryn gathered his 100 household soldiers and levies to join the king’s campaign. He and his sons witnessed the burning of [[Alves|the Alf Tree of Veretia]]. At the [[Battle of Embers]], while leading a cavalry flank, he lost his sons **Garibald**, **Gelther**, and **Gerwald** to dragon fire. In 840 AA, his wife, **Lady Idil Nevenir**, passed away.
 

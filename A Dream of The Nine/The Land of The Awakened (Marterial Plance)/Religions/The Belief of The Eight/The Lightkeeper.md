@@ -3,7 +3,7 @@
   <img src="The Lightkeeper.png" width="100" style="margin:0; margin-right: 8px;">
   <span style="margin:0; display: flex; flex-direction: column;">
     <span style="margin:0; display: inline-flex; gap: 3px;">
-      <em>The Lady of Light,</em>
+      <em>The Lady Fire,</em>
       <em>The Weaver of Souls,</em>
       <em>The Selfless</em>
     </span>

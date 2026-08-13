@@ -2,7 +2,7 @@
   <img src="LemanAlvar.png" alt="NPC Name" style="max-width: 350px;">
 </div>
 
-**Leman of Al'Var** was a half-elf **bard** born in [[Al'Var]] in the year 767 AA. He had a daughter named **[[Linda of Al'var|Linda]]**, a quarter-elf with arcane in her blood, born in 838 AA. Leman lived most of his life wandering across the Land of the Awakened, playing his tunes, working as a musician and mercenary, until he one day learned that a tavern girl he once had an affair with had borne him a child. After meeting his infant daughter, Leman left his adventuring life, took Linda with him, and settled in [[Fascesstadt]].
+**Leman of Al'Var** was a half-elf **bard** born in [[Al'Var]] in the year 767 AA. He had a daughter named **[[Linda of Al'Var|Linda]]**, a quarter-elf with arcane in her blood, born in 838 AA. Leman lived most of his life wandering across the Land of the Awakened, playing his tunes, working as a musician and mercenary, until he one day learned that a tavern girl he once had an affair with had borne him a child. After meeting his infant daughter, Leman left his adventuring life, took Linda with him, and settled in [[Fascesstadt]].
 
 Seeking to build a stable future and a business for his family on King's Bank, Leman took the role of a fixer, providing valuable information and materials to both sides of the river using the network he had built during his adventuring years.
 
