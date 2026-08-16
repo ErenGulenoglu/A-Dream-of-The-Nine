@@ -4,117 +4,156 @@
     "type": "split",
     "children": [
       {
-        "id": "c221508367512cd0",
+        "id": "3e7a04327674b568",
         "type": "tabs",
-        "dimension": 49.870466321243526,
         "children": [
           {
-            "id": "b320407173eed88c",
+            "id": "7e2c1d2df549ec10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oneshots - House Pond/Oneshot - Part II/Trial by Fire.md",
-                "mode": "preview",
+                "file": "A Dream of The Nine/Myth/Demons/Ezechiel the Fallen.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trial by Fire"
+              "title": "Ezechiel the Fallen"
+            }
+          },
+          {
+            "id": "4f1193514214cc2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Dream of The Nine/Myth/Somniatores/Soliel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soliel"
             }
           }
         ]
       },
       {
-        "id": "bfd4c53faa1d7de3",
+        "id": "2a126a6e4f3a8a3a",
         "type": "tabs",
-        "dimension": 50.129533678756474,
         "children": [
           {
-            "id": "12a7a9d218ecc946",
+            "id": "76cf82831847f417",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/NPCs/Belril of Al'Var.md",
+                "file": "A Dream of The Nine/Myth/Myth, A Dream Coming True.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Belril of Al'Var"
+              "title": "Myth, A Dream Coming True"
             }
           },
           {
-            "id": "40470b00225acd7f",
+            "id": "5a358317f2927d34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appleton.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Appleton"
-            }
-          },
-          {
-            "id": "70e49db1c10157b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/The Stewardy of Patria/Western Partia/Ample Grove/Ample Grove.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ample Grove"
-            }
-          },
-          {
-            "id": "ed6d2264c3930b7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Pond/House Pond.md",
+                "file": "A Dream of The Nine/Myth/Somniatores/The Great Raven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "House Pond"
+              "title": "The Great Raven"
             }
           },
           {
-            "id": "8d306eb6193e7351",
+            "id": "0fa581227c1b7b44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Pond/Knight's Rest.md",
-                "mode": "preview",
+                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Chronology of Utland.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knight's Rest"
+              "title": "Chronology of Utland"
             }
           },
           {
-            "id": "029b70e1bbe9eb70",
+            "id": "a6c460780e54b720",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Pond/Garibald Pond.md",
-                "mode": "preview",
+                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Ard Caëd/History/Chronology of High Forest.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garibald Pond"
+              "title": "Chronology of High Forest"
+            }
+          },
+          {
+            "id": "dd7472535351e331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Dream of The Nine/Old Empire/Sanctuary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sanctuary"
+            }
+          },
+          {
+            "id": "64ccad76db7d858d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Religion-Clergy/The Church of The Eight/The Church of The Eight.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Church of The Eight"
+            }
+          },
+          {
+            "id": "07b1591fa8deef5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Belief of The Eight.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Belief of The Eight"
+            }
+          },
+          {
+            "id": "c45147620b18db07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lexicon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lexicon"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,18 +312,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b320407173eed88c",
+  "active": "7e2c1d2df549ec10",
   "lastOpenFiles": [
+    "A Dream of The Nine/Myth/Myth, A Dream Coming True.md",
+    "A Dream of The Nine/Myth/Demons/Ezechiel the Fallen.md",
+    "A Dream of The Nine/Myth/Demons",
+    "Lexicon.md",
+    "A Dream of The Nine/Myth/Somniatores/The Great Raven.md",
+    "A Dream of The Nine/Myth/Somniatores/Soliel.md",
+    "A Dream of The Nine/Myth/Somniatores/Meh'ker.md",
+    "A Dream of The Nine/Myth/Somnidei",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Ard Caëd/History/Chronology of High Forest.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Chronology of Utland.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Religion-Clergy/The Church of The Eight/The Church of The Eight.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Book of The Eight.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Belief of The Eight.md",
+    "A Dream of The Nine/Old Empire/Sanctuary.md",
+    "A Dream of The Nine/Old Empire",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Ard Caëd/History",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/NPCs/Belril of Al'Var.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Pond/Garibald Pond.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Pond/Knight's Rest.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/The Stewardy of Patria/Western Partia/Ample Grove/Ample Grove.md",
+    "Appleton.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Pond/House Pond.md",
     "Oneshots - House Pond/Oneshot - Part II/Trial by Fire.md",
     "Oneshots - House Pond/Oneshot - Two Fishes in One Pond - Part I/Two Fishes in One Pond.md",
     "Oneshots - House Pond/Oneshot - Part II/Images/Aidan.jpg",
-    "Appleton.md",
     "Assets/World Assets/Belril of Al'var.jpg",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/The Stewardy of Patria/Western Partia/Ample Grove/Ample Grove.md",
     "Oneshots - House Pond/Oneshot - Part II/Images",
     "Oneshots - House Pond/Oneshot - Part II/Images/Captain Titus.jpg",
     "Assets/World Assets/Cato.jpg",
@@ -292,29 +347,13 @@
     "Oneshot - A Night in Fascesstadt/NPCs/Leman of Al’Var.md",
     "Campaign - Without A Sound/Party 3 (Abandoned)/Marsh/Marsh Rivers.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Lightkeeper.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Chronology of Utland.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/Forlornwoods.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Lavoine/Iris Lavoine.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Pond/Sir Gregory Pond.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Farkvel/Diethard Farkvel.md",
-    "Campaign - Without A Sound/Party 3 (Abandoned)/Forge Moltin/Forge Moltin.md",
-    "Campaign - Without A Sound/Party 3 (Abandoned)/Marsh/Letter from Y.md",
-    "Campaign - Without A Sound/Party 3 (Abandoned)/Elia Blackthorn/Eira of Blackthorn.md",
-    "Campaign - Without A Sound/Party 3 (Abandoned)/Athena Lycaon/Athena Lycaon.md",
-    "Campaign - Without A Sound/Party 3 (Abandoned)/Tu-ran.md",
-    "Campaign - Without A Sound/Party 3 (Abandoned)/lazar's character.md",
     "Campaign - Without A Sound/Party 3 (Abandoned)/Marsh",
     "Campaign - Without A Sound/Party 3 (Abandoned)/Forge Moltin",
     "Campaign - Without A Sound/Party 3 (Abandoned)/Elia Blackthorn",
     "Campaign - Without A Sound/Party 3 (Abandoned)/Athena Lycaon",
     "Campaign - Without A Sound/Party 3 (Abandoned)",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Culture/Sötonian.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Culture/Utlian.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Culture",
     "Assets/World Assets/forest_path.jpg",
-    "Oneshots - House Pond/Oneshot - Two Fishes in One Pond - Part I/sir gregory pond.pdf",
-    "Oneshots - House Pond/Oneshot - Two Fishes in One Pond - Part I/gentoris wooddreamer.pdf",
-    "Oneshots - House Pond",
     "Assets/World Assets/Trial By Combat Field.jpg",
     "Assets/World Assets/Knight's Rest.png",
     "Assets/World Assets/House Vine.png",
