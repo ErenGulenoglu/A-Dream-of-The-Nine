@@ -8,34 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e2c1d2df549ec10",
+            "id": "b17a78810f17466b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Dream of The Nine/Myth/Demons/Ezechiel the Fallen.md",
+                "file": "Campaign - Plague of Old Town/Session 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ezechiel the Fallen"
+              "title": "Session 0"
             }
           },
           {
-            "id": "4f1193514214cc2a",
+            "id": "23e6b2ea82e2f368",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Dream of The Nine/Myth/Somniatores/Soliel.md",
+                "file": "Campaign - Plague of Old Town/Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soliel"
+              "title": "Session 1"
+            }
+          },
+          {
+            "id": "810296784c7234d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Dream of The Nine/Sötonia Empire/Provinces/Palalia/Palaia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Palaia"
+            }
+          },
+          {
+            "id": "8f6e1d78ac27bac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Dream of The Nine/Sötonia Empire/Provinces/Palalia/Old Town.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Old Town"
+            }
+          },
+          {
+            "id": "223bb4ccff6fe292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Dream of The Nine/Sötonia Empire/Religion/Religion in Sötonia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Religion in Sötonia"
+            }
+          },
+          {
+            "id": "79161a8660923be4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Dream of The Nine/Sötonia Empire/Sötonian Empire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sötonian Empire"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "2a126a6e4f3a8a3a",
@@ -48,7 +105,7 @@
               "type": "markdown",
               "state": {
                 "file": "A Dream of The Nine/Myth/Myth, A Dream Coming True.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -56,21 +113,35 @@
             }
           },
           {
-            "id": "5a358317f2927d34",
+            "id": "ba5d74e5affde425",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Dream of The Nine/Myth/Somniatores/The Great Raven.md",
+                "file": "A Dream of The Nine/Planes/Underworld.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Great Raven"
+              "title": "Underworld"
             }
           },
           {
-            "id": "0fa581227c1b7b44",
+            "id": "4a19aef120f0ed96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/The Stewardy of Patria/Western Partia/Ample Grove/Ample Grove.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ample Grove"
+            }
+          },
+          {
+            "id": "6bf3b1eaec7562f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,49 +155,7 @@
             }
           },
           {
-            "id": "a6c460780e54b720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Ard Caëd/History/Chronology of High Forest.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chronology of High Forest"
-            }
-          },
-          {
-            "id": "dd7472535351e331",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Dream of The Nine/Old Empire/Sanctuary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sanctuary"
-            }
-          },
-          {
-            "id": "64ccad76db7d858d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Religion-Clergy/The Church of The Eight/The Church of The Eight.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Church of The Eight"
-            }
-          },
-          {
-            "id": "07b1591fa8deef5f",
+            "id": "909b71c0be4af239",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -140,20 +169,35 @@
             }
           },
           {
-            "id": "c45147620b18db07",
+            "id": "7d202503dec1628f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lexicon.md",
+                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Lightkeeper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lexicon"
+              "title": "The Lightkeeper"
+            }
+          },
+          {
+            "id": "d7a451bc99fd5ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/King's Stand.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "King's Stand"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -187,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dream",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,7 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 200
   },
   "right": {
     "id": "af39ae8d8e1021dc",
@@ -312,47 +356,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e2c1d2df549ec10",
+  "active": "223bb4ccff6fe292",
   "lastOpenFiles": [
-    "A Dream of The Nine/Myth/Myth, A Dream Coming True.md",
-    "A Dream of The Nine/Myth/Demons/Ezechiel the Fallen.md",
-    "A Dream of The Nine/Myth/Demons",
-    "Lexicon.md",
-    "A Dream of The Nine/Myth/Somniatores/The Great Raven.md",
-    "A Dream of The Nine/Myth/Somniatores/Soliel.md",
-    "A Dream of The Nine/Myth/Somniatores/Meh'ker.md",
-    "A Dream of The Nine/Myth/Somnidei",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Ard Caëd/History/Chronology of High Forest.md",
+    "Campaign - Plague of Old Town/Session 0.md",
+    "Campaign - Plague of Old Town/Session 1.md",
+    "A Dream of The Nine/Sötonia Empire/Religion/Religion in Sötonia.md",
+    "A Dream of The Nine/Sötonia Empire/Provinces/Palalia/Palaia.md",
+    "A Dream of The Nine/Sötonia Empire/Sötonian Empire.md",
+    "A Dream of The Nine/Sötonia Empire/Provinces/Palalia/Old Town.md",
+    "A Dream of The Nine/Myth/Somniatores/Aqua and Aura.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Chronology of Utland.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Religion-Clergy/The Church of The Eight/The Church of The Eight.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Book of The Eight.md",
+    "Concepts on Development/Developing Concepts.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/King's Stand.md",
+    "A Dream of The Nine/Sötonia Empire/History/Chronology of Old Empire.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Geography of SPQU.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Lightkeeper.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/The Stewardy of Patria/Ewyngard.md",
+    "A Dream of The Nine/Sötonia Empire/Noble Houses/House Helmanar/House Helmanar.md",
+    "A Dream of The Nine/Sötonia Empire/Provinces/Palalia",
+    "A Dream of The Nine/Sötonia Empire/Untitled",
+    "A Dream of The Nine/Sötonia Empire/Noble Houses/House Helmanar",
+    "A Dream of The Nine/Sötonia Empire/Noble Houses",
+    "A Dream of The Nine/Myth/Devils/Ezekiel the Betrayer.md",
+    "A Dream of The Nine/Sötonia Empire/Provinces",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Belief of The Eight.md",
-    "A Dream of The Nine/Old Empire/Sanctuary.md",
-    "A Dream of The Nine/Old Empire",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Ard Caëd/History",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/NPCs/Belril of Al'Var.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Pond/Garibald Pond.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Pond/Knight's Rest.md",
+    "Campaign - Plague of Old Town",
+    "A Dream of The Nine/Myth/Myth, A Dream Coming True.md",
+    "A Dream of The Nine/Sötonia Empire/Religion",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/The Stewardy of Patria/Western Partia/Ample Grove/Ample Grove.md",
     "Appleton.md",
     "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Noble Houses/House Pond/House Pond.md",
-    "Oneshots - House Pond/Oneshot - Part II/Trial by Fire.md",
-    "Oneshots - House Pond/Oneshot - Two Fishes in One Pond - Part I/Two Fishes in One Pond.md",
+    "A Dream of The Nine/Planes/Underworld.md",
+    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Traveler.md",
+    "A Dream of The Nine/Myth/Somniatores/The Great Raven.md",
+    "Lexicon.md",
+    "A Dream of The Nine/Myth/Somniatores/Soliel.md",
+    "A Dream of The Nine/Sötonia Empire/History",
+    "A Dream of The Nine/Myth/Somnidei",
+    "A Dream of The Nine/Myth/Devils",
     "Oneshots - House Pond/Oneshot - Part II/Images/Aidan.jpg",
     "Assets/World Assets/Belril of Al'var.jpg",
-    "Oneshots - House Pond/Oneshot - Part II/Images",
     "Oneshots - House Pond/Oneshot - Part II/Images/Captain Titus.jpg",
     "Assets/World Assets/Cato.jpg",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/History/Battle of Embers.md",
-    "Oneshot - A Night in Fascesstadt/NPCs/Leman of Al’Var.md",
-    "Campaign - Without A Sound/Party 3 (Abandoned)/Marsh/Marsh Rivers.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/Religions/The Belief of The Eight/The Lightkeeper.md",
-    "A Dream of The Nine/The Land of The Awakened (Marterial Plance)/The Senate and People of Utland/Provinces/Independent/Forlornwoods/Locations/Forlornwoods.md",
-    "Campaign - Without A Sound/Party 3 (Abandoned)/Marsh",
-    "Campaign - Without A Sound/Party 3 (Abandoned)/Forge Moltin",
-    "Campaign - Without A Sound/Party 3 (Abandoned)/Elia Blackthorn",
-    "Campaign - Without A Sound/Party 3 (Abandoned)/Athena Lycaon",
-    "Campaign - Without A Sound/Party 3 (Abandoned)",
     "Assets/World Assets/forest_path.jpg",
     "Assets/World Assets/Trial By Combat Field.jpg",
     "Assets/World Assets/Knight's Rest.png",

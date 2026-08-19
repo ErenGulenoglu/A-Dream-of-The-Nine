@@ -12,7 +12,7 @@
 </span>
 <hr style="margin: 0;">
 
-The Traveler is the master of the [[The River Between Realms|River Between Realms]], where all realms flow into one another. As the Lord of the River, it ferries the souls of the dead across its endless waters. Each soul steps into its boat, where it weighs their journey. It delivers them to the realm they are meant for—be it [[Caeleus]] or [[Avernus]]. It rows endlessly between the worlds, its course never fixed, its task never complete for mortals are always dying. To protect the will, one must accept death and the truth of mortality.
+The Traveler is the master of the [[The River Between Realms|River Between Realms]], where all realms flow into one another. As the Lord of the River, it ferries the souls of the dead across its endless waters. Each soul steps into its boat, where it weighs their journey. It delivers them to the realm they are meant for—be it [[Caeleus]] or [[Underworld]]. It rows endlessly between the worlds, its course never fixed, its task never complete for mortals are always dying. To protect the will, one must accept death and the truth of mortality.
 
 Though the other gods love and guide the sleepers, they entrusted the Traveler with judging their creations—for it alone does not interfere in the affairs of the living, nor does it bear affection or disdain for the created. It judges all with inevitable fairness.
 

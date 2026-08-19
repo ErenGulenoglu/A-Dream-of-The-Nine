@@ -69,8 +69,8 @@ For there was evil, born in the emptiness—where the light of the Ethereal Fire
 **_Where are the gods now?_**  
 The Eight have withdrawn to Caeleus, the highest realm, after defending **Somnium** from the invasion of evil. With their strength spent and their purpose fulfilled—for now—they entrusted the dream to the sleepers. Somnium is theirs to protect, until the gods return once more.
 
-**_Why do the sleepers go to Caeleus or Avernus after death?_**  
-When evil once invaded the dream, it left behind a stain—corruption that clings to the souls of sleepers, whispering vile urges and tempting them astray. In response, the Eight shaped Caeleus and Avernus: realms of retribution and reward. Those who stood fast and upheld the will are welcomed into Caeleus, to dwell among the gods. Those who let evil overcome them are cast into Avernus, where they face the judgment their deeds have earned.
+**_Why do the sleepers go to Caeleus or Underworld after death?_**  
+When evil once invaded the dream, it left behind a stain—corruption that clings to the souls of sleepers, whispering vile urges and tempting them astray. In response, the Eight shaped Caeleus and Underworld: realms of retribution and reward. Those who stood fast and upheld the will are welcomed into Caeleus, to dwell among the gods. Those who let evil overcome them are cast into Underworld, where they face the judgment their deeds have earned.
 <hr style="margin: 0;">
 
 ## The Eight
