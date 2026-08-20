@@ -1,1 +1,1 @@
-House Helmanar is 
+House Helmanar's coat of arms is a yellow burning sword, with flames coming off it like sunrays on a white field.

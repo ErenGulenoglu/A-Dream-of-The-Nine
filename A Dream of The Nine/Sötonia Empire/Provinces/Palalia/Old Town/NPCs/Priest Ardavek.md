@@ -1,0 +1,1 @@
+Ardavek was an old **priest** of [[Lady of Flames]] with sagging eyelids and long hair missing in places. He was an influential figure in the [[Temple of Fire]] of [[Old Town]], and a bureaucrat of the city.
